@@ -9,17 +9,18 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+With this analytics project I am looking forward to improve my skills in python and how to use python for data analysis, also this data set is useful for professional FIFA players. I am interested in this dataset because I personally love FIFA myself and I love the game of football as I grew up watching it which is the reason I chose this dataset. Personally from this data set I would like to know about the highest rated players in the game and whether the pay of a player depends on the position he plays in? (for example: whether forward players are paid generally more than defenders). I actually imagine myself building a whole working user-facing dashboard with this dataset as it is very much possible and will be a good addition to summarize the data for users. It can be used to track and organize and display the data in an elegant way.
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The data set my team agreed on is the FIFA 21 dataset. After brainstorming for some time, we found common ground at football and combined that with the game FIFA 21 as we all found the dataset for this project to be perfect. The data set contains data about every player in the game FIFA 21 which was released in October 2020. The data set contains data of players Rating, their age, their nationality, the position that they play and their potential for growth in game. The purpose of our project is to give other players who are passionate about FIFA a detailed analysis about all of the players for them to make the right choice to create their perfect team. The data values in the data were collected from (fifaindex.com) and were compiled by Aayush Mishra all credits go to this person.
+
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Aditya Tripathi: Man of focus, commitment and sheer will!
+- Sambhav Garg: one sentence about you!
+- Mrunal Aroskar: one sentence about you!
 
 ## Images
 
