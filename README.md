@@ -18,8 +18,8 @@ The data set my team agreed on is the FIFA 21 dataset. After brainstorming for s
 
 ## Team Members
 
-- Aditya Tripathi: Man of focus, commitment and sheer will!
-- Sambhav Garg: one sentence about you!
+- Aditya Tripathi: Man of focus, commitment and sheep will!
+- Sambhav Garg: Passionate compi sci and data sci student!
 - Mrunal Aroskar: one sentence about you!
 
 ## Images
