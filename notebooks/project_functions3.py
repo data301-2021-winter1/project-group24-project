@@ -15,5 +15,6 @@ def loadandprocess(path):
       .rename(columns={"overall": "OverallRating", "potential": "PotentialGrowth"},inplace=False)
        )
     
+    #insert function
     data1.insert(len(data1.columns), 'Potential-Overall', (data1.PotentialGrowth-data1.OverallRating), allow_duplicates=False)
     return data1
