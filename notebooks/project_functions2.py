@@ -20,5 +20,3 @@ def load_and_process(csv_file):
         
     df2=(df1.copy().rename(columns={"potential": "potential growth"}))
     return df2
-    
-dfa = unprocessed('/Users/sambhavgarg/Desktop/DATA301/project-group24-project/FIFA-21 Complete.csv')
