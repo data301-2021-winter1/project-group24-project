@@ -1,0 +1,6099 @@
+name,OverallRating,age,hits,PotentialGrowth,Potential-Overall
+Lionel Messi,94,33,299,94,0
+Cristiano Ronaldo,93,35,276,93,0
+Neymar Jr,92,28,186,92,0
+Virgil van Dijk,91,29,127,92,1
+Jan Oblak,91,27,47,93,2
+Kevin De Bruyne,91,29,119,91,0
+Robert Lewandowski,91,31,89,91,0
+Eden Hazard,91,29,66,91,0
+Alisson,90,27,53,91,1
+Mohamed Salah,90,28,94,90,0
+Sadio Mané,90,28,76,90,0
+Marc-André ter Stegen,90,28,68,93,3
+Sergio Agüero,90,32,50,90,0
+Kylian Mbappé,89,21,222,95,6
+N'Golo Kanté,89,29,75,89,0
+Harry Kane,89,27,64,91,2
+Antoine Griezmann,89,29,66,89,0
+Toni Kroos,89,30,37,89,0
+Luka Modric,89,34,31,89,0
+Luis Suárez,89,33,54,89,0
+Manuel Neuer,89,34,42,89,0
+Sergio Ramos,89,34,55,89,0
+Ederson,88,26,40,91,3
+Raheem Sterling,88,25,61,90,2
+Roberto Firmino,88,28,79,88,0
+Kalidou Koulibaly,88,29,78,90,2
+Casemiro,88,28,37,89,1
+De Gea,88,29,39,88,0
+Thibaut Courtois,88,28,34,89,1
+Sergio Busquets,88,32,34,88,0
+Pierre-Emerick Aubameyang,88,31,114,88,0
+Karim Benzema,88,32,51,88,0
+Samir Handanovic,88,36,13,88,0
+Piqué,88,33,41,88,0
+Giorgio Chiellini,88,35,19,88,0
+Bernardo Silva,87,25,53,90,3
+Joshua Kimmich,87,25,82,90,3
+Aymeric Laporte,87,26,38,90,3
+Paulo Dybala,87,26,95,90,3
+Heung Min Son,87,28,75,87,0
+Marco Verratti,87,27,45,88,1
+Paul Pogba,87,27,70,88,1
+Keylor Navas,87,33,28,87,0
+Ciro Immobile,87,30,130,87,0
+Christian Eriksen,87,28,48,87,0
+Parejo,87,31,14,87,0
+Marco Reus,87,31,42,87,0
+Wojciech Szczesny,87,30,17,88,1
+Ángel Di María,87,32,41,87,0
+Diego Godín,87,34,16,87,0
+Mats Hummels,87,31,18,87,0
+Dries Mertens,87,33,34,87,0
+David Silva,87,34,28,87,0
+Hugo Lloris,87,33,19,87,0
+Thiago Silva,87,35,28,87,0
+Jadon Sancho,86,20,300,94,8
+Milan Škriniar,86,25,62,90,4
+Frenkie de Jong,86,23,126,92,6
+Leroy Sané,86,24,74,90,4
+Clément Lenglet,86,25,58,90,4
+Andrew Robertson,86,26,66,89,3
+Bruno Fernandes,86,25,127,89,3
+Timo Werner,86,24,136,89,3
+Fabinho,86,26,44,88,2
+Jamie Vardy,86,33,43,86,0
+Hakim Ziyech,86,27,113,87,1
+Marquinhos,86,26,48,90,4
+Riyad Mahrez,86,29,40,86,0
+Raphaël Varane,86,27,39,89,3
+Mauro Icardi,86,27,47,87,1
+Lorenzo Insigne,86,29,42,86,0
+Koke,86,28,15,86,0
+Romelu Lukaku,86,27,63,87,1
+Thiago,86,29,47,86,0
+Jordi Alba,86,31,35,86,0
+Leonardo Bonucci,86,33,17,86,0
+Toby Alderweireld,86,31,16,86,0
+Miralem Pjanic,86,30,31,86,0
+Edinson Cavani,86,33,26,86,0
+Yann Sommer,86,31,5,86,0
+Alejandro Gómez,86,32,49,86,0
+Matthijs de Ligt,85,20,110,92,7
+Rodri,85,24,36,89,4
+Trent Alexander-Arnold,85,21,135,90,5
+Arthur,85,23,64,90,5
+Gianluigi Donnarumma,85,21,62,92,7
+André Onana,85,24,55,89,4
+Sergej Milinkovic-Savic,85,25,55,90,5
+Nabil Fekir,85,27,34,87,2
+José María Giménez,85,25,34,89,4
+Niklas Süle,85,24,42,90,5
+Saúl,85,25,39,89,4
+Serge Gnabry,85,25,79,87,2
+Samuel Umtiti,85,26,42,88,3
+Carvajal,85,28,24,85,0
+Luis Alberto,85,27,27,86,1
+Stefan de Vrij,85,28,19,86,1
+Pizzi,85,30,14,85,0
+Isco,85,28,25,85,0
+Iago Aspas,85,32,10,85,0
+Bernd Leno,85,28,30,87,2
+Thomas Müller,85,30,23,85,0
+Coutinho,85,28,49,85,0
+Roman Bürki,85,29,10,86,1
+Paulinho,85,32,22,85,0
+Péter Gulácsi,85,30,14,86,1
+Jordan Henderson,85,30,41,85,0
+Georginio Wijnaldum,85,29,40,85,0
+Axel Witsel,85,31,26,85,0
+Gareth Bale,85,31,69,85,0
+Jan Vertonghen,85,33,26,85,0
+Ivan Rakitic,85,32,38,85,0
+Gonzalo Higuaín,85,32,24,85,0
+Fernandinho,85,35,14,85,0
+Zlatan Ibrahimovic,85,38,189,85,0
+Kai Havertz,84,21,176,93,9
+Marcus Rashford,84,22,104,89,5
+Lautaro Martínez,84,22,138,91,7
+Wilfred Ndidi,84,23,36,88,4
+Lucas Hernández,84,24,47,89,5
+Kingsley Coman,84,24,65,88,4
+Alex Telles,84,27,42,85,1
+Julian Brandt,84,24,51,88,4
+Ricardo Pereira,84,26,28,86,2
+Thomas Partey,84,27,42,87,3
+Leon Goretzka,84,25,58,88,4
+Felipe,84,31,19,84,0
+Mateo Kovacic,84,26,43,87,3
+Jorginho,84,28,29,84,0
+Memphis Depay,84,26,75,87,3
+Josip Ilicic,84,32,41,84,0
+Allan,84,29,13,84,0
+Francesco Acerbi,84,32,15,84,0
+Anthony Lopes,84,29,5,86,2
+Wissam Ben Yedder,84,29,31,84,0
+James Rodríguez,84,29,41,84,0
+Neto,84,31,7,85,1
+Idrissa Gueye,84,30,30,84,0
+Alexandre Lacazette,84,29,43,84,0
+Kostas Manolas,84,29,11,85,1
+Alex Sandro,84,29,18,84,0
+Douglas Costa,84,29,24,84,0
+Oscar,84,28,25,84,0
+José Callejón,84,33,13,84,0
+Azpilicueta,84,30,25,84,0
+Arturo Vidal,84,33,53,84,0
+Edin Dzeko,84,34,13,84,0
+Éver Banega,84,32,9,84,0
+Radja Nainggolan,84,32,19,84,0
+Marcelo,84,32,22,84,0
+Lucas Leiva,84,33,10,84,0
+Blaise Matuidi,84,33,20,84,0
+Salvatore Sirigu,84,33,6,84,0
+João Moutinho,84,33,12,84,0
+Ousmane Dembélé,83,23,82,90,7
+Ronaldo Cabrais,83,28,22,83,0
+Josué Chiamulera,83,28,12,83,0
+Louri Beretta,83,28,15,83,0
+Oyarzabal,83,23,22,89,6
+Fabián,83,24,32,89,6
+Donny van de Beek,83,23,72,87,4
+Pau López,83,25,12,88,5
+Dakonam Djené,83,28,6,84,1
+Rafa,83,27,10,84,1
+Andrej Kramaric,83,29,10,83,0
+Marcelo Brozovic,83,27,18,85,2
+Duván Zapata,83,29,45,83,0
+Anderson Talisca,83,26,21,86,3
+Thomas Strakosha,83,25,16,88,5
+Anthony Martial,83,24,72,87,4
+Nicolás Tagliafico,83,27,28,84,1
+Dele Alli,83,24,52,88,5
+Alessio Romagnoli,83,25,49,89,6
+Grimaldo,83,24,34,87,4
+Raphaël Guerreiro,83,26,27,84,1
+Filip Kostic,83,27,16,83,0
+Yannick Carrasco,83,26,25,84,1
+Kepa,83,25,60,87,4
+Edin Višca,83,30,8,83,0
+Arkadiusz Milik,83,26,25,86,3
+Portu,83,28,6,83,0
+Marcel Sabitzer,83,26,20,85,2
+Raúl Jiménez,83,29,63,83,0
+Stefan Savic,83,29,12,84,1
+Thorgan Hazard,83,27,28,83,0
+Harry Maguire,83,27,48,86,3
+Gabriel Paulista,83,29,14,84,1
+Lucas Digne,83,27,18,86,3
+Dušan Tadic,83,31,12,83,0
+Charles Aránguiz,83,31,15,83,0
+Pablo Sarabia,83,28,33,84,1
+Wilfried Zaha,83,27,54,83,0
+Rodrigo,83,29,17,83,0
+Bartra,83,29,18,84,1
+David Alaba,83,28,46,84,1
+Joel Matip,83,28,14,84,1
+Juan Cuadrado,83,32,21,83,0
+Koen Casteels,83,28,3,85,2
+Daley Blind,83,30,20,83,0
+Muniain,83,27,9,83,0
+Kevin Trapp,83,30,11,83,0
+Kyle Walker,83,30,29,83,0
+Aaron Ramsey,83,29,14,83,0
+Marko Arnautovic,83,31,9,83,0
+Max Kruse,83,32,5,83,0
+Ivan Perišic,83,31,13,83,0
+Sami Khedira,83,33,19,83,0
+Rui Patrício,83,32,19,83,0
+Mesut Özil,83,31,44,83,0
+Marek Hamšík,83,33,12,83,0
+Ezequiel Garay,83,33,5,83,0
+Carlos Vela,83,31,20,83,0
+Steve Mandanda,83,35,4,83,0
+Kasper Schmeichel,83,33,41,83,0
+Raúl Albiol,83,34,7,83,0
+Santi Cazorla,83,35,22,83,0
+Gianluigi Buffon,83,42,50,83,0
+José María Sildero,82,28,17,82,0
+Egidio Maestre Schetino,82,28,12,82,0
+Rúben Dias,82,23,35,88,6
+Federico Valverde,82,22,87,90,8
+Jirí Pavlenka,82,28,3,83,1
+Achraf Hakimi,82,21,91,87,5
+Luka Jovic,82,22,46,88,6
+Gabriel Jesus,82,23,48,88,6
+Oswaldinato,82,28,20,82,0
+Nuno Padrenda,82,24,6,84,2
+Rosberto Dourado,82,20,13,82,0
+Juiano Mestres,82,24,6,82,0
+Raphaelito Anjos,82,32,3,82,0
+Aaron Wan-Bissaka,82,22,94,89,7
+Denis Zakaria,82,23,29,86,4
+Nélson Semedo,82,26,51,85,3
+Giovani Lo Celso,82,24,31,87,5
+Nicolas Pépé,82,25,79,87,5
+Steven Bergwijn,82,22,44,87,5
+Presnel Kimpembe,82,24,46,86,4
+Joe Gomez,82,23,66,89,7
+Gonçalo Guedes,82,23,25,88,6
+Rúben Neves,82,23,32,87,5
+David Soria,82,27,5,84,2
+Martin Ødegaard,82,21,68,88,6
+Naby Keïta,82,25,20,86,4
+Marco Asensio,82,24,47,86,4
+Davinson Sánchez,82,24,23,85,3
+James Maddison,82,23,64,87,5
+Martin Dúbravka,82,31,3,82,0
+Corentin Tolisso,82,25,38,85,3
+Matteo Politano,82,26,23,83,1
+Iñaki Williams,82,26,45,85,3
+Mike Maignan,82,25,18,86,4
+Ángel Correa,82,25,34,85,3
+Thomas Lemar,82,24,31,86,4
+Moussa Dembélé,82,24,23,86,4
+João Cancelo,82,26,43,86,4
+Adrien Rabiot,82,25,32,85,3
+Pacheco,82,28,3,84,2
+Andrea Belotti,82,26,28,85,3
+Emre Can,82,26,24,85,3
+Gerard Moreno,82,28,14,82,0
+Josef Martínez,82,27,27,84,2
+Matthias Ginter,82,26,25,83,1
+William Carvalho,82,28,13,82,0
+Sébastien Haller,82,26,16,84,2
+Antonio Rüdiger,82,27,24,84,2
+Karim Bellarabi,82,30,5,82,0
+Julian Draxler,82,26,31,83,1
+Felipe Anderson,82,27,14,82,0
+Lucas Moura,82,27,25,82,0
+Danilo Pereira,82,28,9,82,0
+Nacho Fernández,82,30,13,82,0
+Kevin Volland,82,27,8,83,1
+Jasper Cillessen,82,31,15,82,0
+Sergi Roberto,82,28,28,82,0
+Cédric Bakambu,82,29,8,82,0
+Mattia Perin,82,27,12,84,2
+Willian José,82,28,5,82,0
+Oliver Baumann,82,30,1,83,1
+Mário Fernandes,82,29,16,82,0
+Thomas Delaney,82,28,13,83,1
+Jesús Corona,82,27,21,83,1
+Alphonse Areola,82,27,18,86,4
+Illarramendi,82,30,4,82,0
+Taison,82,32,11,82,0
+Aleksandar Kolarov,82,34,14,82,0
+Fernando,82,33,9,82,0
+Fernando Muslera,82,34,6,82,0
+Willian,82,31,53,82,0
+Diego Costa,82,31,20,82,0
+Sergio Asenjo,82,31,2,83,1
+Javi Martínez,82,31,18,82,0
+Dimitri Payet,82,33,13,82,0
+Marcano,82,33,2,82,0
+Renato Augusto,82,32,9,82,0
+Miranda,82,35,4,82,0
+Stéphane Ruffier,82,33,1,82,0
+Falcao,82,34,29,82,0
+Franck Ribéry,82,37,31,82,0
+Héctor Herrera,82,30,11,82,0
+Jesús Navas,82,34,13,82,0
+Vincent Kompany,82,34,12,82,0
+Pepe,82,37,14,82,0
+Iniesta,82,36,57,82,0
+Segundo Mandíquez,81,31,3,81,0
+Luis Roberto Dálves,81,28,3,81,0
+Saúl Marcelo Ardero,81,32,0,81,0
+Jaime Nicolás Frendado,81,36,0,81,0
+Loren,81,26,3,84,3
+Éder Militão,81,22,48,88,7
+Maximiliano Gómez,81,23,13,87,6
+Tomáš Soucek,81,25,12,86,5
+David Neres,81,23,45,86,5
+Manuel Lazzari,81,26,11,82,1
+Houssem Aouar,81,22,71,89,8
+Richarlison,81,23,48,88,7
+Luimo Boas Santos,81,20,22,81,0
+Tony Abranjes,81,32,1,81,0
+Laure Santeiro,81,20,7,81,0
+Ben Chilwell,81,23,46,85,4
+Leon Bailey,81,22,44,88,7
+Mario Hermoso,81,25,21,87,6
+Ferland Mendy,81,25,48,86,5
+Moussa Marega,81,29,13,81,0
+Marcos Llorente,81,25,25,86,5
+Borja Iglesias,81,27,9,82,1
+Lucas Torreira,81,24,33,86,5
+Wout Weghorst,81,27,4,82,1
+Dani Ceballos,81,23,39,86,5
+Lukas Klostermann,81,24,32,85,4
+Victor Lindelöf,81,26,36,85,4
+Morales,81,33,7,81,0
+Youri Tielemans,81,23,35,87,6
+Ignacio Fernández,81,30,4,81,0
+Joaquín Correa,81,25,31,86,5
+Gerónimo Rulli,81,28,8,85,4
+João Mário,81,27,10,82,1
+Federico Bernardeschi,81,26,46,83,2
+Odisseas Vlachodimos,81,26,10,86,5
+Kerem Demirbay,81,27,9,84,3
+Gayà,81,25,18,86,5
+Daniele Rugani,81,26,26,84,3
+Marcel Halstenberg,81,28,17,81,0
+Piotr Zielinski,81,26,17,85,4
+Emil Forsberg,81,28,10,81,0
+Esteban Andrada,81,29,7,82,1
+Alessio Cragno,81,26,8,87,6
+Juan Bernat,81,27,24,82,1
+Jordan Pickford,81,26,18,84,3
+Iñigo Martínez,81,29,10,82,1
+Eran Zahavi,81,33,0,81,0
+Kurt Zouma,81,25,56,84,3
+John Stones,81,26,33,84,3
+Alessandro Florenzi,81,29,11,81,0
+Suso,81,26,11,81,0
+Deulofeu,81,26,27,82,1
+Thomas Meunier,81,28,29,81,0
+Martin Hinteregger,81,27,3,83,2
+Geoffrey Kondogbia,81,27,17,82,1
+Rafinha,81,27,21,82,1
+Agustín Marchesín,81,32,2,81,0
+Benjamin Lecomte,81,29,8,83,2
+Jordi Masip,81,31,6,81,0
+Sebastián Coates,81,29,3,81,0
+Kevin Kampl,81,29,16,81,0
+Xherdan Shaqiri,81,28,18,81,0
+Henrikh Mkhitaryan,81,31,22,81,0
+Marcos Alonso,81,29,26,81,0
+Ander Herrera,81,30,16,81,0
+Eduardo Salvio,81,30,8,81,0
+Stephan El Shaarawy,81,27,30,81,0
+Adem Ljajic,81,28,4,81,0
+Chris Smalling,81,30,31,81,0
+Luuk de Jong,81,29,12,81,0
+Giacomo Bonaventura,81,30,13,81,0
+Nicolas Nkoulou,81,30,5,81,0
+Marlos,81,32,4,81,0
+Mario Balotelli,81,29,34,81,0
+Kieran Trippier,81,29,17,81,0
+Luiz Gustavo,81,33,4,81,0
+Giuliano,81,30,3,81,0
+Alexis Sánchez,81,31,46,81,0
+Sebastian Giovinco,81,33,14,81,0
+Jérôme Boateng,81,31,15,81,0
+Yuri Berchiche,81,30,9,81,0
+David Luiz,81,33,35,81,0
+Simon Kjær,81,31,23,81,0
+Adán,81,33,10,81,0
+Sven Bender,81,31,10,81,0
+Lars Bender,81,31,5,81,0
+Sokratis,81,32,18,81,0
+Laurent Koscielny,81,34,7,81,0
+Lukasz Fabianski,81,35,7,81,0
+Andrea Consigli,81,33,3,81,0
+Fabio Quagliarella,81,37,5,81,0
+André-Pierre Gignac,81,34,10,81,0
+James Milner,81,34,21,81,0
+Rune Almenning Jarstein,81,35,5,81,0
+Mauro Evidio Nérez,80,32,4,80,0
+Matías David Baldona,80,36,4,80,0
+Jorge Ezequiel Serendero,80,32,1,80,0
+Reguilón,80,23,44,87,7
+Vinícius,80,25,20,85,5
+Viktor Tsygankov,80,22,14,86,6
+Dani Olmo,80,22,47,89,9
+João Félix,80,20,133,93,13
+Dominik Livakovic,80,25,8,86,6
+Erling Braut Haaland,80,20,371,90,10
+Tanguy Ndombele,80,23,46,88,8
+Carlos Soler,80,23,15,86,6
+Raphinha,80,23,8,85,5
+Christopher Nkunku,80,22,32,86,6
+Çaglar Söyüncü,80,24,42,85,5
+Welington Dano,80,20,7,80,0
+Adryan Zonta,80,28,5,80,0
+Everton Andrão,80,24,16,80,0
+Héniton Pires,80,24,1,82,2
+Dayot Upamecano,80,21,127,89,9
+Milot Rashica,80,24,30,86,6
+Lorenzo Pellegrini,80,24,24,85,5
+Marcus Thuram,80,22,19,84,4
+Yeray,80,25,11,84,4
+Christian Pulisic,80,21,139,86,6
+Rodrigo Bentancur,80,23,62,87,7
+Marko Dmitrovic,80,28,3,81,1
+Benjamin Pavard,80,24,65,85,5
+Abdou Diallo,80,24,13,84,4
+Alexandr Golovin,80,24,34,86,6
+Eric Bailly,80,26,31,83,3
+Konrad Laimer,80,23,20,85,5
+Merino,80,24,13,86,6
+Diogo Jota,80,23,32,86,6
+Karl Toko-Ekambi,80,27,8,81,1
+Valentin Rongier,80,25,6,83,3
+Mata,80,31,5,80,0
+Harry Winks,80,24,22,85,5
+Hirving Lozano,80,24,69,84,4
+Jason Denayer,80,25,16,86,6
+Matias Vecino,80,28,13,80,0
+Tiemoué Bakayoko,80,25,19,82,2
+Diego Carlos,80,27,97,83,3
+Allan Saint-Maximin,80,23,57,86,6
+Dani García,80,30,4,80,0
+Armando Izzo,80,28,8,82,2
+Walter Benítez,80,27,9,83,3
+Darío Benedetto,80,30,14,80,0
+Franco Armani,80,33,10,80,0
+Thiago Mendes,80,28,11,80,0
+Andreas Christensen,80,24,23,85,5
+André Gomes,80,26,11,83,3
+Morgan Sanson,80,25,13,84,4
+Fred,80,27,34,82,2
+Nathan Aké,80,25,95,84,4
+Lucas Vázquez,80,29,16,80,0
+Munas Dabbur,80,28,6,80,0
+Adnan Januzaj,80,25,18,83,3
+Gabriel,80,26,5,83,3
+Abdoulaye Doucouré,80,27,15,83,3
+Hakan Çalhanoglu,80,26,34,81,1
+Yussuf Poulsen,80,26,19,82,2
+Jack Grealish,80,24,106,85,5
+Alassane Plea,80,27,11,81,1
+Taras Stepanenko,80,30,2,80,0
+Luke Shaw,80,25,34,82,2
+Lucas Ocampos,80,26,28,83,3
+Matija Nastasic,80,27,6,82,2
+Benjamin Mendy,80,26,35,85,5
+Willi Orban,80,27,11,82,2
+Šime Vrsaljko,80,28,8,80,0
+Nick Pope,80,28,61,81,1
+Zé Luís,80,29,1,80,0
+Álvaro,80,30,6,80,0
+Willy Boly,80,29,5,80,0
+James Tarkowski,80,27,5,81,1
+Simone Zaza,80,29,8,80,0
+Sergi Darder,80,26,4,83,3
+Salif Sané,80,29,9,80,0
+Matt Doherty,80,28,4,80,0
+Aïssa Mandi,80,28,36,81,1
+Ismaily,80,30,7,80,0
+Hans Vanaken,80,27,4,80,0
+Campaña,80,27,2,83,3
+Granit Xhaka,80,27,24,81,1
+Luis Muriel,80,29,10,80,0
+Alex Oxlade-Chamberlain,80,26,24,83,3
+Josuha Guilavogui,80,29,3,80,0
+Enzo Pérez,80,34,2,80,0
+Dejan Lovren,80,31,32,80,0
+Aitor,80,29,3,82,2
+Nicolás Otamendi,80,32,14,80,0
+Mario Götze,80,28,25,80,0
+Nemanja Matic,80,31,17,80,0
+Benjamin André,80,29,4,80,0
+Guaita,80,33,2,80,0
+Pedro,80,33,17,80,0
+Hulk,80,34,41,80,0
+Bas Dost,80,31,4,80,0
+Artem Dzyuba,80,31,13,80,0
+Lars Stindl,80,31,3,80,0
+Gylfi Sigur?sson,80,30,9,80,0
+Marco Parolo,80,35,8,80,0
+Sidnei,80,30,3,80,0
+Vedran Corluka,80,34,3,80,0
+Olivier Giroud,80,33,26,80,0
+Juan Mata,80,32,11,80,0
+Beñat,80,33,6,80,0
+Mathieu Valbuena,80,35,5,80,0
+Marcelo Díaz,80,33,1,80,0
+Kévin Gameiro,80,33,5,80,0
+Lukasz Piszczek,80,35,14,80,0
+Diego Valeri,80,34,1,80,0
+Andrés Guardado,80,33,9,80,0
+Raúl García,80,34,6,80,0
+Erik Lamela,80,28,20,80,0
+Jonny Evans,80,32,12,80,0
+Stefan Radu,80,33,14,80,0
+Ben Foster,80,37,5,80,0
+Jorge Molina,80,38,3,80,0
+Igor Akinfeev,80,34,10,80,0
+José Sosa,80,35,1,80,0
+Lisandro López,80,37,13,80,0
+Nani,80,33,11,80,0
+Wayne Rooney,80,34,54,80,0
+Joaquín,80,39,16,80,0
+Renan Lodi,79,22,31,86,7
+Enzo Manuel Aguerro,79,32,2,79,0
+Leandro Miguel Sáreda,79,28,0,79,0
+Enzo Martín Riquero,79,32,0,79,0
+Daniel Martín Lenzado,79,32,1,79,0
+Ferrán Torres,79,20,139,88,9
+Junior Firpo,79,23,27,85,6
+Nemanja Maksimovic,79,25,5,84,5
+Lisandro Martínez,79,22,24,86,7
+Cucurella,79,22,46,88,9
+Vinícius Jr.,79,20,133,92,13
+Dan-Axel Zagadou,79,21,57,86,7
+Wendel,79,22,7,87,8
+Ibrahima Konaté,79,21,74,88,9
+Scott McTominay,79,23,44,86,7
+Matías Zaracho,79,22,35,85,6
+Jonathan Ikoné,79,22,34,86,7
+Odriozola,79,24,38,84,5
+Dean Henderson,79,23,46,87,8
+Mason Mount,79,21,136,87,8
+Amine Harit,79,23,20,85,6
+Ruslan Malinovskyi,79,27,26,80,1
+Alban Lafont,79,21,38,87,8
+Tammy Abraham,79,22,83,86,7
+Unai Simón,79,23,18,85,6
+Matheus Bardeira,79,20,3,81,2
+Arturo Inálcio,79,20,0,81,2
+Gabri Prestão,79,28,1,79,0
+Vincente Dourado,79,24,0,81,2
+Melvin Parrela,79,20,1,79,0
+Antônio Chiamuloira,79,20,4,79,0
+Maikel Catarino,79,24,6,79,0
+Pierre Lees-Melou,79,27,4,80,1
+Stefano Sensi,79,24,13,84,5
+Rubén Alcaraz,79,29,2,79,0
+Manuel Akanji,79,25,33,85,6
+Kasper Dolberg,79,22,23,85,6
+Florian Grillitsch,79,24,2,83,4
+Sander Berge,79,22,31,87,8
+Oleksandr Zinchenko,79,23,45,85,6
+Pablo Fornals,79,24,7,85,6
+Thilo Kehrer,79,23,31,84,5
+Nadiem Amiri,79,23,19,85,6
+Joan Jordán,79,26,10,84,5
+Cristian Pavón,79,24,23,85,6
+Stefan Lainer,79,27,2,80,1
+Krzysztof Piatek,79,25,30,84,5
+Jony,79,29,11,79,0
+Petros,79,31,2,79,0
+Julian Weigl,79,24,13,82,3
+Nico Elvedi,79,23,18,84,5
+Dominic Calvert-Lewin,79,23,11,84,5
+Wu Lei,79,28,16,79,0
+Rafael Santos Borré,79,24,17,85,6
+Yerry Mina,79,25,14,83,4
+Munir,79,24,21,84,5
+Ante Rebic,79,26,46,82,3
+Baptiste Santamaria,79,25,3,83,4
+Stanislav Lobotka,79,25,6,84,5
+Capa,79,28,5,79,0
+Lucas Alario,79,27,8,80,1
+Juan Musso,79,26,15,82,3
+Jean-Philippe Gbamin,79,24,8,84,5
+Carlos Izquierdoz,79,31,3,79,0
+Alexey Miranchuk,79,24,11,84,5
+Abderrazak Hamdallah,79,29,8,79,0
+Ruben Loftus-Cheek,79,24,16,85,6
+Pierre-Emile Højbjerg,79,24,18,84,5
+Ricardo Horta,79,25,5,82,3
+Rony Lopes,79,24,14,84,5
+Santi Mina,79,24,7,84,5
+Leander Dendoncker,79,25,15,84,5
+Rubén Peña,79,29,3,79,0
+Domenico Berardi,79,25,13,82,3
+Samu Castillejo,79,25,37,81,2
+Jonny,79,26,10,82,3
+Otávio,79,25,7,82,3
+De Tomás,79,25,11,83,4
+Fabian Schär,79,28,4,81,2
+Omar Mascarell,79,27,3,81,2
+Joël Veltman,79,28,13,80,1
+Ryan Fraser,79,26,19,80,1
+Leandro Paredes,79,26,29,83,4
+Maximilian Arnold,79,26,9,82,3
+Luka Milivojevic,79,29,5,79,0
+Denis Cheryshev,79,29,9,79,0
+Leo Baptistao,79,27,9,80,1
+Ben Davies,79,27,15,80,1
+James Ward-Prowse,79,25,6,83,4
+Denis Suárez,79,26,12,80,1
+Takashi Inui,79,32,3,79,0
+Michy Batshuayi,79,26,30,82,3
+Roque Mesa,79,31,1,79,0
+Santiago Arias,79,28,24,79,0
+M'Baye Niang,79,25,12,83,4
+Héctor Bellerín,79,25,47,84,5
+Pavel Kaderábek,79,28,4,79,0
+Leonardo Spinazzola,79,27,10,79,0
+Fernando,79,28,5,80,1
+Jordan Veretout,79,27,7,81,2
+Ciprian Tataru?anu,79,34,3,79,0
+Cristian Tello,79,28,6,79,0
+Lewis Dunk,79,28,7,81,2
+Matz Sels,79,28,2,81,2
+Sergi Gómez,79,28,6,81,2
+Ibai Gómez,79,30,2,79,0
+Danilo,79,29,16,79,0
+Domagoj Vida,79,31,6,79,0
+Ross Barkley,79,26,22,82,3
+Sérgio Oliveira,79,28,2,80,1
+Serge Aurier,79,27,56,80,1
+Grzegorz Krychowiak,79,30,4,79,0
+Laguardia,79,30,0,79,0
+Andy Delort,79,28,2,79,0
+Younès Belhanda,79,30,1,79,0
+Germán Pezzella,79,29,8,81,2
+Herrerín,79,32,5,79,0
+Kevin Vogt,79,28,3,79,0
+Ai Kesen,79,31,5,79,0
+Fabián Orellana,79,34,7,79,0
+Shkodran Mustafi,79,28,17,81,2
+Manuel Lanzini,79,27,11,80,1
+Alex Teixeira,79,30,6,79,0
+Steven Nzonzi,79,31,8,79,0
+Yann M'Vila,79,30,3,79,0
+Cristhian Stuani,79,33,3,79,0
+Sofiane Feghouli,79,30,5,79,0
+Diego Perotti,79,32,9,79,0
+Moussa Sissoko,79,30,21,79,0
+Éder,79,33,2,79,0
+Etienne Capoue,79,32,7,79,0
+Dieumerci Mbokani,79,34,0,79,0
+Nahuel Guzmán,79,34,2,79,0
+David Ospina,79,31,7,79,0
+Cristian Ansaldi,79,33,8,79,0
+José Fonte,79,36,8,79,0
+Martin Škrtel,79,35,6,79,0
+Hatem Ben Arfa,79,33,12,79,0
+Lucas Biglia,79,34,8,79,0
+Benoît Costil,79,33,1,79,0
+Hilton,79,42,6,79,0
+Diego López,79,38,3,79,0
+Javier Mascherano,79,36,18,79,0
+Burak Yilmaz,79,35,15,79,0
+Moyá,79,36,1,79,0
+Quaresma,79,36,27,79,0
+Federico Luis Contedo,78,36,1,78,0
+Giovanni Luis Quintana,78,36,0,78,0
+Edgar Manuel Guichón,78,32,0,78,0
+Rodrygo,78,19,61,91,13
+Júnior Moraes,78,33,5,78,0
+Ferro,78,23,8,85,7
+Moussa Diaby,78,21,24,87,9
+Predrag Rajkovic,78,24,7,86,8
+Jules Koundé,78,21,38,86,8
+Pau Torres,78,23,44,86,8
+Nikola Vlašic,78,22,16,86,8
+Luis Díaz,78,23,20,86,8
+Unai Núñez,78,23,4,84,6
+Youcef Atal,78,24,39,84,6
+Teun Koopmeiners,78,22,10,85,7
+Calero,78,24,3,83,5
+Enis Bardhi,78,25,7,83,5
+Boubacar Kamara,78,20,62,87,9
+Luiz Felipe,78,23,29,87,9
+Marc Roca,78,23,20,85,7
+Cengiz Ünder,78,23,23,84,6
+Federico Chiesa,78,22,55,85,7
+Diadie Samassékou,78,24,1,83,5
+Youssef En-Nesyri,78,23,11,83,5
+Ismaïla Sarr,78,22,41,88,10
+Florian Neuhaus,78,23,13,86,8
+Harvey Barnes,78,22,27,85,7
+Édouard Mendy,78,28,1,81,3
+Declan Rice,78,21,69,86,8
+Patrik Schick,78,24,24,84,6
+Alexander Isak,78,20,38,86,8
+Denzel Dumfries,78,24,20,82,4
+Mauro Arambarri,78,24,2,83,5
+Gabriel,78,22,73,85,7
+Victor Osimhen,78,21,205,88,10
+Issa Diop,78,23,16,85,7
+Exequiel Palacios,78,21,30,88,10
+Miguel Almirón,78,26,9,79,1
+Nahitan Nández,78,24,19,84,6
+Franck Yannick Kessié,78,23,34,84,6
+Renato Sanches,78,22,37,85,7
+Prazeracinho,78,20,1,80,2
+Sidney Pessinho,78,28,2,78,0
+Guilson Paiva,78,24,1,80,2
+Albertinho Dutra,78,28,1,78,0
+Everticinho,78,20,10,78,0
+Claudio Coíntra,78,24,2,78,0
+Adnan Vidual,78,28,0,78,0
+Ronaldo Esler,78,20,3,78,0
+Suat Serdar,78,23,9,84,6
+Andrey Lunev,78,28,6,79,1
+Georgiy Dzhikiya,78,26,11,82,4
+Sergi Guardiola,78,29,5,78,0
+Palhinha,78,25,5,84,6
+André Silva,78,24,22,83,5
+Ezequiel Ávila,78,26,7,81,3
+Simon Deli,78,28,8,80,2
+Soares,78,29,10,78,0
+Daniel Podence,78,24,15,82,4
+Maximilian Eggestein,78,23,18,85,7
+Nordi Mukiele,78,22,48,85,7
+Benjamin Verbic,78,26,8,79,1
+Denis Bouanga,78,25,6,81,3
+Duje Caleta-Car,78,23,5,83,5
+Ellyes Skhiri,78,25,2,82,4
+Alex Meret,78,23,30,87,9
+Jonathan Bamba,78,24,10,83,5
+Robin Gosens,78,26,23,81,3
+Omar Al Soma,78,31,3,78,0
+Ruben Aguilar,78,27,3,79,1
+Mario Pašalic,78,25,25,82,4
+Franco Cervi,78,26,8,80,2
+Unai López,78,24,2,82,4
+Mariano,78,26,10,81,3
+Angeliño,78,23,28,83,5
+Jan Bednarek,78,24,9,84,6
+Hans Hateboer,78,26,15,79,1
+Samuel Gigot,78,26,9,83,5
+Pedro Henrique,78,27,5,81,3
+Mbwana Ally Samatta,78,27,2,79,1
+Islam Slimani,78,32,9,78,0
+Bastos,78,28,7,79,1
+Léo Dubois,78,25,14,82,4
+Paulinho,78,27,4,79,1
+Gonçalo Paciência,78,25,4,81,3
+Jean Michaël Seri,78,29,8,78,0
+Davide Zappacosta,78,28,4,79,1
+Keita Baldé,78,25,23,81,3
+Aleksandar Mitrovic,78,25,24,82,4
+Ayoze Pérez,78,27,10,79,1
+Nikola Maksimovic,78,28,3,79,1
+Rúben Vezo,78,26,1,83,5
+Guido Herrera,78,28,0,79,1
+Leonardo Sigali,78,33,0,78,0
+Iván Marcone,78,30,5,78,0
+Wilmar Barrios,78,26,7,83,5
+Benjamin Bourigeaud,78,26,2,81,3
+Mateus Uribe,78,29,4,78,0
+Adama Traoré,78,24,130,84,6
+Guélor Kanga,78,29,6,78,0
+Divock Origi,78,25,40,83,5
+Niklas Stark,78,25,9,83,5
+Wylan Cyprien,78,25,6,80,2
+Rodrigo Javier De Paul,78,26,46,82,4
+José Sá,78,27,4,81,3
+Alexander Djiku,78,25,2,81,3
+Philipp Max,78,26,2,80,2
+Florian Niederlechner,78,29,0,78,0
+Pierluigi Gollini,78,25,19,82,4
+Elseid Hysaj,78,26,12,81,3
+Emerson,78,25,22,82,4
+Rui Silva,78,26,2,83,5
+Jonas Hofmann,78,28,5,79,1
+Jhon Córdoba,78,27,8,79,1
+Adrien Thomasson,78,26,4,81,3
+Óliver Torres,78,25,15,83,5
+Marten de Roon,78,29,20,78,0
+Jonas Hector,78,30,6,78,0
+Bryan Cristante,78,25,11,82,4
+Matheus,78,28,2,82,4
+Carlos Bacca,78,33,2,78,0
+Robin Olsen,78,30,3,78,0
+Jesse Lingard,78,27,39,78,0
+Leandro Trossard,78,25,5,81,3
+Will Hughes,78,25,10,83,5
+Bernard,78,27,16,78,0
+Jean-Paul Boëtius,78,26,6,81,3
+Santiago García,78,29,2,78,0
+Kenny Lala,78,28,18,78,0
+Loris Karius,78,27,16,81,3
+Jamaal Lascelles,78,26,8,82,4
+Davy Klaassen,78,27,5,79,1
+Gregoire Defrel,78,29,1,78,0
+Diego Demme,78,28,12,79,1
+Conor Coady,78,27,9,80,2
+Remo Freuler,78,28,9,78,0
+Federico Fernández,78,31,7,78,0
+Marcos Rojo,78,30,10,78,0
+David López,78,30,2,78,0
+Jeison Murillo,78,28,4,81,3
+Pablo,78,29,0,79,1
+Djibril Sidibé,78,28,11,78,0
+Pedro Mendes,78,29,4,79,1
+Marco Bizot,78,29,2,80,2
+Lucas Pérez,78,31,2,78,0
+Benjamin Stambouli,78,29,3,78,0
+Daniel Caligiuri,78,32,3,78,0
+Simone Verdi,78,28,5,78,0
+Joel Robles,78,30,1,79,1
+Alfre? Finnbogason,78,31,1,78,0
+Andriy Yarmolenko,78,30,7,78,0
+Víctor Ruiz,78,31,4,78,0
+Ricardo Rodríguez,78,27,13,78,0
+Jaume Costa,78,32,4,78,0
+Shane Duffy,78,28,1,79,1
+Danijel Subašic,78,35,3,78,0
+Chris Wood,78,28,6,78,0
+Pascal Groß,78,29,7,78,0
+Michail Antonio,78,30,8,78,0
+Kamil Glik,78,32,11,78,0
+Christian Kabasele,78,29,3,79,1
+Cote,78,30,0,78,0
+Kevin Strootman,78,30,4,78,0
+Julian Baumgartlinger,78,32,2,78,0
+Shinji Kagawa,78,31,10,78,0
+Jonjo Shelvey,78,28,3,78,0
+Rafael Tolói,78,29,9,78,0
+Joshua King,78,28,17,78,0
+Nordin Amrabat,78,33,11,78,0
+Stevan Jovetic,78,30,14,78,0
+Makoto Hasebe,78,36,3,78,0
+Guilherme,78,34,1,78,0
+Ralf Fährmann,78,31,6,78,0
+Adel Taarabt,78,31,15,78,0
+Ruud Vormer,78,32,1,78,0
+Papakouli Diop,78,34,2,78,0
+Javier Hernández,78,32,21,78,0
+Ignacio Piatti,78,35,2,78,0
+Felipe Caicedo,78,31,12,78,0
+Kevin-Prince Boateng,78,33,9,78,0
+Héctor Moreno,78,32,6,78,0
+Domenico Criscito,78,33,6,78,0
+Victor Moses,78,29,12,78,0
+Danny Rose,78,30,13,78,0
+Gary Cahill,78,34,3,78,0
+Charles,78,36,2,78,0
+Cesc Fàbregas,78,33,22,78,0
+Borja Valero,78,35,5,78,0
+Mathieu Debuchy,78,35,7,78,0
+Dante,78,36,11,78,0
+Carlos Tévez,78,36,18,78,0
+Antonio Mirante,78,37,2,78,0
+Guillermo Ochoa,78,35,34,78,0
+Jhon Monsario,77,35,0,77,0
+Bruno Guimarães,77,22,27,87,10
+Samuel Chukwueze,77,21,12,86,9
+Vicente Damián Castro,77,28,1,77,0
+Sebastián Bruno Luna,77,32,0,77,0
+Vladimír Coufal,77,27,2,78,1
+Amir Rrahmani,77,26,3,81,4
+Chiquinho,77,25,4,82,5
+Jonathan David,77,20,63,88,11
+Dwight McNeil,77,20,7,86,9
+Anthony Nwakaeme,77,31,6,77,0
+Sandro Tonali,77,20,168,91,14
+Nicolás De la Cruz,77,23,14,85,8
+Jean-Pierre Nsame,77,27,5,78,1
+Ozan Kabak,77,20,31,86,9
+Galeno,77,22,9,85,8
+Krépin Diatta,77,21,18,86,9
+Merih Demiral,77,22,48,86,9
+Nicolò Zaniolo,77,21,153,87,10
+Patrick Cutrone,77,22,36,86,9
+Phil Foden,77,20,104,89,12
+Christian Luyindama,77,26,2,80,3
+Matías Rojas,77,24,4,83,6
+Davidson,77,29,1,77,0
+Martin Terrier,77,23,9,83,6
+Michael Ngadeu,77,29,0,77,0
+Calvin Stengs,77,21,20,86,9
+Mattéo Guendouzi,77,21,63,86,9
+Jean-Philippe Mateta,77,23,12,84,7
+Fabricio Bustos,77,24,12,82,5
+Zack Steffen,77,25,6,82,5
+Alphonso Davies,77,19,178,88,11
+Bruno Viana,77,25,4,81,4
+Henry Onyekuru,77,23,11,84,7
+Lucas Paquetá,77,22,58,84,7
+Zubeldia,77,23,6,83,6
+Xaver Schlager,77,22,6,84,7
+Shoya Nakajima,77,25,10,80,3
+Fikayo Tomori,77,22,47,86,9
+Theo Hernández,77,22,63,83,6
+Wesley,77,23,11,83,6
+Daniel James,77,22,76,83,6
+Marko Grujic,77,24,3,84,7
+Yusuf Yazici,77,23,9,82,5
+Donyell Malen,77,21,26,86,9
+Joris Gnagnon,77,23,8,81,4
+Gonzalo Montiel,77,23,19,84,7
+Formosandrinho,77,28,0,77,0
+Adilson Edrada,77,28,2,77,0
+Simão Acunha,77,32,5,77,0
+Muo Cadete,77,20,1,79,2
+Nicolás Filhei,77,24,0,79,2
+Jadsinho Mei,77,24,1,79,2
+Wagner Laranjo,77,36,0,77,0
+Wellington Sabrão,77,32,1,77,0
+Gazzolisco,77,20,6,77,0
+Córdoba,77,23,4,83,6
+Gianluca Mancini,77,24,10,83,6
+Toni Villa,77,25,1,80,3
+Lucas Martínez Quarta,77,24,12,85,8
+Borja Mayoral,77,23,20,83,6
+Emil Audero,77,23,10,87,10
+Agustín Rossi,77,24,5,82,5
+Álex Remiro,77,25,3,83,6
+Takumi Minamino,77,25,30,80,3
+Kieran Tierney,77,23,68,86,9
+Hwang Hee Chan,77,24,6,82,5
+Ramón Ábila,77,30,2,77,0
+Gonzalo Martínez,77,27,7,80,3
+Emiliano Buendía,77,23,21,83,6
+Guido Rodríguez,77,25,5,79,2
+Irfan Can Kahveci,77,25,5,82,5
+Alex Berenguer,77,25,10,82,5
+Mason Holgate,77,23,15,81,4
+Yeimar Gómez Andrade,77,28,0,79,2
+Fábio Martins,77,27,0,78,1
+Dyego Sousa,77,30,4,77,0
+Adam Marušic,77,27,3,77,0
+Maxime Lopez,77,22,10,80,3
+Brian Fernández,77,25,6,80,3
+Enes Ünal,77,23,12,83,6
+Daler Kuzyaev,77,27,6,78,1
+Otávio,77,26,0,79,2
+Breel Embolo,77,23,25,84,7
+Tarek Hamed,77,31,3,77,0
+Manuel Locatelli,77,22,19,84,7
+Raúl,77,30,0,77,0
+Harry Wilson,77,23,15,84,7
+Jaume,77,29,3,79,2
+Zaldúa,77,28,0,78,1
+Miguel Borja,77,27,3,78,1
+Hamari Traoré,77,28,5,77,0
+Ludovic Ajorque,77,26,5,80,3
+Jonathan Calleri,77,26,8,80,3
+Gonzalo Escalante,77,27,3,80,3
+Guillermo Maripán,77,26,3,79,2
+Mahmoud Dahoud,77,24,21,81,4
+José Luis Palomino,77,30,13,77,0
+Álex Moreno,77,27,13,80,3
+Moses Simon,77,25,9,82,5
+Giovanni Simeone,77,25,18,84,7
+Alexander Sørloth,77,24,16,81,4
+Wendell,77,27,11,80,3
+Bruno Petkovic,77,25,6,81,4
+Alejandro Donatti,77,33,0,77,0
+Matías Kranevitter,77,27,5,81,4
+Silvio Romero,77,32,2,77,0
+Frank Fabra,77,29,5,77,0
+Jefferson Lerma,77,25,12,80,3
+Alex Iwobi,77,24,18,81,4
+Erick Pulgar,77,26,24,81,4
+Diego Laxalt,77,27,13,77,0
+Flavien Tait,77,27,2,77,0
+Frank Acheampong,77,26,11,80,3
+Diego Llorente,77,26,9,82,5
+Jack O'Connell,77,26,7,81,4
+Ricardo Esgaio,77,27,1,78,1
+Brandon Mechele,77,27,0,79,2
+Nacho,77,31,1,77,0
+Vincenzo Grifo,77,27,4,77,0
+Camilo Vargas,77,31,5,77,0
+Bruma,77,25,30,78,1
+Ricardo Centurión,77,27,11,77,0
+Valentino Lazaro,77,24,19,82,5
+Callum McGregor,77,27,3,79,2
+Rodolfo Pizarro,77,26,7,80,3
+Kevin Mbabu,77,25,13,82,5
+Yassine Bounou,77,29,2,78,1
+Gaëtan Laborde,77,26,1,80,3
+Rubén Sobrino,77,28,4,77,0
+Hiroki Sakai,77,30,3,77,0
+Clinton Mata,77,27,4,79,2
+Sead Kolašinac,77,27,14,80,3
+Bertrand Traoré,77,24,6,81,4
+Sergio Rico,77,26,7,79,2
+Mattia De Sciglio,77,27,22,78,1
+Marko Livaja,77,26,1,79,2
+Leonardo Pavoletti,77,31,7,77,0
+Soualiho Meïté,77,26,0,80,3
+Paulo Gazzaniga,77,28,7,80,3
+Fayçal Fajr,77,31,0,77,0
+John Egan,77,27,9,79,2
+Raúl Ruidíaz,77,30,5,77,0
+Kevin Stöger,77,26,2,78,1
+Hendrik Van Crombrugge,77,27,0,80,3
+Jan Boril,77,29,3,77,0
+John Brooks,77,27,10,80,3
+Leonardo Bittencourt,77,26,5,79,2
+Robin Knoche,77,28,2,79,2
+Jannik Vestergaard,77,27,8,78,1
+Danny da Costa,77,27,7,79,2
+Vladimír Darida,77,29,2,77,0
+Adama Soumaoro,77,28,5,80,3
+Pedro Obiang,77,28,1,78,1
+Lars Unnerstall,77,30,2,78,1
+Kévin Malcuit,77,28,13,77,0
+Danilo D'Ambrosio,77,31,11,77,0
+Nathan Redmond,77,26,3,78,1
+Cláudio Ramos,77,28,3,80,3
+Rogelio Funes Mori,77,29,4,77,0
+Jordan Ayew,77,28,6,77,0
+Tom Cairney,77,29,6,77,0
+Phil Jones,77,28,15,77,0
+Youssef El Arabi,77,33,2,77,0
+Daniel Didavi,77,30,1,77,0
+Gary Medel,77,32,11,77,0
+Davy Pröpper,77,28,7,77,0
+Tomás Rincón,77,32,3,77,0
+Jeroen Zoet,77,29,4,78,1
+Teemu Pukki,77,30,62,77,0
+De Marcos,77,31,2,77,0
+Rafael,77,30,6,77,0
+Jack Wilshere,77,28,12,77,0
+Alan Dzagoev,77,30,12,77,0
+Douglas,77,37,3,77,0
+Oliver Norwood,77,29,7,77,0
+Mariano,77,34,1,77,0
+Lucas Pratto,77,32,4,77,0
+Sandro Wagner,77,32,8,77,0
+Troy Deeney,77,32,13,77,0
+Martín Cáceres,77,33,12,77,0
+Marcelo,77,33,3,77,0
+Loïc Rémy,77,33,7,77,0
+Ryan Donk,77,34,2,77,0
+Vieirinha,77,34,3,77,0
+Marcus Berg,77,33,8,77,0
+Claudio Bravo,77,37,15,77,0
+Antonio Valencia,77,34,11,77,0
+Graziano Pellè,77,35,2,77,0
+Javi García,77,33,5,77,0
+Jefferson Farfán,77,35,6,77,0
+Thomas Vermaelen,77,34,6,77,0
+Mauro Zárate,77,33,6,77,0
+Javier Pinola,77,37,2,77,0
+Iván Cuéllar,77,36,3,77,0
+Daniel Baier,77,36,1,77,0
+Emre Belözoglu,77,39,6,77,0
+Kevin Berlaso,76,32,0,76,0
+Alexander Aguilmera,76,34,0,76,0
+Alan Zamorado,76,39,0,76,0
+Edmond Tapsoba,76,21,17,86,10
+Petr Ševcík,76,26,0,79,3
+Mohamed Ihattaren,76,18,34,88,12
+Mauro Agustín Fagundez,76,36,0,76,0
+Guillermo Luis Ichazo,76,28,2,76,0
+Ondrej Kolár,76,25,2,81,5
+Luís Maximiano,76,21,20,86,10
+Kangin Lee,76,19,33,86,10
+Mathías Olivera,76,22,7,84,8
+Roman Yaremchuk,76,24,2,80,4
+Kunde Malong,76,25,5,81,5
+Emmanuel Dennis,76,22,6,83,7
+Weston McKennie,76,21,18,86,10
+Nikola Milenkovic,76,22,28,83,7
+Nicolás Domínguez,76,22,22,88,12
+Arne Maier,76,21,9,85,9
+Alan Franco,76,23,12,83,7
+Samuel Kalu,76,22,7,81,5
+Antonín Barák,76,25,4,79,3
+Xeka,76,25,3,81,5
+Robin Koch,76,24,5,80,4
+Marcos Senesi,76,23,6,85,9
+Noussair Mazraoui,76,22,12,82,6
+Marko Rog,76,25,7,80,4
+Aarón Martín,76,23,6,83,7
+Fran Beltrán,76,21,7,84,8
+Christian Kouamé,76,22,13,83,7
+Edson Álvarez,76,22,18,83,7
+Pablo Rosario,76,23,2,82,6
+Josip Brekalo,76,22,4,84,8
+Aurélio Buta,76,23,12,82,6
+Florentino,76,20,30,86,10
+Luiz Araújo,76,24,9,83,7
+Odsonne Edouard,76,22,38,85,9
+Amath Ndiaye,76,24,10,83,7
+Riccardo Orsolini,76,23,19,85,9
+Rémi Oudin,76,23,1,80,4
+Tyler Adams,76,21,27,86,10
+Santiago Ascacíbar,76,23,6,82,6
+Justin Bijlow,76,22,1,84,8
+Felix Uduokhai,76,22,2,81,5
+Dodi Lukébakio,76,22,8,82,6
+Ludovic Blas,76,22,8,83,7
+Gautier Larsonneur,76,23,0,82,6
+Amadou Diawara,76,23,8,82,6
+Mouctar Diakhaby,76,23,5,81,5
+Rafael Cachoira,76,20,1,76,0
+David Seijalbo,76,24,1,76,0
+Davi Parrela,76,20,2,76,0
+Victildinho,76,24,0,76,0
+Rubens Freitosa,76,36,1,76,0
+Andeson Trigo,76,32,1,76,0
+Nelsildo Reis,76,20,4,76,0
+Fred Aníbão,76,28,0,76,0
+Cris Laranjeiros,76,28,1,76,0
+Eltildo Correia,76,28,3,76,0
+Juli Freitinho,76,20,0,76,0
+Edu Expósito,76,23,2,84,8
+Gastón Pereiro,76,25,5,80,4
+Davide Calabria,76,23,27,82,6
+Matías Vargas,76,23,10,85,9
+Oussama Idrissi,76,24,5,81,5
+Benjamin Henrichs,76,23,10,80,4
+Matheus Pereira,76,24,13,82,6
+Pedraza,76,24,3,81,5
+Rob Holding,76,24,16,83,7
+Fabián Balbuena,76,28,3,77,1
+Gastón Giménez,76,29,2,76,0
+André-Franck Zambo Anguissa,76,24,10,82,6
+Lucas Tousart,76,23,15,81,5
+Vincent Janssen,76,26,10,79,3
+Ugurcan Çakir,76,24,10,81,5
+Trezeguet,76,25,8,79,3
+Martín Campaña,76,31,1,76,0
+Rolando Mandragora,76,23,4,82,6
+Habib Diallo,76,25,1,81,5
+Vallejo,76,23,18,82,6
+Nemanja Radoja,76,27,1,77,1
+Florin Andone,76,27,4,77,1
+Kevin Lasagna,76,27,14,77,1
+Bustinza,76,28,0,78,2
+Mehmet Zeki Çelik,76,23,29,82,6
+Marius Wolf,76,25,5,79,3
+Jarrod Bowen,76,23,7,83,7
+Sofyan Amrabat,76,23,10,83,7
+Kalvin Phillips,76,24,33,82,6
+Jonathan Rodríguez,76,27,4,79,3
+Jonas Omlin,76,26,1,81,5
+Joelinton,76,23,9,82,6
+Andrea Conti,76,26,12,79,3
+Ángel Mena,76,32,2,76,0
+Timothy Castagne,76,24,14,81,5
+Ondrej Duda,76,25,7,81,5
+Alfredo Morelos,76,24,13,85,9
+Ollie Watkins,76,24,17,81,5
+Mislav Oršic,76,27,8,76,0
+Philip Billing,76,24,8,82,6
+Saïd Benrahma,76,24,29,81,5
+David Brooks,76,23,18,84,8
+Luca Waldschmidt,76,24,7,81,5
+Jordan Amavi,76,26,7,79,3
+Camarasa,76,26,4,80,4
+Khama Billiat,76,29,1,76,0
+Rúben Semedo,76,26,5,80,4
+Wesley Hoedt,76,26,8,79,3
+Maximiliano Meza,76,27,5,76,0
+Seko Fofana,76,25,12,80,4
+Kenny Tete,76,24,7,80,4
+Maxwel Cornet,76,23,11,82,6
+Kenedy,76,24,14,82,6
+Jason,76,26,2,79,3
+Adrien Hunou,76,26,4,79,3
+Lautaro Giannetti,76,26,0,81,5
+Alan Aguerre,76,29,0,78,2
+Leonel Miranda,76,26,1,79,3
+Ryan Christie,76,25,3,80,4
+Federico Di Francesco,76,26,3,79,3
+Aderllan Santos,76,31,0,76,0
+Nabil Bentaleb,76,25,2,80,4
+Mohamed Elneny,76,28,7,77,1
+Arthur Masuaku,76,26,8,78,2
+Nicolae Stanciu,76,27,2,79,3
+Max Meyer,76,24,15,79,3
+Neal Maupay,76,23,12,81,5
+Pere Pons,76,27,0,77,1
+Karol Linetty,76,25,8,80,4
+Ibrahim Amadou,76,27,3,79,3
+Rubén Blanco,76,25,5,83,7
+Rubén García,76,27,3,77,1
+Carles Gil,76,27,1,76,0
+Darwin Machís,76,27,3,76,0
+Albert Rusnák,76,26,1,80,4
+Bruno Peres,76,30,15,76,0
+Garry Rodrigues,76,29,0,76,0
+Andreas Pereira,76,24,26,80,4
+Tobias Strobl,76,30,1,76,0
+Kaan Ayhan,76,25,12,79,3
+Filipe Augusto,76,26,5,76,0
+Marçal,76,31,2,76,0
+Sebastian Andersson,76,29,5,76,0
+Jordan Lukaku,76,26,11,79,3
+Luciano Vietto,76,26,14,77,1
+Eduardo Vargas,76,30,9,76,0
+Pablo Marí,76,26,19,81,5
+Dominique Heintz,76,26,0,78,2
+Isaac Hayden,76,25,4,83,7
+Yvon Mvogo,76,26,8,81,5
+Calum Chambers,76,25,16,81,5
+Lucas Castro,76,31,4,76,0
+Alberto Moreno,76,28,11,77,1
+Solomon Kverkvelia,76,28,1,78,2
+Diego Oliveira,76,30,4,76,0
+Charlie Taylor,76,26,1,78,2
+Bouna Sarr,76,28,4,76,0
+Paul Dummett,76,28,2,77,1
+Viktor Fischer,76,26,6,78,2
+Lucas Andersen,76,25,6,79,3
+Mohamed Elyounoussi,76,25,3,79,3
+Aleix Vidal,76,30,5,76,0
+Alfred Gomis,76,26,3,78,2
+Gabriel,76,27,3,80,4
+Lorenzo Tonelli,76,30,6,76,0
+James Forrest,76,29,12,76,0
+Arbilla,76,33,0,76,0
+Pablo Hernández,76,33,4,76,0
+Marco van Ginkel,76,27,8,77,1
+Wilson Eduardo,76,30,3,76,0
+Ramiro Funes Mori,76,29,3,77,1
+André André,76,30,0,76,0
+Oguzhan Özyakup,76,27,2,77,1
+Teófilo Gutiérrez,76,35,2,76,0
+Giovanni Moreno,76,34,5,76,0
+Dorlan Pabón,76,32,3,76,0
+Adrián,76,33,9,76,0
+Montoya,76,29,7,76,0
+Pontus Jansson,76,29,6,77,1
+Nick Viergever,76,30,2,76,0
+Martin Braithwaite,76,29,19,76,0
+Maxime Gonalons,76,31,5,76,0
+Luis Miguel Rodríguez,76,35,4,76,0
+Luis Rodríguez,76,29,8,76,0
+Néstor Araújo,76,28,2,78,2
+Diego Reyes,76,27,9,79,3
+Mats Rits,76,27,0,79,3
+Luigi Sepe,76,29,4,76,0
+Giorgi Makaridze,76,30,1,77,1
+Darwin Quintero,76,32,4,76,0
+Eliaquim Mangala,76,29,13,77,1
+Nathaniel Clyne,76,29,11,76,0
+Steven Zuber,76,28,15,76,0
+Lukasz Skorupski,76,29,2,78,2
+Kiko Femenía,76,29,3,76,0
+Serdar Aziz,76,29,2,77,1
+Aleksandar Dragovic,76,29,7,77,1
+Francesco Caputo,76,32,6,76,0
+Theodor Gebre Selassie,76,33,2,76,0
+Facundo Roncaglia,76,33,1,76,0
+Maxi Moralez,76,33,6,76,0
+Orestis Karnezis,76,35,1,76,0
+Daniel Schwaab,76,31,3,76,0
+Marc Albrighton,76,30,7,76,0
+Balázs Dzsudzsák,76,33,3,76,0
+Beto,76,38,3,76,0
+Pablo Hernández,76,35,6,76,0
+Marouane Fellaini,76,32,16,76,0
+Augusto Fernández,76,34,3,76,0
+Mossoró,76,37,1,76,0
+Ola Toivonen,76,34,2,76,0
+André Ayew,76,30,14,76,0
+Lasse Schøne,76,34,4,76,0
+Steven Defour,76,32,5,76,0
+Danilo,76,36,2,76,0
+Theo Walcott,76,31,16,76,0
+Alessandro Diamanti,76,37,0,76,0
+Vedad Ibiševic,76,35,0,76,0
+Léo Matos,76,34,1,76,0
+Salomon Kalou,76,34,6,76,0
+Yuriy Zhirkov,76,36,3,76,0
+Rodrigo Palacio,76,38,5,76,0
+José Sand,76,40,3,76,0
+Gaël Clichy,76,35,5,76,0
+Diego Castro,76,38,1,76,0
+Soldado,76,35,3,76,0
+Arda Turan,76,33,13,76,0
+Atiba Hutchinson,76,37,3,76,0
+Jermain Defoe,76,37,5,76,0
+Pedro Vaquizo,75,34,0,75,0
+Kodjo Fo-Doh Laba,75,28,1,75,0
+Eduardo Camavinga,75,17,94,86,11
+Emerson,75,21,49,85,10
+Robert Rojas,75,24,2,82,7
+Lukas Rupp,75,29,4,75,0
+Ibrahim Traoré,75,31,2,75,0
+Pablo Nicolás Dárenas,75,36,0,75,0
+Juan Gabriel Rodríguez,75,26,0,80,5
+Mohammed Salisu,75,21,24,85,10
+Patrik Hrošovsky,75,28,0,75,0
+Francisco Trincão,75,20,159,88,13
+Mykyta Burda,75,25,7,82,7
+Vitaliy Buyalskyi,75,27,5,76,1
+Filip Benkovic,75,23,6,83,8
+Jovane Cabral,75,22,13,83,8
+Andriy Lunin,75,21,46,87,12
+William Saliba,75,19,96,88,13
+Orkun Kökçü,75,19,8,85,10
+Lukáš Masopust,75,27,0,75,0
+Sebastiaan Bornauw,75,21,8,83,8
+Martín,75,24,0,80,5
+Mehdi Taremi,75,28,6,75,0
+Rafael Leão,75,21,62,86,11
+Manu Vallejo,75,23,4,84,9
+Patson Daka,75,21,27,84,9
+Zinho Vanheusden,75,21,22,86,11
+Pedro Gonçalves,75,22,1,86,11
+Matheus Cunha,75,21,30,85,10
+João Victor,75,26,2,76,1
+David Hovorka,75,26,1,79,4
+Myron Boadu,75,19,34,88,13
+Boubakary Soumaré,75,21,12,85,10
+Vasilios Barkas,75,26,2,78,3
+Bruno Tabata,75,23,3,83,8
+Amadou Haidara,75,22,21,83,8
+Elisha Owusu,75,22,0,83,8
+Marin Pongracic,75,22,1,82,7
+Reece James,75,20,84,87,12
+Pervis Estupiñán,75,22,9,82,7
+Moussa Djenepo,75,22,5,83,8
+Alessandro Bastoni,75,21,54,85,10
+Yordan Osorio,75,26,3,80,5
+Juan Foyth,75,22,30,85,10
+Juan Camilo Hernández,75,21,10,82,7
+Justin Kluivert,75,21,48,85,10
+Saša Lukic,75,23,4,82,7
+Moise Kean,75,20,51,85,10
+Evan Ndicka,75,20,25,85,10
+Erick Cabaco,75,25,4,80,5
+Arnaut Danjuma Groeneveld,75,23,2,81,6
+Alberth Elis,75,24,9,81,6
+Ryan Sessegnon,75,20,44,86,11
+Razvan Marin,75,24,4,80,5
+Eberechi Eze,75,22,15,83,8
+Guus Til,75,22,3,82,7
+Ghislain Konan,75,24,2,81,6
+Malang Sarr,75,21,50,80,5
+Ibrahim Sangaré,75,22,4,85,10
+Dimitri Liénard,75,32,1,75,0
+Lucas Robertone,75,23,7,84,9
+Panagiotis Retsos,75,21,19,84,9
+Christian Fassnacht,75,26,1,76,1
+Domingos Duarte,75,25,3,79,4
+Toni Martínez,75,23,1,83,8
+Konstantinos Laifis,75,27,0,77,2
+Valentin Rosier,75,23,5,82,7
+László Bénes,75,22,5,81,6
+Idrissa Doumbia,75,22,4,83,8
+Diogo Dalot,75,21,45,85,10
+Gedson Fernandes,75,21,16,84,9
+Marcão,75,24,5,80,5
+Ionu? Andrei Radu,75,23,13,86,11
+Sebastián Villa,75,24,12,81,6
+Aaron Ramsdale,75,22,12,83,8
+Robin Le Normand,75,23,6,82,7
+Aleñá,75,22,23,83,8
+Rodrigo Aliendro,75,29,0,75,0
+Gen Shoji,75,27,3,77,2
+Daichi Kamada,75,23,13,79,4
+Denys Boyko,75,32,2,75,0
+Ben White,75,22,17,84,9
+Yann Karamoh,75,22,11,84,9
+Ontiveros,75,22,6,82,7
+Romain Del Castillo,75,24,3,79,4
+Waldo,75,24,3,81,6
+Kelvin Amian,75,22,7,79,4
+Brian Lozano,75,26,7,76,1
+Emre Akbaba,75,27,4,76,1
+Matheus Reis,75,25,0,79,4
+Ailton Guevara,75,28,2,75,0
+José Mirazar,75,24,2,75,0
+Elildo Petri,75,24,0,77,2
+Fabrio Farinha,75,28,5,75,0
+Kaimo Lima,75,24,0,75,0
+Danisco Fachini,75,32,0,75,0
+Caio Nunson,75,20,0,75,0
+Simão Donatinho,75,24,1,75,0
+Faitout Maouassa,75,22,4,79,4
+Youssef Aït Bennasser,75,24,4,79,4
+Joseph Aidoo,75,24,6,81,6
+Tom Davies,75,22,8,81,6
+Alexandru Mitri?a,75,25,1,78,3
+Djibril Sow,75,23,3,84,9
+Marko Pjaca,75,25,5,78,3
+João Novais,75,27,0,78,3
+William,75,25,1,79,4
+Yohan Boli,75,26,1,77,2
+Dmitriy Barinov,75,23,1,82,7
+Jeff Reine-Adélaïde,75,22,12,85,10
+Almamy Touré,75,24,6,80,5
+Melero,75,26,1,78,3
+David Barbona,75,25,0,78,3
+Omar Colley,75,27,4,78,3
+Marcus Coco,75,24,1,80,5
+Kaku,75,25,1,80,5
+Roger Guedes,75,23,7,80,5
+Roger Assalé,75,26,4,78,3
+Jesús Gallardo,75,25,4,78,3
+Cecilio Domínguez,75,25,3,78,3
+Ainsley Maitland-Niles,75,22,31,83,8
+Cesinha,75,30,1,75,0
+Jean-Kévin Augustin,75,23,16,81,6
+Constantin Budescu,75,31,3,75,0
+Jarlan Barrera,75,24,3,82,7
+Jérémie Boga,75,23,25,84,9
+Lucas Hoyos,75,31,0,75,0
+Jonjoe Kenny,75,23,10,83,8
+François Kamano,75,24,11,78,3
+André Simões,75,30,0,75,0
+Domingo Blanco,75,25,2,80,5
+Sergio Herrera,75,27,1,77,2
+Samuel Bastien,75,23,2,80,5
+Alexander Nübel,75,23,25,85,10
+Timo Baumgartl,75,24,2,80,5
+Marvelous Nakamba,75,26,7,78,3
+Andrés Cubas,75,24,1,82,7
+Youssouf Koné,75,25,6,82,7
+Aaron Long,75,27,5,78,3
+Arbër Zeneli,75,25,2,78,3
+Lucas Olaza,75,26,4,80,5
+Joe Lolley,75,27,8,75,0
+Andrés Felipe Roa,75,27,3,76,1
+Michael Barrios,75,29,3,75,0
+Germán Conti,75,26,1,81,6
+Nikola Vukcevic,75,28,0,76,1
+Carlos Fernández,75,24,5,82,7
+Lovre Kalinic,75,30,7,75,0
+Alessandro Schöpf,75,26,3,76,1
+Érick Gutiérrez,75,25,8,80,5
+Ezequiel Ponce,75,23,4,81,6
+Ángel Romero,75,28,3,75,0
+Antonio Sanabria,75,24,24,82,7
+Thomas Didillon,75,24,1,79,4
+Georges-Kévin Nkoudou,75,25,6,78,3
+David von Ballmoos,75,25,1,81,6
+Matt Targett,75,24,4,82,7
+Sargis Adamyan,75,27,1,76,1
+Giovanni Di Lorenzo,75,26,20,77,2
+Miha Mevlja,75,30,2,76,1
+Anwar El Ghazi,75,25,7,78,3
+Daley Sinkgraven,75,25,5,80,5
+Tin Jedvaj,75,24,11,82,7
+Jemerson,75,27,2,77,2
+Deniz Türüç,75,27,2,75,0
+Bartlomiej Dragowski,75,22,19,82,7
+Deyverson,75,29,2,75,0
+Guido Carrillo,75,29,1,75,0
+Lucas Menossi,75,27,2,78,3
+Lucas Romero,75,26,16,80,5
+Pablo Pérez,75,34,2,75,0
+Óscar Opazo,75,29,6,75,0
+Helton Leite,75,29,1,77,2
+Diego Rolán,75,27,2,76,1
+Carlos Salcedo,75,26,9,77,2
+Nicolás Castillo,75,27,7,76,1
+DeAndre Yedlin,75,27,15,78,3
+Leonel Vangioni,75,33,3,75,0
+Medrán,75,26,3,77,2
+Jo Hyeon Woo,75,28,3,77,2
+Tyrone Mings,75,27,9,78,3
+Darko Lazovic,75,29,7,75,0
+Danilo Cataldi,75,25,6,79,4
+Lisandro Magallán,75,26,2,77,2
+Fernandinho,75,27,1,75,0
+Marc-Oliver Kempf,75,25,5,79,4
+Cristian Pellerano,75,38,0,75,0
+Tomasz Kedziora,75,26,2,80,5
+Júnior Fernandes,75,31,4,75,0
+Pierrick Capelle,75,33,0,75,0
+Stefan Mitrovic,75,30,0,76,1
+Alfred Duncan,75,27,6,76,1
+Berat Djimsiti,75,27,8,77,2
+Tom Rogic,75,27,0,76,1
+Adam Webster,75,25,2,79,4
+Solly March,75,26,3,78,3
+Sergiy Kryvtsov,75,29,0,76,1
+Denys Garmash,75,30,2,75,0
+Sam Johnstone,75,27,1,79,4
+Vlad Chiriche?,75,30,3,75,0
+Nathaniel Chalobah,75,25,10,79,4
+Brice Samba,75,26,3,79,4
+Fede Vico,75,26,2,79,4
+Jack Butland,75,27,16,79,4
+Emiliano Martínez,75,27,95,78,3
+Jonathan Schmid,75,30,4,75,0
+Andreas Cornelius,75,27,9,76,1
+Cédric,75,28,7,75,0
+Erik Sviatchenko,75,28,1,76,1
+Leandro González Pirez,75,28,1,77,2
+Matthew Lowton,75,31,1,75,0
+Oriol Romeu,75,28,3,76,1
+Jordy Clasie,75,29,5,75,0
+José Pedro Fuenzalida,75,35,5,75,0
+Jeffrey Bruma,75,28,2,76,1
+Javi López,75,34,3,75,0
+Miloš Ninkovic,75,35,2,75,0
+Allan Nyom,75,32,3,75,0
+Kim Shin Wook,75,32,4,75,0
+Valon Berisha,75,27,4,75,0
+Dídac Vilà,75,31,5,75,0
+Wilfried Bony,75,31,18,75,0
+Davide Santon,75,29,8,75,0
+Susaeta,75,32,5,75,0
+Cristian Álvarez,75,34,1,75,0
+Diogo Viana,75,30,5,75,0
+Dayro Moreno,75,34,5,75,0
+Sebastián Fernández,75,35,1,75,0
+Danny Welbeck,75,29,10,75,0
+Danny Drinkwater,75,30,6,75,0
+Rodolfo Cota,75,33,4,75,0
+Luis Montes,75,34,4,75,0
+Eric Maxim Choupo-Moting,75,31,7,75,0
+Andy Carroll,75,31,8,75,0
+Jose Holebas,75,36,1,75,0
+Sebastian De Maio,75,33,1,75,0
+Andrea Ranocchia,75,32,11,75,0
+Danny Vukovic,75,35,0,75,0
+Ondrej Kúdela,75,33,2,75,0
+Asmir Begovic,75,33,5,75,0
+Jonatan Maidana,75,35,3,75,0
+Cássio,75,39,1,75,0
+Salva Sevilla,75,36,3,75,0
+José de Jesús Corona,75,39,4,75,0
+Michael Bradley,75,32,6,75,0
+Rubens Sambueza,75,36,5,75,0
+Ashley Young,75,35,22,75,0
+Joe Hart,75,33,10,75,0
+Klaas-Jan Huntelaar,75,36,10,75,0
+Marcelo Barovero,75,36,4,75,0
+Willy Caballero,75,38,15,75,0
+Silvio Proto,75,37,1,75,0
+Oscar Dorley,74,22,1,84,10
+Mostafa Mohamed,74,22,8,82,8
+Guzmán Corujo,74,24,0,81,7
+Kevin Dawson,74,28,0,74,0
+Juan José Santigaro,74,35,2,74,0
+Gabriel Martinelli,74,19,69,88,14
+Lukáš Kalvach,74,25,2,79,5
+Iago,74,23,1,83,9
+Gustavo Assunção,74,20,11,86,12
+Dejan Kulusevski,74,20,36,86,12
+Dia Saba,74,27,0,75,1
+Joel Kayamba,74,28,1,74,0
+Alex Král,74,22,6,84,10
+Bukayo Saka,74,18,83,89,15
+Adam Hlozek,74,18,27,88,14
+Mason Greenwood,74,18,274,89,15
+Adrià Pedrosa,74,22,11,84,10
+Youssouf Fofana,74,21,9,80,6
+Marash Kumbulla,74,20,35,86,12
+Thiago Almada,74,19,83,88,14
+Luis Javier Suárez,74,22,16,85,11
+Ivanildo Fernandes,74,24,1,80,6
+Léandre Tawamba,74,30,0,74,0
+Elvis Saric,74,30,3,74,0
+Vitaliy Mykolenko,74,21,4,83,9
+Volodymyr Shepelev,74,23,5,83,9
+Uroš Racic,74,22,2,82,8
+Nehuén Pérez,74,20,12,84,10
+Nemanja Radonjic,74,24,6,79,5
+Bryan Mbeumo,74,20,22,85,11
+Douglas,74,32,1,74,0
+Luis Milla,74,25,10,80,6
+Diego Rossi,74,22,9,83,9
+Perr Schuurs,74,20,14,83,9
+Jawad El Yamiq,74,28,0,76,2
+Mauro Júnior,74,21,3,81,7
+Colin Dagba,74,21,19,79,5
+Giorgi Chakvetadze,74,20,8,85,11
+Marcelo Saracchi,74,22,12,81,7
+Callum Hudson-Odoi,74,19,91,88,14
+Alexandros Paschalakis,74,31,0,75,1
+Fernando Gorriarán,74,25,6,78,4
+Srdan Plavšic,74,24,0,77,3
+Paulinho,74,20,39,86,12
+Pêpê,74,23,4,82,8
+Wilson Manafá,74,26,4,77,3
+Rodrigo Becão,74,24,4,81,7
+Eduard Löwen,74,23,1,81,7
+Marco Richter,74,22,1,82,8
+Florin Ni?a,74,33,2,74,0
+Mama Baldé,74,24,4,78,4
+Daniel Muñoz,74,24,4,82,8
+Rodrigo,74,27,2,75,1
+Mady Camara,74,23,2,81,7
+Julian Gressel,74,26,0,75,1
+Sean Longstaff,74,22,6,85,11
+Kim Min Jae,74,23,8,81,7
+Roberto Alvarado,74,21,8,82,8
+Hannes Wolf,74,21,9,85,11
+Alexandr Sobolev,74,23,6,78,4
+Habib Maïga,74,24,2,81,7
+Dominik Szoboszlai,74,19,46,87,13
+Owen Wijndal,74,20,11,84,10
+Douglas Luiz,74,22,16,87,13
+Sam Lammers,74,23,5,82,8
+Yves Bissouma,74,23,6,79,5
+Alexis Claude-Maurice,74,22,9,79,5
+Marc Cardona,74,25,5,80,6
+Ezequiel Barco,74,21,23,85,11
+Nicolas Moumi Ngamaleu,74,26,1,77,3
+Dylan Bronn,74,25,1,79,5
+Fedor Chalov,74,22,13,82,8
+Efecan Karaca,74,30,5,74,0
+Florian Müller,74,22,6,82,8
+Salvi Sánchez,74,29,1,74,0
+Didier Lamkel Zé,74,23,4,79,5
+Emanuel Reynoso,74,24,3,80,6
+Carlos Quintana,74,32,0,74,0
+Orel Mangala,74,22,2,83,9
+Caio Milaçar,74,24,0,74,0
+Luis Sinisterra,74,21,8,84,10
+Miha Zajc,74,26,3,79,5
+Mathias Pereira Lage,74,23,2,82,8
+Junya Ito,74,27,1,74,0
+Bernardo,74,25,3,78,4
+Teruhito Nakagawa,74,28,2,74,0
+Chidozie Awaziem,74,23,0,81,7
+Cristian Romero,74,22,15,84,10
+Konstantinos Tsimikas,74,24,13,79,5
+Joaquín,74,24,3,81,7
+Jack Harrison,74,23,14,80,6
+Abdülkadir Ömür,74,21,8,83,9
+Landry Dimata,74,22,1,81,7
+Axel Tuanzebe,74,22,26,82,8
+Brahim,74,20,33,86,12
+Iván Alejo,74,25,1,77,3
+Braian Cufré,74,23,11,81,7
+Adam Ounas,74,23,11,79,5
+Mathieu Cafaro,74,23,3,82,8
+Jhon Lucumi,74,22,5,83,9
+Jamiro Monteiro,74,26,0,77,3
+Christian Bassogog,74,24,4,79,5
+Zelimkhan Bakaev,74,24,5,83,9
+Josip Mišic,74,26,1,78,4
+Filip Krovinovic,74,24,2,80,6
+Ádám Nagy,74,25,6,79,5
+Ademola Lookman,74,22,16,84,10
+Tino Kadewere,74,24,6,80,6
+Gustavo Sauer,74,27,2,74,0
+Hélton Celanova,74,28,4,74,0
+Leo Caldeirinha,74,24,1,74,0
+Marlon Nideiro,74,24,3,74,0
+Fábio Melitinho,74,24,2,74,0
+Leordinho Paes,74,20,0,74,0
+Rodolfo Pittaça,74,20,0,76,2
+Dagoberto Esteiro,74,24,0,76,2
+Edercinho Sepa,74,20,1,74,0
+Enaldo Toxeto,74,36,2,74,0
+Emu Teixeira,74,36,0,74,0
+Nicolás Formido,74,20,2,74,0
+Leo Vimieiro,74,24,2,76,2
+César Montes,74,23,11,82,8
+Rade Krunic,74,26,5,77,3
+Alexander Barboza,74,25,0,79,5
+Nicolás Benedetti,74,23,4,81,7
+Bryan Heynen,74,23,0,80,6
+Miloš Degenek,74,26,12,79,5
+Waldemar Anton,74,24,5,81,7
+Dalbert,74,26,6,75,1
+Alexis De Sart,74,23,1,80,6
+Wuilker Faríñez,74,22,26,86,12
+Bruno Valdez,74,27,3,76,2
+Yoshinori Muto,74,28,5,74,0
+Viktor Kovalenko,74,24,7,81,7
+Pape Abou Cissé,74,24,4,80,6
+Hamza Choudhury,74,22,6,80,6
+Matej Jonjic,74,29,0,74,0
+Nuno Santos,74,25,3,77,3
+Maximilian Mittelstädt,74,23,2,83,9
+Matty Cash,74,22,18,82,8
+Cristian Borja,74,27,0,74,0
+Jeremiah St. Juste,74,23,8,79,5
+Cristian Roldan,74,25,4,81,7
+Lucas Gamba,74,33,0,74,0
+Ismaël Bennacer,74,22,51,84,10
+Nicolás Giménez,74,24,1,81,7
+Jakub Jankto,74,24,6,81,7
+Cristian Espinoza,74,25,1,76,2
+André Horta,74,23,3,81,7
+Ángel González,74,26,3,77,3
+Todd Cantwell,74,22,23,82,8
+Kelechi Iheanacho,74,23,13,80,6
+Camilo Mayada,74,29,3,74,0
+Hernani,74,26,2,78,4
+Adam Masina,74,26,2,76,2
+Ola Aina,74,23,7,81,7
+Orbelín Pineda,74,24,9,81,7
+Walter Bou,74,26,0,76,2
+Kristoffer Ajer,74,22,10,82,8
+Granell,74,31,2,74,0
+Danilo,74,24,3,78,4
+Carraça,74,27,1,75,1
+Pablo Martinez,74,31,0,74,0
+Ali Adnan,74,26,10,75,1
+Ezequiel Unsain,74,25,4,79,5
+Peter Michorl,74,25,0,78,4
+Luciano Acosta,74,26,1,75,1
+Lys Mousset,74,24,1,79,5
+Sverrir Ingi Ingason,74,26,3,78,4
+Jérôme Junior Onguéné,74,22,4,82,8
+Tim Leibold,74,26,2,77,3
+Badou Ndiaye,74,29,2,74,0
+Jean-Eudes Aholou,74,26,0,78,4
+Ryan Thomas,74,25,2,78,4
+Gastón Silva,74,26,6,77,3
+Renato Tapia,74,25,7,79,5
+Demarai Gray,74,24,7,78,4
+Valentín Vada,74,24,0,78,4
+Mattia Zaccagni,74,25,0,80,6
+Oliver McBurnie,74,24,10,81,7
+Thulani Hlatshwayo,74,30,2,74,0
+Sean Klaiber,74,25,0,77,3
+Roger Martínez,74,26,9,79,5
+Bruno Varela,74,25,2,77,3
+Facundo Sánchez,74,30,1,74,0
+Lukas Lerager,74,27,0,77,3
+Andre Blake,74,29,2,76,2
+Carlos Mané,74,26,2,75,1
+Sebastián Torrico,74,40,1,74,0
+Angus Gunn,74,24,7,79,5
+Cican Stankovic,74,27,1,77,3
+Jorge Broun,74,34,1,74,0
+Alireza Jahanbakhsh,74,26,7,74,0
+Marlon,74,24,8,79,5
+Jonathan Silva,74,26,1,79,5
+Lucas Zelarayán,74,28,3,74,0
+Édson Puch,74,33,1,74,0
+Paolo Goltz,74,35,0,74,0
+Igor Lichnovsky,74,26,0,79,5
+Nicolás Vikonis,74,36,1,74,0
+Martín Nervo,74,29,0,75,1
+Róber,74,25,2,80,6
+Wesley Saïd,74,25,2,76,2
+Joris van Overeem,74,26,1,76,2
+Dorian Dessoleil,74,27,0,76,2
+Dória,74,25,4,77,3
+Marius Müller,74,27,0,79,5
+Mike van der Hoorn,74,27,6,77,3
+Nicolas López,74,26,7,77,3
+Filip Helander,74,27,1,76,2
+Roberto Torres,74,31,1,74,0
+Simon Falette,74,28,3,76,2
+Stefano Denswil,74,27,4,77,3
+Joel Campbell,74,28,8,74,0
+Ole Kristian Selnæs,74,26,4,78,4
+Luis Advíncula,74,30,11,74,0
+Bruno Zuculini,74,27,3,75,1
+Alfredo Donnarumma,74,29,4,74,0
+Ravel Morrison,74,27,7,75,1
+Jeffrey Schlupp,74,27,3,74,0
+Pulido,74,29,1,75,1
+Nicolás Blandi,74,30,4,74,0
+Diego Mariño,74,30,0,75,1
+Trent Sainsbury,74,28,2,75,1
+Stefan Bell,74,28,3,75,1
+Dan Burn,74,28,4,75,1
+Esteban Paredes,74,39,5,74,0
+Bill Hamid,74,29,1,76,2
+Yuto Nagatomo,74,33,4,74,0
+Milan Heca,74,29,0,76,2
+Fabio Pisacane,74,34,3,74,0
+Mateusz Klich,74,30,6,74,0
+Milton Caraglio,74,31,3,74,0
+Maya Yoshida,74,31,5,74,0
+Alejandro Bedoya,74,33,3,74,0
+Kamil Wilczek,74,32,2,74,0
+André Hansen,74,30,1,75,1
+Karl-Johan Johnsson,74,30,2,75,1
+Marcel Schmelzer,74,32,5,74,0
+Carlos Villanueva,74,34,2,74,0
+Deniz Kadah,74,34,4,74,0
+Ádám Szalai,74,32,3,74,0
+Miguel Layún,74,32,7,74,0
+Kamil Grosicki,74,32,6,74,0
+Bojan,74,29,10,74,0
+Matías Fernández,74,34,8,74,0
+Ron Vlaar,74,35,1,74,0
+Samir Nasri,74,33,8,74,0
+Sebastian Larsson,74,35,4,74,0
+Daniele Padelli,74,34,0,74,0
+Jorge Valdivia,74,36,5,74,0
+Lukas Podolski,74,35,11,74,0
+Mario Gómez,74,35,3,74,0
+Pablo Zabaleta,74,35,5,74,0
+Leonardo Ponzio,74,38,2,74,0
+Michel Vorm,74,36,3,74,0
+Wes Morgan,74,36,7,74,0
+Mario Álvarez,74,38,0,74,0
+Maximiliano Rodríguez,74,39,2,74,0
+Phil Jagielka,74,37,3,74,0
+Allan McGregor,74,38,3,74,0
+Fabricio Coloccini,74,38,1,74,0
+Ricardo Costa,74,39,0,74,0
+Raphaël Nuzzolo,74,37,0,74,0
+Jorge Pinos,73,30,1,73,0
+Richard Schunke,73,28,0,74,1
+Rodrigo Abascal,73,26,0,75,2
+Ansu Fati,73,17,243,90,17
+Romário Baró,73,20,8,87,14
+Domagoj Bradaric,73,20,8,83,10
+Erick Lardero,73,31,0,73,0
+Víctor Sabanter,73,32,2,73,0
+Anthony Alfárnez,73,35,2,73,0
+Douglas Augusto,73,23,0,79,6
+Jean Lucas,73,22,1,83,10
+David Lischka,73,22,2,82,9
+Ezequiel Piovi,73,27,0,76,3
+Tomáš Holeš,73,27,0,74,1
+Tete,73,20,11,86,13
+Carlos Neva,73,24,0,78,5
+Giorgios Masouras,73,26,0,74,1
+Maxence Caqueret,73,20,16,86,13
+Yari Verschaeren,73,19,39,87,14
+Boulaye Dia,73,23,2,81,8
+Arthur Cabral,73,22,2,84,11
+Vítor Tormena,73,24,0,77,4
+Luca Sangalli,73,25,1,78,5
+Jean-Clair Todibo,73,20,33,86,13
+Toma Bašic,73,23,2,80,7
+Aleš Cermák,73,25,0,76,3
+Puado,73,22,3,83,10
+Artem Shabanov,73,28,1,75,2
+Mykola Shaparenko,73,21,10,84,11
+Dino Peric,73,26,0,76,3
+Nikola Moro,73,22,6,81,8
+Enric Gallego,73,33,1,73,0
+Makhete Diop,73,33,0,73,0
+Igor Plastun,73,29,0,73,0
+Altay Bayindir,73,22,4,80,7
+Pedro Porro,73,20,18,83,10
+Michal Trávník,73,26,2,76,3
+Cody Gakpo,73,21,3,83,10
+Jorman Campuzano,73,24,5,80,7
+Tiago Sá,73,25,0,78,5
+Manu Morlanes,73,21,1,83,10
+Borna Barišic,73,27,2,74,1
+Dani Raba,73,24,2,79,6
+Eljif Elmas,73,20,14,85,12
+Francis,73,24,0,79,6
+Nicolás González,73,22,13,83,10
+Carles Pérez,73,22,16,84,11
+Cláudio Falcão,73,26,1,77,4
+Dimitris Limnios,73,22,2,80,7
+Max Aarons,73,20,73,85,12
+Dennis Man,73,21,7,82,9
+Bebeto,73,30,0,73,0
+Michal Sácek,73,23,1,79,6
+Saba Lobjanidze,73,25,1,76,3
+Masaya Okugawa,73,24,3,79,6
+Alfa Semedo,73,22,5,80,7
+Hervé Koffi,73,23,0,83,10
+Óscar,73,22,4,84,11
+Christoph Zimmermann,73,27,0,75,2
+Pedro Sá,73,26,0,77,4
+Sebastian Vasiliadis,73,22,1,80,7
+Ruben Vargas,73,21,3,84,11
+Florinel Coman,73,22,6,83,10
+Marcão,73,26,2,78,5
+Nahuel Bustos,73,22,5,83,10
+Chidera Ejuke,73,22,1,79,6
+Nicolás Reniero,73,25,3,78,5
+José Rodríguez,73,24,1,79,6
+James Léa Siliki,73,24,1,78,5
+Jordan Torunarigha,73,22,9,84,11
+Fodé Ballo-Touré,73,23,4,79,6
+Anthony Caci,73,23,6,81,8
+Artur Jorge,73,25,3,77,4
+Eduard Atuesta,73,23,4,81,8
+Pedro Aquino,73,25,4,80,7
+Nildo Reisão,73,24,0,73,0
+Douglas Armeira,73,28,0,73,0
+Marcus Edwards,73,21,14,83,10
+Dennis Geiger,73,22,1,82,9
+Jerdy Schouten,73,23,0,80,7
+Jonathan Menéndez,73,26,3,74,1
+Ivan Oblyakov,73,22,4,83,10
+Maycon,73,23,2,84,11
+Chanathip Songkrasin,73,26,2,74,1
+Luis Abram,73,24,8,80,7
+Vágner Corraldo,73,20,3,73,0
+Sofiane Alakouch,73,22,3,81,8
+Neris,73,28,1,74,1
+Vukašin Jovanovic,73,24,1,76,3
+Milad Mohammadi,73,26,3,76,3
+Yu Kobayashi,73,32,4,73,0
+Marcel Hartel,73,24,2,76,3
+Diego Zabala,73,28,1,73,0
+Federico Ricca,73,25,1,77,4
+Ryota Morioka,73,29,1,73,0
+Toni Lato,73,22,10,81,8
+Mitchell van Bergen,73,20,8,81,8
+Álvaro Tejero,73,24,1,82,9
+Reiss Nelson,73,20,34,83,10
+Diogo Gonçalves,73,23,1,80,7
+Ayrton,73,23,9,84,11
+Jamal Lewis,73,22,15,83,10
+Carlos de Pena,73,28,2,73,0
+Lyanco,73,23,7,82,9
+Gus Outomouro,73,24,1,73,0
+Thio Rolim,73,24,0,75,2
+Claudiosa Paes,73,32,0,73,0
+Luis Couprins,73,20,1,73,0
+Miltisco Paulino,73,20,0,73,0
+Deiverson Kaio,73,36,0,73,0
+Teixe Gaúcho,73,20,0,75,2
+Evandro Rochedo,73,24,5,73,0
+Eduardo Henrique,73,25,1,79,6
+Lucas Rodríguez,73,23,6,80,7
+Ante Coric,73,23,6,82,9
+Thembinkosi Lorch,73,27,1,74,1
+Aminu Umar,73,25,2,76,3
+Raillo,73,28,0,75,2
+Mohamed El Shenawy,73,31,5,73,0
+Anastasios Donis,73,23,5,81,8
+Bart Ramselaar,73,24,3,78,5
+Franco Soldano,73,25,2,77,4
+Cyle Larin,73,25,2,78,5
+Pape Cheikh Diop,73,22,3,82,9
+Ianis Hagi,73,21,11,82,9
+Andrea Cistana,73,23,8,82,9
+Che Adams,73,24,16,80,7
+Pedro Gallese,73,30,3,73,0
+Kasim Adams Nuhu,73,25,2,79,6
+Kingsley Ehizibue,73,25,7,77,4
+Ilzat Akhmetov,73,22,1,81,8
+David García,73,26,2,77,4
+Emiliano Velázquez,73,26,3,78,5
+Benjamín Kuscevic,73,24,6,81,8
+Vincent Koziello,73,24,4,79,6
+Percy Tau,73,26,7,76,3
+Gaetano Castrovilli,73,23,19,82,9
+Javairô Dilrosun,73,22,7,86,13
+Arnaud Lusamba,73,23,4,78,5
+Yan Junling,73,29,5,75,2
+Ryan Kent,73,23,27,82,9
+Haris Belkebla,73,26,1,76,3
+Bingourou Kamara,73,23,1,82,9
+Luis Rioja,73,26,1,74,1
+Manu García,73,22,7,83,10
+Dorukhan Toköz,73,24,5,78,5
+Fede,73,23,1,81,8
+Munir,73,31,1,74,1
+Ozan Tufan,73,25,5,78,5
+Alexis Blin,73,23,0,77,4
+Bernard Mensah,73,25,9,78,5
+Albian Ajeti,73,23,5,80,7
+Patrick Roberts,73,23,7,81,8
+Adam Armstrong,73,23,9,81,8
+Erik Thommy,73,25,0,75,2
+Hélder Costa,73,26,9,74,1
+Wilfried Kanon,73,27,2,75,2
+Jacob Rinne,73,27,0,78,5
+Jeremías Ledesma,73,27,0,77,4
+Vyacheslav Karavaev,73,25,7,76,3
+Rafa Soares,73,25,4,78,5
+Pozo,73,24,2,80,7
+Ambroise Oyongo,73,29,2,73,0
+Paul Arriola,73,25,5,76,3
+Álvaro García,73,27,0,73,0
+Erik,73,26,4,76,3
+Fernando Monetti,73,31,1,73,0
+Matt Miazga,73,25,6,78,5
+Federico Lértora,73,30,2,73,0
+Emmanuel Mas,73,31,2,73,0
+Rodrigo Gómez,73,27,6,73,0
+Davide Biraschi,73,26,1,80,7
+Fábio Cardoso,73,26,1,78,5
+Ken Sema,73,26,5,74,1
+Chuba Akpom,73,24,10,78,5
+Levin Öztunali,73,24,4,78,5
+Ben Davies,73,24,1,80,7
+Tiago Silva,73,27,3,76,3
+Riechedly Bazoer,73,23,5,78,5
+Kenan Karaman,73,26,1,75,2
+Jérémie Bela,73,27,1,73,0
+Marc Schnatterer,73,34,2,73,0
+Olarenwaju Kayode,73,27,2,76,3
+Pablo De Blasis,73,32,1,73,0
+Julián Velázquez,73,29,3,74,1
+Ahmed Hegazi,73,29,2,74,1
+Marc Stendera,73,24,2,78,5
+Edgar Ié,73,26,0,78,5
+Alberto Brignoli,73,28,2,76,3
+Filippo Falco,73,28,4,73,0
+Anastasios Bakasetas,73,27,7,75,2
+Denys Bain,73,27,2,77,4
+Erik Durm,73,28,3,74,1
+Franco Fragapane,73,27,2,73,0
+Callum Robinson,73,25,6,77,4
+Mykola Morozyuk,73,32,3,73,0
+João Pereira,73,36,1,73,0
+Bigas,73,29,1,74,1
+Patric,73,27,5,76,3
+Nildo Petrolina,73,34,0,73,0
+Ghayas Zahid,73,25,0,77,4
+Joe Ralls,73,26,2,75,2
+Edgar Badía,73,28,0,76,3
+Charly Musonda,73,23,18,79,6
+Ahmed El Shenawy,73,29,0,74,1
+Thulani Serero,73,30,4,73,0
+Leigh Griffiths,73,29,3,73,0
+Dimitri Bisoli,73,26,3,75,2
+Stefano Sturaro,73,27,4,74,1
+Luis Mejía,73,29,0,75,2
+Johannes Geis,73,26,6,75,2
+Onel Hernández,73,27,3,73,0
+Anthony Limbombe,73,26,5,76,3
+Ahmed Musa,73,27,19,73,0
+Ladislav Krejcí,73,28,3,73,0
+Tim Melia,73,34,1,73,0
+Ben Gibson,73,27,1,76,3
+Michael Hector,73,28,3,75,2
+Martín Silva,73,37,0,73,0
+Josip Drmic,73,27,5,73,0
+Guitián,73,30,0,74,1
+Khouma Babacar,73,27,5,74,1
+Jackson Martínez,73,33,3,73,0
+Shinji Okazaki,73,34,11,73,0
+Shaun Hutchinson,73,29,4,73,0
+Douglas,73,29,6,73,0
+Mattia Destro,73,29,5,73,0
+Karl Darlow,73,29,1,75,2
+Emanuele Giaccherini,73,35,4,73,0
+Alexey Ionov,73,31,3,73,0
+Alfredo Saldívar,73,30,2,74,1
+Federico Macheda,73,28,6,73,0
+Harry Arter,73,30,5,73,0
+Christian Benteke,73,29,9,73,0
+Aurélien Chedjou,73,35,0,73,0
+Luisinho,73,35,1,73,0
+Óscar Cardozo,73,37,1,73,0
+Demba Ba,73,35,3,73,0
+Adrián Ramos,73,34,3,73,0
+Mevlüt Erdinç,73,33,2,73,0
+Gonzalo Bergessio,73,36,2,73,0
+Shane Long,73,33,5,73,0
+Ismael Sosa,73,33,7,73,0
+Gökhan Inler,73,36,4,73,0
+Aaron Lennon,73,33,8,73,0
+Christian Maggio,73,38,4,73,0
+Rafael,73,38,3,73,0
+Christian Fuchs,73,34,4,73,0
+Germán Lux,73,38,0,73,0
+Bruno Alves,73,38,6,73,0
+Goran Pandev,73,37,3,73,0
+Cifuentes,73,41,2,73,0
+Nicolas Penneteau,73,39,0,73,0
+Boško Šutalo,72,20,4,83,11
+Patrik Hellebrand,72,21,1,82,10
+Pedro Mendes,72,20,5,84,12
+Reinier,72,18,60,90,18
+Anderson Julio,72,24,2,76,4
+Hussein El Shahat,72,28,0,72,0
+Mike Trésor Ndayishimiye,72,21,1,80,8
+Joey Veerman,72,21,0,80,8
+Luka Ivanušec,72,21,3,82,10
+Ali Musrati,72,24,1,77,5
+Patrick William,72,23,3,81,9
+Pedri,72,17,54,89,17
+Sergiño Dest,72,19,30,82,10
+Bruno Vendaza,72,39,0,72,0
+Jean Carlos Veria,72,36,1,72,0
+Gabriel Fernández,72,26,1,77,5
+Shon Weissman,72,24,5,76,4
+Mehrdad Mohammadi,72,26,1,75,3
+Jesús Soraire,72,31,0,72,0
+Fabio Pereyra,72,30,0,72,0
+Fernando Torrent,72,28,1,72,0
+Bogdan Planic,72,28,0,74,2
+Andrei Burca,72,27,1,75,3
+Giovanni González,72,25,1,77,5
+Martin Hašek,72,24,0,75,3
+Matej Hanousek,72,27,0,74,2
+Ante Palaversa,72,20,7,85,13
+Gonzalo Plata,72,19,12,84,12
+Abdoul-Kader Bamba,72,26,2,75,3
+Aihen Muñoz,72,22,3,83,11
+Barrenetxea,72,18,8,84,12
+Iddrisu Baba,72,24,1,81,9
+Abdulkadir Parmak,72,25,3,77,5
+Tomás Tavares,72,19,14,84,12
+Otar Kiteishvili,72,24,0,78,6
+Mamadou Loum,72,23,1,81,9
+Pavel Bucha,72,22,2,80,8
+Marko Jevtovic,72,27,0,73,1
+Marius Bülter,72,27,0,72,0
+Fernando,72,21,8,84,12
+Adrian Fein,72,21,7,83,11
+Lovro Majer,72,22,3,80,8
+Luquinhas,72,23,2,78,6
+Alexandru Paun,72,25,3,75,3
+Giovanni Zarfino,72,28,2,72,0
+Mohamed Simakan,72,20,24,86,14
+Fernando Andrade,72,27,1,73,1
+Brandon Williams,72,19,56,86,14
+Heriberto Tavares,72,23,24,79,7
+Enock Mwepu,72,22,2,79,7
+Tudor Balu?a,72,21,5,83,11
+Imran Louza,72,21,1,83,11
+Ionu? Nedelcearu,72,24,7,80,8
+Benoît Badiashile,72,19,129,79,7
+Liberato Cacace,72,19,12,83,11
+Stephen Eustáquio,72,23,1,80,8
+Konstantinos Mavropanos,72,22,5,83,11
+Omar Fernández,72,27,1,72,0
+Albert Sambi Lokonga,72,20,3,83,11
+Daniel Akpeyi,72,34,1,72,0
+Aurélien Tchouaméni,72,20,11,79,7
+Mounir Chouiar,72,21,2,79,7
+David Martínez,72,22,1,79,7
+Ignatius Ganago,72,21,8,78,6
+Rodrigo Amaral,72,23,0,81,9
+Denis Vavro,72,24,1,79,7
+Kevin Rüegg,72,21,11,82,10
+Lukáš Štetina,72,29,2,73,1
+Léo Jabá,72,21,1,81,9
+Konstantinos Galanopoulos,72,22,1,80,8
+Bryan Acosta,72,26,0,73,1
+Mickaël Cuisance,72,20,85,84,12
+Matías de los Santos,72,27,2,75,3
+Matteo Pessina,72,23,6,81,9
+José Juan Macías,72,20,24,84,12
+Bremer,72,23,5,81,9
+Ibrahima Diallo,72,21,1,79,7
+Robin Hack,72,21,4,82,10
+Bogdan ?îru,72,26,0,75,3
+Leonardo Koutris,72,25,0,77,5
+Christopher Antwi-Adjej,72,26,1,73,1
+Emre Kilinç,72,25,4,75,3
+Nazim Sangaré,72,26,2,76,4
+Nacho Vidal,72,25,2,77,5
+Tyrell Malacia,72,20,10,81,9
+Diego Lainez,72,20,31,83,11
+Michael Murillo,72,24,3,77,5
+Takefusa Kubo,72,19,126,87,15
+Bruno Xadas,72,22,4,81,9
+Yuri Ribeiro,72,23,3,78,6
+Latif Blessing,72,23,2,75,3
+Bruno Wilson,72,23,2,80,8
+Isak Pettersson,72,23,2,79,7
+Anastasios Chatzigiovanis,72,23,4,78,6
+Jaromír Zmrhal,72,26,2,72,0
+Gerardo Arteaga,72,21,15,79,7
+Arnaud Nordin,72,22,4,80,8
+Wesley Lautoa,72,32,0,72,0
+Dimitris Giannoulis,72,24,2,77,5
+Enzo Merques,72,24,1,72,0
+Iván Gómez,72,23,2,83,11
+Patrick Burner,72,24,1,76,4
+Pol Lirola,72,22,4,77,5
+Giorgi Kvilitaia,72,26,0,74,2
+Victor Nelsson,72,21,2,82,10
+Álvaro Jiménez,72,25,0,78,6
+Carlos Rodríguez,72,23,5,79,7
+Carlos Acevedo,72,24,54,79,7
+Rúben Vinagre,72,21,10,83,11
+Nana Ampomah,72,24,0,77,5
+Gregor Kobel,72,22,3,81,9
+Yevhen Shakhov,72,29,0,72,0
+Aleksandar Sedlar,72,28,1,74,2
+Fredrik Jensen,72,22,0,79,7
+Yan Brice Eteki,72,22,0,81,9
+Diogo Leite,72,21,13,83,11
+Oualid El Hajjam,72,29,3,72,0
+Evander,72,22,3,82,10
+Oghenekaro Etebo,72,24,6,79,7
+Johannes Eggestein,72,22,10,81,9
+Lewis Travis,72,22,3,84,12
+Artur,72,24,4,77,5
+Yangel Herrera,72,22,9,81,9
+Rômulo Calsede,72,20,3,72,0
+Léo Duarte,72,24,12,82,10
+Júnior Morais,72,34,0,72,0
+Alexandr Maksimenko,72,22,7,83,11
+Samuel Grandsir,72,23,3,79,7
+Jorge Sánchez,72,22,5,78,6
+Riley McGree,72,21,0,79,7
+Russell Canouse,72,25,1,79,7
+Rifat Zhemaletdinov,72,23,1,79,7
+Garrido,72,30,2,72,0
+Franco Troyansky,72,23,1,78,6
+Takehiro Tomiyasu,72,21,16,83,11
+Yoshifumi Kashiwa,72,33,1,72,0
+Wataru Endo,72,27,2,74,2
+Maurício,72,28,1,73,1
+Timothy Fosu-Mensah,72,22,33,80,8
+Agustín Bouzat,72,26,3,73,1
+Jeison Lucumi,72,25,0,75,3
+Grady Diangana,72,22,6,84,12
+Aitor,72,24,4,78,6
+Emre Mor,72,23,20,79,7
+Michael Santos,72,27,2,73,1
+Nilsito Vilela,72,32,1,72,0
+Paulao Junqueiras,72,20,0,72,0
+Adrián Burnabão,72,24,0,72,0
+Igor Madinha,72,24,1,74,2
+Tramontinaldo,72,24,2,72,0
+Santi da Bruma,72,24,3,72,0
+Túlio Changas,72,24,0,74,2
+Sacramentinho,72,36,0,72,0
+Assane Dioussé,72,22,0,80,8
+Enock Kwateng,72,23,0,78,6
+Axel Disasi,72,22,16,80,8
+Gökhan Akkan,72,25,3,76,4
+Fali,72,26,5,77,5
+Álvaro Montero,72,25,1,78,6
+Tomás Cardona,72,24,2,79,7
+Jean Meneses,72,27,2,72,0
+Gil Dias,72,23,3,77,5
+Antonee Robinson,72,22,5,81,9
+Kévin N'Doram,72,24,1,78,6
+Francisco Geraldes,72,25,1,76,4
+Mërgim Vojvoda,72,25,0,76,4
+Christopher Ikonomidis,72,25,1,74,2
+Maximiliano Romero,72,21,6,83,11
+Bright Osayi-Samuel,72,22,5,80,8
+Samuel Adegbenro,72,24,3,78,6
+Henk Veerman,72,29,2,72,0
+Florian Sotoca,72,29,1,72,0
+Ivo Rodrigues,72,25,1,75,3
+Mauricio Martínez,72,27,0,75,3
+Pablo Aránguiz,72,23,8,81,9
+Fabián Sambueza,72,31,1,72,0
+Raúl Gudiño,72,24,8,79,7
+Joevin Jones,72,28,3,72,0
+Ben Godfrey,72,22,30,83,11
+Stephy Mavididi,72,22,3,78,6
+Leonardo Suárez,72,24,2,78,6
+Bruno Gaspar,72,27,3,73,1
+Khaled Narey,72,26,3,74,2
+Adama Traoré,72,25,9,77,5
+Jorge Sáenz,72,23,7,82,10
+Daniel Crowley,72,22,1,78,6
+Iago,72,28,0,75,3
+Rico Henry,72,23,10,80,8
+Víctor Salazar,72,27,1,74,2
+Jordan Larsson,72,23,8,79,7
+Karol Swiderski,72,23,1,77,5
+Derrick Luckassen,72,25,2,76,4
+Aaron Leya Iseka,72,22,6,76,4
+Christian Chimino,72,32,2,72,0
+Cristian Manea,72,22,7,82,10
+Racine Coly,72,24,0,79,7
+Efthymios Koulouris,72,24,4,75,3
+Freddie Woodman,72,23,2,82,10
+Cyriel Dessers,72,25,2,74,2
+Cao Yunding,72,30,1,72,0
+Jonathan Cabral,72,28,2,75,3
+Carlos Gruezo,72,25,0,79,7
+Marcel Sobottka,72,26,3,75,3
+Matt Clarke,72,23,5,80,8
+Jaïro Riedewald,72,23,5,75,3
+Dawid Kownacki,72,23,7,80,8
+Sebastiano Luperto,72,23,4,80,8
+Hassane Kamara,72,26,4,75,3
+Joel Pohjanpalo,72,25,6,74,2
+Clifford Aboagye,72,25,5,77,5
+Simone Scuffet,72,24,4,82,10
+Dani Calvo,72,26,0,76,4
+Farouk Ben Mustapha,72,31,0,73,1
+Alexis Martín Arias,72,28,0,76,4
+Yuya Kubo,72,26,2,73,1
+Javier Güemez,72,28,0,73,1
+Alen Halilovic,72,24,15,78,6
+Samir,72,25,4,76,4
+Edimilson Fernandes,72,24,4,79,7
+Aleksandar Boljevic,72,24,0,76,4
+Francesco Vicari,72,25,2,79,7
+Jeremy Toljan,72,25,2,75,3
+David Silva,72,33,0,72,0
+Raúl Loaiza,72,26,0,77,5
+Sebastián Sáez,72,35,0,72,0
+Isaiah Brown,72,23,9,79,7
+Kim Jin Su,72,28,3,73,1
+Gonçalo Silva,72,29,0,73,1
+Gyasi Zardes,72,28,11,72,0
+Tom Lawrence,72,26,8,73,1
+Mohammed Khalil Al Owais,72,28,2,73,1
+Júlio Tavares,72,31,4,72,0
+Eugeni,72,26,3,77,5
+Gotoku Sakai,72,29,4,72,0
+Insua,72,26,4,76,4
+Patrick Bamford,72,26,9,75,3
+Yassine Benzia,72,25,8,76,4
+Sanjin Prcic,72,26,1,74,2
+Jordon Ibe,72,24,5,77,5
+Mirko Pigliacelli,72,27,0,76,4
+Santiago Gentiletti,72,35,1,72,0
+Ricardo Álvarez,72,32,4,72,0
+Jores Okore,72,27,3,75,3
+Janis Blaswich,72,29,0,74,2
+Jón Gu?ni Fjóluson,72,31,2,72,0
+Bobby Decordova-Reid,72,27,4,73,1
+Jesé,72,27,18,72,0
+Ludek Pernica,72,30,0,73,1
+Frederik Sørensen,72,28,5,74,2
+Tomáš Kalas,72,27,6,76,4
+Bruno Uvini,72,29,3,73,1
+Marcin Kaminski,72,28,3,74,2
+Rodrigo Millar,72,38,0,72,0
+Pelé,72,28,4,73,1
+Escassi,72,31,3,72,0
+Vid Belec,72,30,2,73,1
+Ezequiel Schelotto,72,31,5,72,0
+Luciano Narsingh,72,29,7,72,0
+Sean Johnson,72,31,2,73,1
+Samuel Armenteros,72,30,3,72,0
+Pasquale Schiattarella,72,33,2,72,0
+Riccardo Meggiorini,72,34,2,72,0
+Roberto Gutiérrez,72,37,0,72,0
+Michal Pazdan,72,32,3,72,0
+Kyriakos Papadopoulos,72,28,5,72,0
+Alex Smithies,72,30,1,73,1
+Bracali,72,39,1,72,0
+Federico Peluso,72,36,3,72,0
+Brad Jones,72,38,1,72,0
+Brad Guzan,72,35,2,72,0
+Eduardo,72,37,3,72,0
+Cristian Lucchetti,72,42,0,72,0
+Aiden McGeady,72,34,6,72,0
+Alex Cordaz,72,37,1,72,0
+Rubén Castro,72,39,4,72,0
+Stephan Lichtsteiner,72,36,11,72,0
+Artur Boruc,72,40,25,72,0
+Maarten Stekelenburg,72,37,2,72,0
+Ángel Romero,71,29,0,71,0
+Afsha,71,24,0,75,4
+Efrén Mera,71,35,0,71,0
+Brian Ocampo,71,21,0,78,7
+Thiago Cardozo,71,23,0,79,8
+Iván Franco,71,20,0,80,9
+Darwin Núñez,71,21,2,82,11
+Tanguy Kouassi,71,18,27,80,9
+Nuno Tavares,71,20,40,84,13
+Mateus Pasinato,71,28,0,71,0
+Patricio Cucchi,71,27,0,72,1
+Jonathan Rodríguez,71,30,0,71,0
+Thierry Correia,71,21,5,79,8
+Moncayola,71,22,0,81,10
+Dino Hotic,71,25,0,75,4
+Khalid Eissa,71,30,0,72,1
+Abdulla Yusuf Helal,71,27,0,73,2
+Manor Solomon,71,21,4,86,15
+Sekou Koita,71,20,3,83,12
+Agustín Urzi,71,20,14,86,15
+Yoshinori Suzuki,71,27,0,71,0
+Bryan Angulo,71,24,1,77,6
+Mathías Suárez,71,24,1,76,5
+Miguel Luís,71,21,3,83,12
+Julián Álvarez,71,20,19,85,14
+Lautaro Valenti,71,21,3,82,11
+Pedro De la Vega,71,19,75,85,14
+Kiril Despodov,71,23,1,77,6
+Silas Wamangituka,71,20,9,83,12
+Hendrik Weydandt,71,25,2,77,6
+Adolfo Gaich,71,21,20,84,13
+Billy Arce,71,22,2,84,13
+Mohammed Kudus,71,19,24,86,15
+Jan Hurtado,71,20,18,83,12
+Denys Popov,71,21,9,84,13
+Petar Musa,71,22,2,81,10
+Tomáš Chory,71,25,0,74,3
+Roman Procházka,71,31,0,71,0
+Nazariy Rusyn,71,21,2,80,9
+Sancet,71,20,2,85,14
+Jayden Bogle,71,20,14,83,12
+Georgiy Bushchan,71,26,5,76,5
+Toni Borevkovic,71,23,1,80,9
+Marios Vrousai,71,22,0,78,7
+Amer Gojak,71,23,1,78,7
+Nikola Katic,71,23,1,81,10
+Peter Haring,71,27,2,75,4
+Josip Vukovic,71,28,0,72,1
+Albert Vallci,71,25,2,76,5
+Luca Pellegrini,71,21,20,85,14
+Rafael Camacho,71,20,3,86,15
+Alexandru Cicâldau,71,23,1,79,8
+Dragos Nedelcu,71,23,2,78,7
+Riqui Puig,71,20,100,87,16
+Alexis Saelemaekers,71,21,16,81,10
+Håkon Evjen,71,20,2,84,13
+Yassine Meriah,71,27,0,74,3
+Cristian Ferreira,71,20,20,83,12
+Mikkel Damsgaard,71,20,5,83,12
+Antonio Bareiro,71,31,1,71,0
+Álex Centelles,71,20,5,81,10
+Ayrton Preciado,71,26,0,74,3
+Joseph Paintsil,71,22,3,78,7
+Hamed Junior Traorè,71,20,17,86,15
+Kévin Zohi,71,23,3,80,9
+Giannis Bouzoukis,71,22,1,80,9
+Ander Guevara,71,23,2,80,9
+Samuel Moutoussamy,71,23,2,77,6
+Sergio Córdova,71,22,2,79,8
+Szymon Zurkowski,71,22,6,80,9
+Kai Wagner,71,23,0,74,3
+Jonathan González,71,21,7,79,8
+Dominik Frieser,71,26,0,72,1
+Umut Bozok,71,23,0,76,5
+Lewis Wing,71,25,1,77,6
+Alexandre Guedes,71,26,1,73,2
+Pedro Neto,71,20,10,84,13
+Claudio Spinelli,71,23,3,79,8
+Jack Elliott,71,24,1,75,4
+Kevin Danso,71,21,4,80,9
+Matheus Fernandes,71,22,5,83,12
+Raoul Petretta,71,23,5,80,9
+Oussama Haddadi,71,28,1,71,0
+Philipp Förster,71,25,1,74,3
+Gastón Togni,71,22,1,82,11
+Carlinhos Junior,71,25,2,75,4
+Joseph Willock,71,20,17,85,14
+Mergim Berisha,71,22,0,79,8
+Eddie Segura,71,23,4,79,8
+Moussa Wagué,71,21,15,78,7
+Frank Boya,71,24,3,78,7
+Christian Ramirez,71,29,1,71,0
+Facundo Medina,71,21,7,83,12
+Marc Gual,71,24,2,78,7
+Gastón Guruceaga,71,25,0,76,5
+Robert Glatzel,71,26,2,74,3
+Yan Valery,71,21,4,82,11
+Nicolás Ibáñez,71,25,1,76,5
+Darío Aimar,71,25,2,78,7
+Túlio Sandoiro,71,24,0,71,0
+Morgan Gibbs-White,71,20,19,84,13
+Maximiliano Cuadra,71,25,8,76,5
+Deyovaisio Zeefuik,71,22,1,78,7
+Mamadou Fofana,71,22,1,79,8
+Alberto Paleari,71,27,2,73,2
+Dario Maresic,71,20,4,83,12
+Yoann Salmier,71,27,1,74,3
+Silvère Ganvoula,71,24,0,78,7
+Nikola Dovedan,71,26,4,75,4
+Salih Özcan,71,22,9,80,9
+Kevin Bonifazi,71,24,4,79,8
+Pedrinho,71,27,1,72,1
+Josh Maja,71,21,15,80,9
+Marko Pajac,71,27,1,71,0
+Diogo Queirós,71,21,0,80,9
+Jota,71,21,15,84,13
+Jordan Lefort,71,26,0,75,4
+Myziane Maolida,71,21,13,76,5
+Dodô,71,21,10,82,11
+Carlos Cáceda,71,28,2,71,0
+Borja Lasso,71,26,1,74,3
+Eduardo Fonseira,71,20,5,71,0
+Alessio Castro-Montes,71,23,0,78,7
+Lincoln,71,21,3,81,10
+Miguel Barbieri,71,26,2,76,5
+Yuma Suzuki,71,24,4,76,5
+Koji Miyoshi,71,23,3,78,7
+Ryota Nagaki,71,32,1,71,0
+Keigo Higashi,71,30,1,71,0
+Kento Hashimoto,71,26,5,72,1
+Jay Dasilva,71,22,0,82,11
+Damian Batallini,71,24,1,79,8
+Musashi Suzuki,71,26,2,72,1
+Miguelón,71,24,0,77,6
+Josh Dasilva,71,21,7,81,10
+Stefan Marinovic,71,28,2,73,2
+Joe Aribo,71,24,3,80,9
+Alan Mozo,71,23,8,78,7
+Giuseppe Pezzella,71,22,3,80,9
+Saberto Botelho,71,20,0,71,0
+Nascimentardo,71,20,1,71,0
+Tiago Pombeira,71,20,2,71,0
+Dinei Peixo,71,24,0,73,2
+Sanaldo Caiado,71,32,0,71,0
+Arthur Silbeira,71,24,1,71,0
+Eltildo Bessa,71,24,2,71,0
+Jhonatan,71,29,0,72,1
+Moon Seon Min,71,28,4,71,0
+Dael Fry,71,22,7,82,11
+Victorien Angban,71,23,0,80,9
+Lukas Klünter,71,24,2,77,6
+Florian Ayé,71,23,4,80,9
+Unai Bilbao,71,26,1,75,4
+Matheus Pereira,71,22,3,79,8
+Thapelo Morena,71,26,0,73,2
+Ezri Konsa,71,22,8,83,12
+Lukáš Haraslín,71,24,2,76,5
+Yojiro Takahagi,71,33,1,71,0
+Konstantin Kerschbaumer,71,28,1,72,1
+Baldomero Perlaza,71,28,1,74,3
+Gil Alcalá,71,28,3,74,3
+Juninho Bacuna,71,22,3,81,10
+Jonathan Galván,71,28,2,74,3
+Greg Taylor,71,22,10,82,11
+Mohamed Fares,71,24,5,77,6
+Filippo Romagna,71,23,5,81,10
+Michalis Bakakis,71,29,2,71,0
+Petar Stojanovic,71,24,3,75,4
+Scott McKenna,71,23,7,80,9
+Théo Valls,71,24,0,76,5
+Aboubakar Kamara,71,25,5,75,4
+Kevin Balanta,71,23,7,81,10
+Ygor Nogueira,71,25,0,73,2
+Nicolas Haas,71,24,2,74,3
+Steve Mounié,71,25,7,75,4
+Guillermo Beltrán,71,36,0,71,0
+Rafael Defendi,71,36,1,71,0
+Esteban Burgos,71,28,0,73,2
+Leonardo Mancuso,71,28,3,71,0
+Julian Pollersbeck,71,25,1,75,4
+Orkan Çinar,71,24,3,77,6
+Reziuan Mirzov,71,27,2,72,1
+Ulisses Garcia,71,24,1,78,7
+Benno Schmitz,71,25,2,74,3
+Andres Tello,71,23,6,79,8
+Oliver Hüsing,71,27,1,73,2
+Tosin Adarabioyo,71,22,6,81,10
+Craig Halkett,71,25,1,78,7
+Eric,71,34,0,71,0
+Omar Govea,71,24,5,76,5
+Federico Melchiorri,71,33,0,71,0
+Federico Mattiello,71,25,3,75,4
+Ismaïl Aissati,71,31,2,71,0
+Ethan Horvath,71,25,4,76,5
+Joaquín Arzura,71,27,0,75,4
+Sebastián Silva,71,29,2,73,2
+Gibrán Lajud,71,26,1,76,5
+Shusaku Nishikawa,71,34,1,71,0
+Kendall Waston,71,32,2,71,0
+Idris,71,35,1,71,0
+Robert Skov,71,24,4,77,6
+Darwin Andrade,71,29,3,71,0
+Antony Silva,71,36,2,71,0
+Yeison Gordillo,71,28,0,74,3
+Rasmus Schüller,71,29,1,72,1
+Raúl López,71,27,4,72,1
+Bauyrzhan Islamkhan,71,27,3,72,1
+Ismael Tajouri-Shradi,71,26,1,72,1
+Kellyn Acosta,71,25,4,77,6
+Mu Kanazaki,71,31,4,71,0
+Kensuke Nagai,71,31,10,71,0
+John Souttar,71,23,6,82,11
+Nikola Ninkovic,71,25,3,76,5
+Lewis Baker,71,25,7,76,5
+Arnór Ingvi Traustason,71,27,2,71,0
+Callum Paterson,71,25,6,75,4
+Cristian Benavente,71,26,2,75,4
+Carlinhos,71,26,7,75,4
+Jehad Al Hussien,71,37,1,71,0
+Jimmy Giraudon,71,28,1,73,2
+Alfie Mawson,71,26,3,75,4
+Kim In Seong,71,30,4,71,0
+Jacob Murphy,71,25,4,73,2
+Harrison Reed,71,25,3,78,7
+Ryan Woods,71,26,0,76,5
+Ruiz de Galarreta,71,26,3,74,3
+Marcus Bettinelli,71,28,2,75,4
+Wellington Nem,71,28,11,71,0
+Isaac Cuenca,71,29,4,71,0
+Barry Douglas,71,30,2,71,0
+Santiago García,71,32,3,71,0
+Raïs M'Bolhi,71,34,2,71,0
+Kenneth Zohore,71,26,4,73,2
+Akihiro Hayashi,71,33,2,71,0
+Flavio Paixão,71,35,2,71,0
+Marco Calderoni,71,31,3,71,0
+Villalibre,71,22,2,78,7
+Antonio Briseño,71,26,3,76,5
+Markus Henriksen,71,28,4,72,1
+Olcay Sahan,71,33,5,71,0
+Manuel Iori,71,38,0,71,0
+Esteban Conde,71,37,2,71,0
+Kim Kwang Suk,71,37,0,71,0
+Vassilis Torosidis,71,35,3,71,0
+José Joaquín Martínez,71,33,6,71,0
+Søren Rieks,71,33,3,71,0
+Alexander Tettey,71,34,3,71,0
+Javier Gandolfi,71,39,0,71,0
+Yasuhito Endo,71,40,3,71,0
+Maximiliano López,71,36,3,71,0
+Giampaolo Pazzini,71,35,9,71,0
+Lee Grant,71,37,3,71,0
+Byron Palacios,70,25,0,71,1
+Alfredo Ramúa,70,34,0,70,0
+Luis Ayala,70,26,0,73,3
+Ladislav Takács,70,24,1,75,5
+Michael Sotillo,70,35,0,70,0
+Edson Aubert,70,31,0,70,0
+Mosa Lebusa,70,27,0,71,1
+Tomás Ribeiro,70,21,2,82,12
+Armando Méndez,70,24,0,77,7
+Facundo Pellistri,70,18,8,86,16
+Marcel Novick,70,36,0,70,0
+Matías Espinoza,70,22,0,76,6
+Eli Dasa,70,27,1,71,1
+Hichem Boudaoui,70,20,2,80,10
+Leonardo Fernández,70,21,6,78,8
+Baher El Mohamady,70,23,0,75,5
+Cheick Comara,70,26,1,73,3
+Filipe Soares,70,21,0,78,8
+Ladislav Krejcí,70,21,2,77,7
+João Pedro,70,18,16,86,16
+Fábio Silva,70,18,21,86,16
+Lazar Randelovic,70,22,2,77,7
+Santiago Herreyra,70,27,0,73,3
+Carlos Lendezo,70,26,0,71,1
+Luis Conderia,70,28,0,70,0
+Anderson Niangbo,70,20,0,81,11
+Charles De Ketelaere,70,19,6,84,14
+Henrique Gomes,70,24,1,77,7
+Nuno Santos,70,21,0,80,10
+Samir Nurkovic,70,28,1,70,0
+Guga Rodrigues,70,23,0,77,7
+Fortune Makaringe,70,27,2,72,2
+Mauro Fernández,70,31,1,70,0
+Dante Stipica,70,29,0,73,3
+Mohamed Diaby,70,23,1,77,7
+Yaw Ackah,70,21,3,77,7
+Catalin Golofca,70,30,0,70,0
+Juan Escobar,70,25,5,76,6
+Christian Oliva,70,24,2,76,6
+Campuzano,70,23,2,81,11
+Amos Pieper,70,22,4,77,7
+Vakoun Issouf Bayo,70,23,1,76,6
+Javier Méndez,70,25,0,73,3
+Park Il Gyu,70,30,1,70,0
+Gustavo Velázquez,70,29,0,70,0
+Ignacio Aliseda,70,20,2,84,14
+Ryan Gravenberch,70,18,34,87,17
+Mollejo,70,19,4,83,13
+Igor Diveev,70,20,6,83,13
+Víctor Gómez,70,20,4,80,10
+Nikolay Rasskazov,70,22,3,78,8
+Sekou Gassama,70,25,1,75,5
+Güven Yalçin,70,21,5,79,9
+Marcel Ruiz,70,19,5,81,11
+Yassine Benrahou,70,21,3,81,11
+Milan Havel,70,25,0,74,4
+Oleksiy Shevchenko,70,28,0,72,2
+Mihai Bordeianu,70,28,0,71,1
+Gonzalo Villar,70,22,6,81,11
+Jaka Bijol,70,21,2,81,11
+Keven Schlotterbeck,70,23,0,76,6
+Moussa Djitté,70,20,3,81,11
+Ibrahim Sissoko,70,24,0,76,6
+Álex Díez,70,24,9,77,7
+James Igbekeme,70,25,1,77,7
+Vincent Pule,70,28,3,70,0
+Yacine Adli,70,20,13,83,13
+Ikoma Loïs Openda,70,20,6,82,12
+Ali Gholizadeh,70,24,0,75,5
+Dani Gómez,70,21,7,80,10
+Alberto Soro,70,21,0,83,13
+Luis Romo,70,25,5,77,7
+Nicu?or Bancu,70,27,2,71,1
+Klauss,70,23,2,76,6
+Koki Anzai,70,25,0,75,5
+Rayan Aït Nouri,70,19,31,85,15
+Marko Mihojevic,70,24,1,79,9
+Giangiacomo Magnani,70,24,2,77,7
+Musa Barrow,70,21,21,81,11
+Christoph Baumgartner,70,20,3,82,12
+Eduard Bello,70,24,2,75,5
+Kristijan Bistrovic,70,22,4,82,12
+Jordan Sierra,70,23,6,77,7
+Majeed Ashimeru,70,22,3,77,7
+Stanley Nsoki,70,21,9,79,9
+Vagner,70,24,3,77,7
+Keaton Parks,70,22,3,81,11
+Rogério,70,22,6,79,9
+Tomás Belmonte,70,22,1,79,9
+Jhon Arias,70,22,0,81,11
+Nolaskoain,70,21,4,81,11
+Jessy Deminguet,70,22,4,79,9
+Thamsanqa Mkhize,70,31,2,70,0
+Lutsharel Geertruida,70,20,4,81,11
+Armando Obispo,70,21,2,79,9
+Jamilu Collins,70,25,2,74,4
+Nikola Maraš,70,24,2,78,8
+Júnior Moreno,70,27,0,75,5
+Ridle Baku,70,22,8,81,11
+Ludovit Reis,70,20,12,83,13
+Yildirim Mert Çetin,70,23,6,80,10
+Mohamed Fouzair,70,28,2,70,0
+Dimitrios Kolovetsios,70,28,1,71,1
+Cheick Traoré,70,25,1,74,4
+Gabrielzinho,70,24,1,76,6
+Leo Štulac,70,25,0,77,7
+Hassane Bandé,70,21,0,76,6
+Marko Raguz,70,22,1,77,7
+Tete Morente,70,23,2,79,9
+Frank Onyeka,70,22,0,78,8
+Dani de Wit,70,22,1,76,6
+Yusupha Njie,70,26,2,71,1
+Giannis Anestis,70,29,2,72,2
+Abel Ruiz,70,20,15,84,14
+Félix Eboa Eboa,70,23,0,74,4
+Jonathan Clauss,70,27,0,70,0
+Ibrahima Niane,70,21,5,82,12
+Daniel Keita-Ruel,70,30,2,70,0
+Alex Pinto,70,22,1,78,8
+Idriz Voca,70,23,0,82,12
+Fernando Fonseca,70,23,0,78,8
+Michael Johnston,70,21,6,83,13
+Hamza Mendyl,70,22,5,76,6
+Conor Gallagher,70,20,8,84,14
+Gabriel Carrasco,70,23,0,80,10
+Albert Gu?mundsson,70,23,3,77,7
+Yusuke Maruhashi,70,29,2,70,0
+Ado Onaiwu,70,24,0,73,3
+Vasyl Kravets,70,22,0,80,10
+Jackson Yueill,70,23,1,78,8
+Reggie Cannon,70,22,4,81,11
+Cris Salvador,70,25,0,76,6
+Eddie Nketiah,70,21,32,85,15
+Aymen Barkok,70,22,2,81,11
+Koke Vegas,70,24,0,78,8
+Nilson Padilho,70,20,1,70,0
+Ivan Zlobin,70,23,3,80,10
+Juan Brunetta,70,23,4,80,10
+Andrea Pinamonti,70,21,12,83,13
+Fabio Depaoli,70,23,3,79,9
+Berkay Özcan,70,22,0,77,7
+Jean-Ricner Bellegarde,70,22,48,79,9
+Andrea Beghetto,70,25,1,73,3
+Sebastián Hernández,70,33,2,70,0
+Antoine Bernede,70,21,1,81,11
+Philippe Sandler,70,23,8,78,8
+Luis Reyes,70,29,1,70,0
+Diogo Costa,70,20,20,82,12
+Markus Schubert,70,22,1,81,11
+David Turnbull,70,21,3,84,14
+Gonzalo Maroni,70,21,4,80,10
+Allan Ardaújo,70,32,0,70,0
+Jairo Farnias,70,20,0,70,0
+Cristian Calderón,70,23,8,76,6
+Maximiliano Lovera,70,21,0,79,9
+Jesús Angulo,70,23,7,79,9
+Robert Gumny,70,22,14,84,14
+Alexis Vega,70,22,9,80,10
+Kevin Mac Allister,70,22,2,80,10
+Kamil Józwiak,70,22,11,81,11
+Sei Muroya,70,26,4,72,2
+Christian Rivera,70,24,1,78,8
+Takahiro Kunimoto,70,22,2,79,9
+Takuya Kida,70,25,3,73,3
+Milton Valenzuela,70,21,3,80,10
+Simen Juklerød,70,26,1,74,4
+Kim Min Tae,70,26,0,72,2
+Dimitris Chatziisaias,70,27,0,72,2
+Santiago Mosquera,70,25,2,71,1
+Ronald Matarrita,70,26,2,75,5
+Jaroslaw Niezgoda,70,25,3,75,5
+José Moya,70,27,1,73,3
+Han Chan Hee,70,23,1,75,5
+Ronaël Pierre-Gabriel,70,22,3,80,10
+Adalberto Peñaranda,70,23,10,77,7
+José Arnáiz,70,25,2,73,3
+Rey Manaj,70,23,11,79,9
+Adão Salvadaldo,70,24,1,70,0
+Renaldo Justinho,70,24,0,70,0
+Leôncio Lobeiro,70,20,0,72,2
+João Barnierie,70,24,0,72,2
+Vanderlei Cõembra,70,20,1,72,2
+Nikola Stojiljkovic,70,27,1,70,0
+Fran Villalba,70,22,1,80,10
+Mauricio Lemos,70,24,6,74,4
+Rodri Tarín,70,24,3,81,11
+Tyler Roberts,70,21,6,81,11
+Dmitriy Zhivoglyadov,70,26,1,75,5
+Óscar Estupiñán,70,23,2,77,7
+Brian Mansilla,70,23,3,78,8
+Víctor Malcorra,70,33,0,70,0
+Kieran Dowell,70,22,4,78,8
+Olivier Boscagli,70,22,3,76,6
+Dominic Solanke,70,22,11,78,8
+Joel Tagueu,70,26,1,71,1
+Raúl Guti,70,23,6,78,8
+Valentin Jacob,70,26,0,74,4
+Ben Whiteman,70,24,4,76,6
+Krystian Bielik,70,22,7,82,12
+Erick Aguirre,70,23,10,79,9
+Sergi Canós,70,23,3,76,6
+Timon Wellenreuther,70,24,6,76,6
+Hakan Arslan,70,32,3,70,0
+Stefano Moreo,70,27,2,73,3
+Abdallah Gomaa,70,24,1,74,4
+Yairo Moreno,70,25,4,73,3
+Nahuel Leiva,70,23,5,77,7
+Uroš Durdevic,70,26,2,73,3
+Alexis Pérez,70,26,0,75,5
+Franck Honorat,70,23,0,79,9
+Guillermo Varela,70,27,3,71,1
+Marcos Mauro,70,29,0,71,1
+Jack Byrne,70,24,3,76,6
+Djavan,70,32,1,70,0
+Kieffer Moore,70,27,4,71,1
+Pablo Velázquez,70,33,1,70,0
+Bartosz Kapustka,70,23,9,77,7
+Scott Hogan,70,28,4,70,0
+Axel Werner,70,24,7,77,7
+Washington Camacho,70,34,1,70,0
+Mauro Bogado,70,35,1,70,0
+Diego Rodríguez,70,31,0,71,1
+Michal Nalepa,70,27,3,73,3
+Jack Marriott,70,25,2,75,5
+Gauthier Gallon,70,27,0,74,4
+Valber Huerta,70,26,3,73,3
+Christian Vilches,70,37,1,70,0
+Ashley Fletcher,70,24,4,75,5
+José Cevallos,70,25,3,74,4
+Günay Güvenç,70,29,0,72,2
+Jackson Irvine,70,27,1,72,2
+Luis Manuel García,70,27,1,74,4
+Per Kristian Bråtveit,70,24,0,74,4
+Edison Flores,70,26,6,72,2
+Kortney Hause,70,25,1,76,6
+Filip Malbašic,70,27,7,70,0
+Barrie McKay,70,25,2,72,2
+Kévin Boli,70,29,1,71,1
+Adrián Ortolá,70,26,3,75,5
+Abdoulaye Ba,70,29,2,71,1
+Zinho Gano,70,26,1,72,2
+Jens Jønsson,70,27,4,70,0
+Santiago Vergini,70,31,3,70,0
+David Bingham,70,30,2,71,1
+Emil Bergström,70,27,1,75,5
+Adam Davies,70,28,1,74,4
+Douglas Vieira,70,32,2,70,0
+Bailey Wright,70,28,2,71,1
+Jonathan Williams,70,26,3,72,2
+José Antonio Madueña,70,30,3,70,0
+Mark Gillespie,70,28,1,73,3
+Andrea Seculin,70,30,0,71,1
+Steven Caulker,70,28,6,72,2
+Adama Traoré,70,30,12,70,0
+Guram Kashia,70,33,3,70,0
+Nwankwo Obiora,70,29,3,70,0
+Damián Díaz,70,34,2,70,0
+Jonathan Biabiany,70,32,4,70,0
+Claudio Yacob,70,33,4,70,0
+Kengo Nakamura,70,39,2,70,0
+Johnny Herrera,70,39,1,70,0
+Nicolás Spolli,70,37,2,70,0
+Urby Emanuelson,70,34,5,70,0
+Aldo Ramírez,70,39,0,70,0
+Ashley Williams,70,35,2,70,0
+Juan Manuel Olivera,70,38,0,70,0
+Cristian Sapunaru,70,36,1,70,0
+Jonás Gutiérrez,70,37,0,70,0
+Nino,70,40,0,70,0
+Simone Padoin,70,36,3,70,0
+Stewart Downing,70,36,4,70,0
+Mohamed Tijani,69,23,1,79,10
+David Zima,69,19,4,82,13
+Róbert Bozeník,69,20,3,81,12
+Gadi Kinda,69,26,1,72,3
+Leonardo,69,23,0,76,7
+Jonathan Borja,69,26,2,72,3
+Mohamed Hany,69,24,0,74,5
+Robert Burbano,69,24,1,75,6
+Andrés Montero,69,26,0,70,1
+Sebastián Assís,69,27,0,70,1
+Lukas Provod,69,23,0,78,9
+Carlos Beltrán,69,29,0,69,0
+Aldair Rodríguez,69,25,0,73,4
+Byron Castillo,69,21,0,75,6
+Carlos Arboleda,69,28,0,69,0
+Moisés Corozo,69,27,0,72,3
+Matías Zunino,69,30,0,69,0
+Agustín Ocampo,69,22,0,80,11
+Jorge Morel,69,22,0,82,13
+Hernán Novick,69,31,0,69,0
+Bruno Duarte,69,24,0,76,7
+Shamar Nicholson,69,23,0,75,6
+Joyskim Dawa Tchakonte,69,24,2,73,4
+Joris Chotard,69,18,1,84,15
+Tiago Djaló,69,20,7,84,15
+Ismail Jakobs,69,20,11,82,13
+Giorgos Athanasiadis,69,27,1,72,3
+Willyan,69,25,0,74,5
+Sven Botman,69,20,3,78,9
+Randy Nteka,69,22,2,80,11
+José Borgueray,69,30,0,70,1
+Pedro Amaral,69,22,0,77,8
+Luis Díaz,69,21,2,78,9
+Álex Bermejo,69,21,1,80,11
+Dejan Joveljic,69,20,1,80,11
+Enzo Lombardo,69,23,1,78,9
+Anderson Oliveira,69,22,1,78,9
+Halil Dervisoglu,69,20,0,81,12
+Luca Kilian,69,20,4,79,10
+Richard Sánchez,69,24,4,74,5
+Ionu? Pan?îru,69,24,0,75,6
+Valentin Mihaila,69,20,1,78,9
+Iulian Cristea,69,26,0,76,7
+Andrei Chindri?,69,21,2,83,14
+Andrei Miron,69,26,0,73,4
+Valentin Cre?u,69,31,1,69,0
+Alex Vigo,69,21,4,79,10
+Dávid Hancko,69,22,4,81,12
+Kai Pröger,69,28,1,69,0
+Ousseynou Thioune,69,26,0,71,2
+Aké Loba,69,22,2,78,9
+Lassina Traoré,69,19,8,83,14
+Adam Bareiro,69,24,1,77,8
+Bafodé Diakité,69,19,3,82,13
+Tomoki Iwata,69,23,0,77,8
+Noriaki Fujimoto,69,30,1,69,0
+Jérémy Doku,69,18,40,87,18
+Beder Caicedo,69,28,1,70,1
+Stiven Plaza,69,21,7,83,14
+Ewoud Pletinckx,69,19,5,81,12
+Henry Vaca,69,22,1,77,8
+Shinnosuke Hatanaka,69,24,1,73,4
+Kyogo Furuhashi,69,25,2,73,4
+Farid El Melali,69,23,1,76,7
+Javi Sánchez,69,23,3,80,11
+Stoichkov,69,26,2,71,2
+Diego Palacios,69,21,1,79,10
+Eric García,69,19,75,85,16
+Carlos Benavídez,69,22,0,79,10
+Álex López,69,23,0,79,10
+Javi Hernández,69,22,15,82,13
+Eryc Castillo,69,25,4,72,3
+Fashion Sakala,69,23,1,75,6
+Jorge Félix,69,28,8,69,0
+Aleksandar Radovanovic,69,26,1,73,4
+Catena,69,25,0,75,6
+Mujaid,69,20,3,83,14
+Borna Sosa,69,22,3,78,9
+Noam Baumann,69,24,0,77,8
+José Ortíz,69,21,4,80,11
+Felipe Jaramillo,69,24,0,78,9
+Gaëtan Robail,69,26,1,70,1
+Guillermo Soto,69,26,0,72,3
+Francisco Ortega,69,21,5,82,13
+Lewis Ferguson,69,20,5,84,15
+Nikolas Špalek,69,23,2,76,7
+Josh Sargent,69,20,9,83,14
+Nanu,69,26,2,73,4
+Francis Amuzu,69,20,9,79,10
+Abdou Harroui,69,22,0,78,9
+Aldo Cruz,69,22,2,79,10
+Pape Gueye,69,21,12,83,14
+Jonas Wind,69,21,3,78,9
+Romario Ibarra,69,25,1,72,3
+Timothy Weah,69,20,42,84,15
+Jesus Ferreira,69,19,16,82,13
+Roberto Ordoñez,69,35,0,69,0
+Olimpiu Moru?an,69,21,3,82,13
+Reeve Frosler,69,22,1,76,7
+Yannis Clementia,69,23,2,74,5
+Tomás Chancalay,69,21,3,79,10
+Felipe Carballo,69,23,2,78,9
+Michael Estrada,69,24,2,76,7
+Jérémy Grimm,69,33,0,69,0
+Dejan Ljubicic,69,22,2,77,8
+Emmanuel Apeh,69,23,5,78,9
+Mert Hakan Yandas,69,25,1,74,5
+Amine Gouiri,69,20,21,84,15
+Emanuel Vignato,69,19,6,81,12
+Sofian Kiyine,69,22,3,80,11
+Luca Fiordilino,69,24,1,78,9
+Bastien Toma,69,21,1,83,14
+Eduardo Tercero,69,24,2,75,6
+Caleb Ekuban,69,26,4,72,3
+Ramiro González,69,29,1,69,0
+Gerzino Nyamsi,69,23,2,77,8
+Nicolas Cozza,69,21,14,82,13
+Cristian Ganea,69,28,0,70,1
+Sadik Çiftpinar,69,27,1,71,2
+Lucas Possignolo,69,26,3,72,3
+Paxton Pomykal,69,20,5,83,14
+Uriel Antuna,69,22,4,77,8
+Hiroki Abe,69,21,22,82,13
+Lucas,69,28,0,72,3
+Lalas Abubakar,69,25,3,74,5
+Lazaros Lamprou,69,22,0,76,7
+Nick Lima,69,25,0,72,3
+Orji Okwonkwo,69,22,3,77,8
+Luis González,69,29,7,69,0
+Japhet Tanganga,69,21,15,84,15
+Enrico Brignola,69,21,5,83,14
+Anderson Santamaría,69,28,3,71,2
+Ever Sineiro,69,20,1,69,0
+Paulo Daineiro,69,24,0,69,0
+Sebastian Szymanski,69,21,17,85,16
+Francesco Cassata,69,23,0,80,11
+Marco Varnier,69,22,9,81,12
+Nicolás Milesi,69,27,0,71,2
+Isaac Sackey,69,26,1,74,5
+Domingos Quina,69,20,12,84,15
+Riccardo Piscitelli,69,26,0,74,5
+Luca Mora,69,32,1,69,0
+Andrés Iniestra,69,24,1,76,7
+Daniel Arzani,69,21,10,83,14
+Jacob Rasmussen,69,23,2,80,11
+Martínez,69,27,2,72,3
+Caro,69,26,2,74,5
+Aleksandar Jovanovic,69,27,0,73,4
+Jaílson,69,24,2,77,8
+Cebio Soukou,69,27,0,69,0
+Calogero Rizzuto,69,28,2,69,0
+Ché Nunnely,69,21,1,77,8
+Sandeiro Leal,69,20,0,69,0
+Eray Cömert,69,22,1,82,13
+Blas Riveros,69,22,4,80,11
+Borja Galán,69,27,1,69,0
+Sifiso Hlanti,69,30,4,69,0
+Claud Adjapong,69,22,6,79,10
+Keita Endo,69,22,3,75,6
+Sarpreet Singh,69,21,6,80,11
+Farouk Miya,69,22,1,75,6
+David Lemos,69,25,1,75,6
+Christopher Martins,69,23,1,80,11
+Dániel Sallói,69,24,3,76,7
+Lee Seung Woo,69,22,2,75,6
+Jannes Horn,69,23,4,77,8
+Quentin Boisgard,69,23,1,77,8
+Rafa Mir,69,23,3,76,7
+Filippo Bandinelli,69,25,2,74,5
+Hildeberto Pereira,69,24,3,74,5
+Moussa Koné,69,23,5,76,7
+Trevoh Chalobah,69,21,8,82,13
+Weilson Leal,69,32,0,69,0
+Emidio Hoffman,69,24,1,69,0
+Kastriot Dermaku,69,28,0,71,2
+Costinha,69,27,2,70,1
+Zinédine Machach,69,24,4,75,6
+Ayman Ashraf,69,29,2,70,1
+Arquímedes Figuera,69,30,15,69,0
+Ronan Curtis,69,24,3,75,6
+Calvin Verdonk,69,23,0,74,5
+Favio Álvarez,69,27,3,70,1
+Diego Viera,69,29,0,70,1
+Nicolai Rapp,69,23,2,79,10
+Cedric Teuchert,69,23,4,78,9
+Branco Ampuero,69,27,1,74,5
+Gianluca Gaudino,69,23,3,78,9
+Néstor Breitenbruch,69,24,1,74,5
+Kylian Hazard,69,24,5,73,4
+Marko Petkovic,69,27,1,70,1
+Wilfrid Kaptoum,69,24,4,76,7
+Dimitri Oberlin,69,22,8,76,7
+Fernando Pellegrino,69,34,0,69,0
+Thomas Touré,69,26,3,70,1
+Auro,69,24,0,73,4
+Rolando Aarons,69,24,3,73,4
+Yerko Leiva,69,22,1,79,10
+Jo Sung Jin,69,29,1,70,1
+Roman Bezjak,69,31,9,69,0
+Nehuén Paz,69,28,1,71,2
+Ramiro Carrera,69,26,1,69,0
+Sylvain Gbohouo,69,31,7,69,0
+Amr El Solia,69,31,2,69,0
+Andrew Hjulsager,69,25,0,71,2
+Tariqe Fosu,69,24,2,74,5
+Gerardo Alcoba,69,35,3,69,0
+Nelson Ibáñez,69,38,0,69,0
+Diego Sánchez,69,33,1,69,0
+Jerson Malagón,69,27,0,74,5
+Leandro Castellanos,69,36,0,69,0
+José Cuadrado,69,35,2,69,0
+Ronwen Williams,69,28,4,71,2
+Park Ji Soo,69,26,3,76,7
+Carlos Cisneros,69,26,2,70,1
+Roberto Insigne,69,26,3,73,4
+Riccardo Fiamozzi,69,27,2,71,2
+Abdullah Al Mayoof,69,33,3,69,0
+Daniel Bachmann,69,26,0,75,6
+Mouez Hassen,69,25,2,72,3
+Ricardo Ribeiro,69,30,1,70,1
+Zakaria Bakkali,69,24,8,73,4
+Sergi Samper,69,25,5,74,5
+Modou Barrow,69,27,2,69,0
+Dave Bulthuis,69,30,2,69,0
+Nouha Dicko,69,28,5,69,0
+Luka Krajnc,69,25,0,70,1
+Jamal Blackman,69,26,6,72,3
+Bernardo,69,27,1,73,4
+Zander Clark,69,28,0,73,4
+Ryo Miyaichi,69,27,8,69,0
+Atinç Nukan,69,27,6,73,4
+Mustafa Yumlu,69,32,2,69,0
+Lacina Traoré,69,29,8,69,0
+Idrissa Sylla,69,29,2,69,0
+Lalaïna Nomenjanahary,69,34,2,69,0
+Philipp Klingmann,69,32,3,69,0
+Marco D'Alessandro,69,29,3,69,0
+Kwon Soon Hyung,69,34,1,69,0
+Igor Lewczuk,69,35,1,69,0
+Mustafa Pektemek,69,31,5,69,0
+Declan Rudd,69,29,0,71,2
+Efe Ambrose,69,31,4,69,0
+Andy King,69,31,3,69,0
+Sergio Aquino,69,40,1,69,0
+Kermit Erasmus,69,30,3,69,0
+Wayne Sandilands,69,36,1,69,0
+Eiji Kawashima,69,37,0,69,0
+Cristian Riveros,69,37,2,69,0
+Joe Ledley,69,33,2,69,0
+Chris Wondolowski,69,37,1,69,0
+Lucas Licht,69,39,0,69,0
+Cristian Molinaro,69,36,3,69,0
+Davide Moscardelli,69,40,8,69,0
+Lee Dong Gook,69,41,3,69,0
+Alexis,69,34,3,69,0
+Hugo Campagnaro,69,40,3,69,0
+Santiago Rodríguez,68,20,4,85,17
+Walid Azaro,68,25,0,73,5
+Ismaila Soro,68,22,0,76,8
+José Trinidad Villeda,68,22,1,76,8
+Naoki Nomura,68,29,0,68,0
+Johan Padilla,68,27,0,71,3
+Nilton Varela,68,19,0,80,12
+Janus Vivar,68,21,0,77,9
+Alexis Blanco,68,32,0,68,0
+Kevin Minda,68,21,0,68,0
+David Noboa,68,25,0,70,2
+Aldair Fuentes,68,22,2,81,13
+Marcos Lliuya,68,28,0,68,0
+Carlos Neumann,68,34,0,68,0
+Angel Quiñónez,68,23,0,72,4
+Aldair Salazar,68,25,0,72,4
+Alejandro Cabeza,68,23,0,74,6
+Jonathan Toledo,68,24,0,71,3
+Sebastián Cáceres,68,20,4,77,9
+Rodrigo Rivero,68,24,0,74,6
+Ayrton Cougo,68,24,0,72,4
+Jeremie Frimpong,68,19,18,85,17
+Cédric Gogoua,68,26,2,71,3
+Yann Gboho,68,19,3,76,8
+Serhii Miakushko,68,27,0,68,0
+Ernesto,68,26,0,71,3
+Koji Suzuki,68,31,0,68,0
+Igor Zlatanovic,68,22,0,77,9
+Richard Rodrigues,68,20,2,80,12
+Nikola Šipcic,68,25,1,75,7
+Marcos André,68,23,2,76,8
+Agustín Rogel,68,22,1,73,5
+Tommaso Pobega,68,21,0,78,10
+Enzo Coacci,68,21,2,79,11
+Rodrigo Mandive,68,35,0,68,0
+David Carmo,68,21,3,80,12
+Javi Fernández,68,22,2,75,7
+Lazarous Kambole,68,26,2,70,2
+Eric Ramires,68,19,4,83,15
+Maximiliano Gagliardo,68,37,0,68,0
+Larrazabal,68,22,1,80,12
+Kirian,68,24,0,75,7
+Pedro Ortiz,68,30,0,69,1
+Braian Ojeda,68,20,1,80,12
+Carlos Rolón,68,28,0,69,1
+Hernán Rodríguez,68,24,0,76,8
+Berat Ayberk Özdemir,68,22,4,75,7
+Loïc Mbe Soh,68,19,4,78,10
+David Lazar,68,28,0,70,2
+Moha,68,21,4,83,15
+Cristi Barbu?,68,25,0,71,3
+Santiago Arzamendia,68,22,3,78,10
+Gabriel Va?vari,68,33,0,68,0
+Florin ?tefan,68,24,0,73,5
+Darius Olaru,68,22,0,79,11
+William Togui,68,23,1,74,6
+Rubén Cordano,68,21,0,76,8
+Nail Umyarov,68,20,3,84,16
+Ahmed Barman,68,26,0,73,5
+Filip Panák,68,24,1,77,9
+Edgar,68,23,1,79,11
+Andy Pelmard,68,20,0,77,9
+Nicolás Hernández,68,22,0,81,13
+Nicolás Capaldo,68,21,3,79,11
+Odilon Kossounou,68,19,2,82,14
+Deian Sorescu,68,22,1,78,10
+Dušan Vlahovic,68,20,21,82,14
+Enzo Le Fée,68,20,6,83,15
+Daizen Maeda,68,22,3,74,6
+Kalidou Sidibé,68,21,1,76,8
+Iván Martos,68,23,0,75,7
+Thibault Vlietinck,68,22,1,75,7
+Umut Meras,68,24,1,73,5
+Marcelo Herrera,68,21,4,80,12
+Steven Franco,68,21,0,74,6
+Denis Dragu?,68,21,1,79,11
+Ahmed Kutucu,68,20,6,85,17
+Álvaro Barreal,68,19,4,81,13
+Hicham Boussefiane,68,22,0,78,10
+Gianluca Ferrari,68,23,1,78,10
+Maximiliano Comba,68,26,0,69,1
+Giorgi Tsitaishvili,68,19,9,85,17
+Leo Osaki,68,29,1,68,0
+Alhassan Yusuf,68,20,2,83,15
+Jacopo Segre,68,23,1,76,8
+Sebastián Ferreira,68,22,0,75,7
+Marko Alvir,68,26,1,71,3
+Keisuke Osako,68,21,1,77,9
+Éric Vandenabeele,68,28,1,70,2
+Gonzalo Verdú,68,31,1,68,0
+Matthew Longstaff,68,20,10,84,16
+Allan Sousa,68,23,1,73,5
+Wonlo Coulibaly,68,28,3,68,0
+Óscar Valentín,68,25,0,74,6
+Paris Adot,68,30,0,68,0
+Mert Müldür,68,21,8,79,11
+Sebastian Walukiewicz,68,20,6,82,14
+Lucas Perrin,68,21,3,77,9
+Lucas Necul,68,20,0,80,12
+Rabbi Matondo,68,19,20,86,18
+Daiki Watari,68,27,0,70,2
+Felix Agu,68,20,8,82,14
+Josep Martínez,68,22,5,78,10
+Hugo Duro,68,20,4,81,13
+Sebastián Guzmán,68,23,0,78,10
+Leonardo Balerdi,68,21,26,83,15
+Nathan Ferguson,68,19,7,83,15
+Václav Drchal,68,21,1,78,10
+Valerian Gvilia,68,26,1,73,5
+Jordan Beyer,68,20,8,84,16
+Illan Meslier,68,20,15,82,14
+Déiber Caicedo,68,20,13,86,18
+Cristian Cásseres Jr,68,20,3,81,13
+Noah Okafor,68,20,2,82,14
+Pejiño,68,24,2,76,8
+Augustine Mulenga,68,30,1,68,0
+Jeronimo Cacciabue,68,22,3,80,12
+Edo Kayembe,68,22,1,77,9
+Christian Kouan Oulai,68,20,1,79,11
+Agustín Almendra,68,20,13,80,12
+Aitor Ruibal,68,24,2,75,7
+Sergio Gómez,68,19,15,85,17
+Ulises Segura,68,27,1,69,1
+Yoel Bárcenas,68,26,3,69,1
+Justin Shonga,68,23,5,74,6
+Tatsuya Ito,68,23,3,75,7
+Mateo Carabajal,68,23,0,77,9
+Bilel Aouacheria,68,26,1,69,1
+Fabio González,68,23,0,76,8
+Miranda,68,20,7,82,14
+Mattéo Tramoni,68,20,0,76,8
+Angel Gomes,68,19,66,85,17
+Ryan Porteous,68,21,0,82,14
+Alberto Contrera,68,28,1,68,0
+Mikhail Lysov,68,22,2,72,4
+Raphael Dwamena,68,24,1,75,7
+Alan Czerwinski,68,27,0,69,1
+Edon Zhegrova,68,21,0,81,13
+Jesús Angulo,68,22,5,79,11
+Bruno Felipe,68,26,0,70,2
+Romano Schmid,68,20,3,80,12
+Florent Muslija,68,22,1,79,11
+Bryan Henning,68,25,1,74,6
+Nemanja Mitrovic,68,27,5,69,1
+Jure Balkovec,68,25,1,73,5
+Leo Østigård,68,20,5,81,13
+Na Sang Ho,68,23,2,74,6
+Mats Knoester,68,21,4,82,14
+Edgar Zaldívar,68,23,4,79,11
+Shota Kaneko,68,25,1,71,3
+Vasilije Janjicic,68,21,0,75,7
+Louis Verstraete,68,21,2,78,10
+Germán Berterame,68,21,2,81,13
+Cristhian Paredes,68,22,3,76,8
+Daleho Irandust,68,22,3,77,9
+Dimitrios Nikolaou,68,21,2,76,8
+Aníbal Chalá,68,24,11,75,7
+Walterson,68,25,0,69,1
+Adrián Diéguez,68,24,1,76,8
+Mustapha Bundu,68,23,4,76,8
+Enzio Julião,68,24,0,68,0
+Freddy Cardouso,68,20,0,68,0
+Pelle Clement,68,24,1,74,6
+Michele Di Gregorio,68,23,2,79,11
+Auston Trusty,68,21,5,78,10
+Ethan Ampadu,68,19,69,86,18
+Misael Domínguez,68,20,1,76,8
+Radoslaw Majecki,68,20,3,79,11
+Sebastián Jurado,68,22,12,76,8
+Ratón,68,27,1,72,4
+Kik Pierie,68,20,12,79,11
+Guessouma Fofana,68,27,1,71,3
+Tomás Nuninho,68,24,1,68,0
+Charles Pickel,68,23,2,80,12
+Bautista Merlini,68,25,1,72,4
+Arijanet Muric,68,21,6,79,11
+Takuya Iwanami,68,26,1,72,4
+Mariano Bareiro,68,25,2,74,6
+Yosuke Ideguchi,68,23,3,74,6
+Ryosuke Yamanaka,68,27,1,68,0
+Ryuji Izumi,68,26,0,68,0
+Josete,68,32,1,68,0
+Ivan Šaponjic,68,22,7,77,9
+Nicolás Ramírez,68,23,0,79,11
+Tyler Miller,68,27,0,72,4
+Lloyd Kelly,68,21,14,82,14
+Jonathan Leko,68,21,12,77,9
+Kyle Edwards,68,22,3,75,7
+Emmanuel Iyoha,68,22,2,78,10
+Guruzeta,68,23,2,77,9
+Jean Armel Drolè,68,22,2,79,11
+Sérgio Espinho,68,24,0,70,2
+Lukas Nmecha,68,21,10,81,13
+Cris Martínez,68,27,2,68,0
+Fernando De Paul,68,29,1,70,2
+Pantelis Hatzidiakos,68,23,0,73,5
+Aitor Buñuel,68,22,3,79,11
+Gustavo Dulanto,68,24,3,73,5
+Georgiy Tigiev,68,25,2,75,7
+Rafik Zekhnini,68,22,6,75,7
+Fabian Kalig,68,27,2,70,2
+Jair Céspedes,68,36,0,68,0
+Dzenis Burnic,68,22,6,77,9
+Felix Passlack,68,22,18,78,10
+Luciano Ospina,68,29,0,69,1
+Leonardo Lopes,68,21,3,76,8
+Chris Willock,68,22,6,80,12
+Oliver Burke,68,23,2,73,5
+José Devecchi,68,25,0,75,7
+Bentley Baxter Bahn,68,27,2,69,1
+Emil Berggreen,68,27,1,70,2
+Mugdat Çelik,68,30,2,68,0
+Federico Bonazzoli,68,23,5,76,8
+Tarkan Serbest,68,26,0,72,4
+Roberto Ramírez,68,24,0,77,9
+Josh Onomah,68,23,6,77,9
+Donis Avdijaj,68,23,4,73,5
+Alexander Jeremejeff,68,26,5,70,2
+Francisco Arancibia,68,23,1,77,9
+Alex Castro,68,26,2,69,1
+Mattia Aramu,68,25,1,70,2
+Gabriel Castellón,68,26,3,70,2
+Osvaldo Cabral,68,35,2,68,0
+Déinner Quiñónes,68,24,3,74,6
+Junya Tanaka,68,33,1,68,0
+Wu Xi,68,31,3,68,0
+Todor Nedelev,68,27,8,68,0
+Francisco Varela,68,25,3,73,5
+Claudio Sepúlveda,68,28,1,69,1
+Diego Novoa,68,31,0,69,1
+José Chunga,68,29,0,71,3
+Juan Zuluaga,68,27,2,71,3
+Jorge Arias,68,27,3,69,1
+Daniel Giraldo,68,28,0,71,3
+Juan Cornejo,68,29,2,68,0
+Matías Cabrera,68,34,1,68,0
+Joel Pereira,68,24,3,75,7
+Gonzalo Bueno,68,26,1,68,0
+Richairo Zivkovic,68,23,6,73,5
+Michael Heylen,68,26,2,72,4
+Marko Bakic,68,26,1,70,2
+Georgiy Zhukov,68,25,2,72,4
+Marco Migliorini,68,28,2,70,2
+Niklas Lomb,68,27,0,73,5
+Lars Veldwijk,68,28,2,68,0
+Dejan Stojanovic,68,27,2,73,5
+Fernando,68,30,0,70,2
+Ferhan Hasani,68,30,3,68,0
+Nick Marsman,68,29,1,69,1
+Max Power,68,27,1,73,5
+Zakaria Diallo,68,33,2,68,0
+Raúl Lizoain,68,29,0,70,2
+Carlos Ruiz,68,37,1,68,0
+Marvin Bejarano,68,32,4,68,0
+Jukka Raitala,68,31,2,68,0
+Bernard Parker,68,34,2,68,0
+Reza Ghoochannejhad,68,32,2,68,0
+Emmanuel Rivière,68,30,5,68,0
+Paulo Garcés,68,35,1,68,0
+Jack Rodwell,68,29,6,68,0
+Dejan Damjanovic,68,39,0,68,0
+Arjan Swinkels,68,35,4,68,0
+Ignacio González,68,36,1,68,0
+Ilsinho,68,34,3,68,0
+Oscar Ustari,68,34,4,68,0
+Zheng Zhi,68,39,2,68,0
+Wes Hoolahan,68,38,1,68,0
+Ali Al Habsi,68,38,0,68,0
+Marcin Wasilewski,68,40,3,68,0
+Paulo Da Silva,68,40,0,68,0
+Alessandro Rosina,68,36,2,68,0
+Daniele Gastaldello,68,37,2,68,0
+Jean-François Gillet,68,41,0,68,0
+Jorge Zules Caicedo,67,29,0,68,1
+Jakob Manasiev Sederstrom,67,29,0,69,2
+Sofiane Bendebka,67,27,0,68,1
+Valentin Lazar,67,30,0,67,0
+Jhonathan Candia,67,25,0,70,3
+Vítor Ferreira,67,20,2,84,17
+Eden Shamir,67,25,2,72,5
+Benito,67,21,1,75,8
+Hidetoshi Miyuki,67,27,0,69,2
+Adrián Leites,67,28,0,67,0
+Gastón Olveira,67,27,0,71,4
+Zidane Banjaqui,67,21,1,77,10
+Luis Congo,67,31,0,67,0
+Pablo Cifuentes,67,32,1,67,0
+Matías Pardo,67,25,0,73,6
+Bryan Carabali,67,22,0,72,5
+Adolfo Muñoz,67,22,0,75,8
+Yvo Calleros,67,22,1,74,7
+Anthony Osorio,67,22,0,78,11
+Enmanuel Páucar,67,23,0,72,5
+Pablo Lavandeira,67,29,0,67,0
+Antoñín,67,20,3,78,11
+Juan Ramírez,67,23,0,75,8
+John Fajardo,67,31,1,67,0
+Carlos Melgar,67,26,0,70,3
+Arnaud Kalimuendo,67,18,8,78,11
+Federico Viñas,67,22,8,79,12
+Hernán Galíndez,67,33,0,67,0
+Jhon Sánchez,67,20,0,75,8
+Luis Segovia,67,22,0,74,7
+Gabriel Neves,67,22,1,77,10
+Matías de los Santos,67,21,0,79,12
+Rodney Redes,67,20,1,83,16
+Adil Aouchiche,67,18,7,78,11
+Brian Rodríguez,67,20,5,78,11
+Miguel Jacquet,67,25,0,72,5
+Ibrahima Ndiaye,67,22,2,76,9
+Marco Rosafio,67,26,0,68,1
+Salvatore Esposito,67,19,2,80,13
+Jakub Markovic,67,19,5,82,15
+Martin Graiciar,67,21,0,75,8
+Tiago Esgaio,67,24,1,73,6
+Luiz Henrique,67,23,0,73,6
+Karim Adeyemi,67,18,20,85,18
+Ufuk Akyol,67,22,1,75,8
+Paulinho,67,23,1,75,8
+Saad Agouzoul,67,22,0,79,12
+Jorge Breitez,67,34,2,67,0
+Maracás,67,26,0,71,4
+Erickson Gallardo,67,24,0,72,5
+Leandro Vilela,67,25,0,71,4
+Josko Gvardiol,67,18,19,85,18
+Moustapha Zeghba,67,29,1,68,1
+Sori Mané,67,24,1,76,9
+Alex Suárez,67,27,0,70,3
+Manuel Balda,67,28,1,67,0
+Abdelali M'hamdi,67,28,0,69,2
+Rubén Zamponi,67,34,0,67,0
+Jesús Pretell,67,21,0,82,15
+Edwin Banguera,67,23,1,72,5
+Kouadio Manu Koné,67,19,1,81,14
+Wesley Fofana,67,19,7,81,14
+Cristian Cedrés,67,24,0,73,6
+Zakaria Aboukhlal,67,20,3,81,14
+Sebastián Galani,67,22,1,78,11
+Alexandru Ma?an,67,20,5,82,15
+Radu Boboc,67,21,0,76,9
+Andrew Russell,67,32,0,67,0
+Ion Gheorghe,67,20,1,82,15
+Sebastiano Esposito,67,18,45,87,20
+Ramiro Vaca,67,21,2,80,13
+Moctar El Hacen,67,22,2,79,12
+Allan Cruz,67,24,0,74,7
+Apa,67,20,4,81,14
+Francisco Delorenzi,67,22,0,80,13
+Álex Sola,67,21,0,74,7
+Ibrahima Camará,67,21,0,77,10
+Lawrence Ofori,67,22,0,73,6
+Khéphren Thuram,67,19,4,78,11
+Raoul Bellanova,67,20,3,82,15
+Vukan Savicevic,67,26,0,72,5
+Tuta,67,21,3,78,11
+Alexander Bernabei,67,19,7,83,16
+Ismail Ahmed,67,37,0,67,0
+Jaume Grau,67,23,0,78,11
+Tsuyoshi Watanabe,67,23,2,74,7
+Mohamed Camara,67,20,0,78,11
+Giulian Biancone,67,20,2,81,14
+Noah Katterbach,67,19,12,84,17
+Han-Noah Massengo,67,19,5,84,17
+Luca Orellano,67,20,3,79,12
+Valery,67,20,1,79,12
+Andrés Martín,67,21,2,81,14
+Luis Del Pino Mago,67,25,2,70,3
+Robert,67,19,3,81,14
+Issah Abass,67,21,2,78,11
+Willer Ditta,67,23,0,77,10
+Álex Blanco,67,21,2,79,12
+Kingsley Michael,67,20,1,81,14
+Ignacio Saavedra,67,21,3,75,8
+Gonçalo Cardoso,67,19,1,79,12
+Juan Hernández,67,25,3,70,3
+Matteo Di Gennaro,67,26,0,73,6
+Manfred Fischer,67,24,0,71,4
+Montero,67,21,8,81,14
+Sofiane Diop,67,20,10,82,15
+Lennart Czyborra,67,21,3,77,10
+Jules Keita,67,22,2,78,11
+Dennis Jastrzembski,67,20,3,80,13
+Kemal Ademi,67,24,1,74,7
+Oleksandr Andrievskyi,67,26,1,73,6
+Antonio Marin,67,19,18,84,17
+Jimmy,67,23,0,76,9
+Valentin Costache,67,21,1,78,11
+Maxence Lacroix,67,20,5,80,13
+Fabien Ourega,67,27,0,67,0
+Neyder Lozano,67,26,1,71,4
+Scott Pittman,67,28,1,68,1
+Oussama Darfalou,67,26,1,70,3
+Kjell Scherpen,67,20,0,81,14
+César Munder,67,20,2,78,11
+Andrea Danzi,67,21,3,79,12
+Jurgen Ekkelenkamp,67,20,6,78,11
+Joseph Mora,67,27,1,68,1
+Jack Clarke,67,19,5,81,14
+Darío Cáceres,67,22,0,77,10
+Johan Carbonero,67,21,9,85,18
+João Moutinho,67,22,2,77,10
+Cheick Doucouré,67,20,6,81,14
+Thomas Buitink,67,20,0,80,13
+Sebastián Gómez,67,24,1,77,10
+Camilo Cándido,67,25,0,74,7
+Xola Mlambo,67,29,1,67,0
+Sebastián Córdova,67,23,8,77,10
+Mateo Retegui,67,21,0,80,13
+Yoël Armougom,67,22,3,76,9
+Eddie Salcedo,67,18,11,83,16
+Jefferson Intriago,67,24,1,75,8
+Oliver Skipp,67,19,13,84,17
+Nathaniel Phillips,67,23,1,76,9
+Tyrese Campbell,67,20,9,80,13
+Gaëtan Poussin,67,21,1,79,12
+Miguel,67,20,2,82,15
+Sikou Niakaté,67,21,6,77,10
+André Sousa,67,22,0,76,9
+Issouf Paro,67,25,1,71,4
+Luca Zidane,67,22,9,76,9
+Emile Smith Rowe,67,20,24,84,17
+Marco Carraro,67,22,2,75,8
+Matheus,67,28,0,68,1
+Murilo,67,23,1,78,11
+Souleymane Karamoko,67,28,2,68,1
+Carlo Holse,67,21,1,76,9
+Jann-Fiete Arp,67,20,46,83,16
+Georgios Giakoumakis,67,25,1,70,3
+Mirko Antonucci,67,21,4,77,10
+Nico Mantl,67,20,2,77,10
+Merveille Biankadi,67,25,2,73,6
+Hélder Ferreira,67,23,2,72,5
+Teenage Hadebe,67,24,0,75,8
+Siriki Dembele,67,23,3,75,8
+Oriol Busquets,67,21,7,82,15
+Jur Schryvers,67,23,1,74,7
+Halil Akbunar,67,26,2,68,1
+Junio,67,23,0,70,3
+Pietro Pellegri,67,19,27,75,8
+Marc Heider,67,34,1,67,0
+Rhian Brewster,67,20,25,83,16
+Tom Edwards,67,21,5,79,12
+Johnatan Opoku,67,30,1,67,0
+Alexandru Pa?canu,67,21,4,82,15
+Dennis Johnsen,67,22,2,74,7
+Abdelhamid Sabiri,67,23,6,75,8
+Aaron Connolly,67,20,10,79,12
+Luca Itter,67,21,7,79,12
+José Guillermo Ortiz,67,28,2,67,0
+Spencer Richey,67,28,0,70,3
+Luis Muñoz,67,23,2,75,8
+Jacob Brown,67,22,1,76,9
+Jefferson Orejuela,67,27,1,70,3
+Ben Woodburn,67,20,12,82,15
+Phil Neumann,67,23,0,74,7
+Venanzio Meirás,67,20,0,67,0
+Claudio Silbeiro,67,24,0,67,0
+Alex Doneiro,67,20,2,67,0
+Cristian González,67,24,2,75,8
+Valerio Mantovani,67,24,0,76,9
+Joel Asoro,67,21,5,77,10
+Ragnar Ache,67,22,5,76,9
+José Aja,67,27,2,70,3
+Luka Bogdan,67,24,4,75,8
+Giovanni Crociata,67,22,5,77,10
+Nils Seufert,67,23,1,73,6
+Nicandro Breeveld,67,33,1,67,0
+Niklas Hauptmann,67,24,3,74,7
+Anderson Lucoqui,67,23,1,77,10
+Ben Brereton,67,21,5,78,11
+Connor McLennan,67,20,2,80,13
+Kristiyan Malinov,67,26,1,72,5
+Riki Harakawa,67,26,0,69,2
+Daigo Nishi,67,32,3,67,0
+Naoki Maeda,67,25,0,69,2
+Tomoya Ugajin,67,32,2,67,0
+Kosuke Ota,67,33,2,67,0
+Jhon Velásquez,67,25,1,72,5
+Miquel Parera,67,24,2,74,7
+Jack Simpson,67,23,2,76,9
+Mile Svilar,67,20,8,78,11
+Wilsson Rosito,67,24,1,67,0
+Denaldo Carneiro,67,20,1,69,2
+Germán da Silvieira,67,20,0,69,2
+Mateus Tangil,67,36,1,67,0
+Álex López,67,26,2,70,3
+Omar Duarte,67,25,1,74,7
+Rene Swete,67,30,0,68,1
+David Rocha,67,35,0,67,0
+Kenny Prince Redondo,67,25,0,68,1
+Diego Alende,67,22,2,80,13
+Kamil Grabara,67,21,1,81,14
+Danilo Arboleda,67,25,1,76,9
+Dario Melnjak,67,27,2,68,1
+Reece Oxford,67,21,9,79,12
+Marcos Curado,67,25,1,73,6
+Alessandro Capello,67,24,1,72,5
+Sheyi Ojo,67,23,9,78,11
+Marlon Torres,67,24,3,76,9
+Stephen Kingsley,67,26,1,69,2
+Andy Polo,67,25,4,70,3
+Mikey Devlin,67,26,2,71,4
+Luke Berry,67,28,5,67,0
+Jake Hesketh,67,24,4,72,5
+Jordan Smith,67,25,1,69,2
+Thato Mokeke,67,30,9,67,0
+Liam Kelly,67,24,1,71,4
+Aarón,67,24,2,73,6
+Rubén Yáñez,67,26,2,72,5
+Luca Lezzerini,67,25,3,73,6
+Christian Bravo,67,26,0,67,0
+Václav Cerny,67,22,2,73,6
+George Honeyman,67,25,3,71,4
+Duncan Watmore,67,26,3,68,1
+Xandro Schenk,67,27,1,69,2
+Mauricio Zenteno,67,36,0,67,0
+Harrison Manzala,67,26,1,68,1
+Esteban Carvajal,67,31,2,67,0
+Ray Vanegas,67,27,1,67,0
+Kekuta Manneh,67,25,5,69,2
+Kristoffer Haugen,67,26,2,69,2
+David Henen,67,24,2,72,5
+Tom Pettersson,67,30,2,67,0
+Aleksandar Tonev,67,30,4,67,0
+Alexander Ludwig,67,27,0,72,5
+Leandro,67,27,3,68,1
+David Mitov Nilsson,67,29,1,69,2
+Yu Hai,67,33,3,67,0
+Noë Dussenne,67,28,1,69,2
+Gavin Massey,67,27,2,67,0
+Yasser Al Mosailem,67,36,2,67,0
+Macnelly Torres,67,35,1,67,0
+Amer Shafi,67,38,0,67,0
+Ash Taylor,67,29,3,67,0
+Even Barli,67,29,0,70,3
+Carlos Fierro,67,26,5,69,2
+Mathis Bolly,67,29,8,67,0
+Gonzalo Marinelli,67,31,0,68,1
+Kazenga LuaLua,67,29,2,67,0
+Steve De Ridder,67,33,4,67,0
+Chris Maguire,67,31,3,67,0
+Grant Leadbitter,67,34,3,67,0
+Mauricio Caranta,67,41,0,67,0
+Andrés Pérez,67,39,0,67,0
+James Coppinger,67,39,1,67,0
+Lee Camp,67,35,3,67,0
+Emmanuel Martínez,66,26,0,69,3
+Ibrahim Kargbo Jr.,66,20,1,76,10
+Alfonso Trezza,66,21,0,73,7
+Salim Boukhenchouche,66,28,0,67,1
+Pablo García,66,21,0,74,8
+Matej Oravec,66,22,1,76,10
+Alexis Doldán,66,23,0,72,6
+Jorge Recalde,66,28,0,66,0
+Ilya Shkurin,66,20,2,75,9
+Jorge Luis Aguilar,66,27,1,69,3
+Rafael Di Leonardo,66,26,1,69,3
+Santiago Amorín,66,25,0,72,6
+Jesse Sekidika,66,24,3,73,7
+Terem Moffi,66,21,0,76,10
+Tatsuhiro Sakamoto,66,23,0,70,4
+Keiya Sento,66,25,0,69,3
+Adriano Castanheira,66,27,0,66,0
+Farouk Chafaï,66,30,0,67,1
+Yuto Uchida,66,25,0,70,4
+Kazuhiro Sato,66,29,0,66,0
+Noni Madueke,66,18,4,85,19
+Danilo Santacruz,66,25,0,73,7
+Jan Thielmann,66,18,3,84,18
+Matías Esquivel,66,21,0,78,12
+Jairo Padilla,66,29,1,66,0
+Wilmer Godoy,66,26,4,67,1
+Romario Caicedo,66,30,0,66,0
+Gregori Anangonó,66,22,0,74,8
+Alec Deneumostier,66,21,0,75,9
+Enson Rodríguez,66,30,1,66,0
+Rodrigo Fernandes,66,19,10,84,18
+José María Carrasco,66,22,0,73,7
+Juan Acosta,66,26,0,68,2
+Leonardo Flores,66,24,0,69,3
+Víctor Balta,66,34,0,66,0
+Leonardo Campana,66,20,9,76,10
+Gilberto Sepúlveda,66,21,5,75,9
+Yuber Mosquera,66,35,0,66,0
+Leo Coelho,66,27,0,67,1
+Thiago Vecino,66,21,0,80,14
+Enzo Martínez,66,22,0,75,9
+Federico Martínez,66,23,0,73,7
+Jean Rosso,66,23,0,74,8
+Nicolás Acevedo,66,21,4,81,15
+Rodrigo Fernández,66,24,0,73,7
+Giorgos Kyriakopoulos,66,24,1,73,7
+Reko,66,25,0,71,5
+Juan José Perea,66,20,2,78,12
+Ronald Araujo,66,21,27,80,14
+Ibrahim Cissé,66,21,1,74,8
+Christian Flores,66,32,0,66,0
+Yorwin Lobo,66,27,0,68,2
+Facundo Pérez,66,20,0,78,12
+Ismael Casas,66,19,1,80,14
+Borja Sainz,66,19,5,79,13
+Iker Losada,66,18,11,82,16
+Marco Kana,66,17,27,86,20
+Amine Atouchi,66,28,0,68,2
+Diogo Sousa,66,21,1,78,12
+Miguel Brizuela,66,23,2,74,8
+Ayase Ueda,66,21,1,77,11
+Marco Carnesecchi,66,20,8,82,16
+Adrián Lozano,66,21,1,76,10
+Jonathan Panzo,66,19,5,80,14
+Crysencio Summerville,66,18,2,81,15
+Tomislav Štrkalj,66,23,2,73,7
+Andrea Meroni,66,23,0,75,9
+Adonis Frías,66,22,1,73,7
+Sam Kersten,66,22,0,72,6
+Jhonathan Doriado,66,31,0,67,1
+Riki,66,22,0,77,11
+Ousmane Diakité,66,20,0,80,14
+Stone Mambo,66,21,2,77,11
+Marco Meyerhöfer,66,24,0,71,5
+Khalid Hachadi,66,22,1,74,8
+Joshua Zirkzee,66,19,18,84,18
+Pathé Ciss,66,26,0,70,4
+Ferdinand Oswald,66,29,0,67,1
+Nicolò Armini,66,19,13,84,18
+Pierre Ruffaut,66,33,0,66,0
+Eric Junior Dina Ebimbe,66,19,2,80,14
+Marko Dira,66,21,1,79,13
+Romário Pires,66,31,0,66,0
+Antoni Ivanov,66,24,0,70,4
+Linas Klimavicius,66,31,1,66,0
+Nico Schlotterbeck,66,20,1,77,11
+Jaime Seoane,66,23,1,75,9
+Caleb Zady Sery,66,20,1,75,9
+Brenden Aaronson,66,19,5,78,12
+Unai Vencedor,66,19,1,84,18
+Valeriy Bondarenko,66,26,0,71,5
+Facundo Mura,66,21,2,80,14
+Luis Miranda,66,22,0,78,12
+Robinho,66,25,20,69,3
+Pedro Pelágio,66,20,0,77,11
+Hugo Vallejo,66,20,2,80,14
+Bryan Gil,66,19,9,84,18
+Eduardo Aguirre,66,21,5,77,11
+Quint Jansen,66,29,2,67,1
+Fidalgo,66,23,4,75,9
+Salva,66,22,3,76,10
+Ángelo Preciado,66,22,0,76,10
+Billy Gilmour,66,19,38,86,20
+Jamie Shackleton,66,20,7,81,15
+Kosuke Shirai,66,26,0,67,1
+Giovanni Reyna,66,17,36,86,20
+Sergio López,66,21,5,80,14
+Darko Todorovic,66,23,1,73,7
+Luca Ravanelli,66,23,2,75,9
+Aníbal Moreno,66,21,2,81,15
+Claudio Gomes,66,20,5,81,15
+Amadou Ciss,66,20,0,75,9
+Paolo Medina,66,21,4,74,8
+Gavin Whyte,66,24,0,72,6
+Kazuaki Mawatari,66,29,2,66,0
+Mathieu Gonçalves,66,19,3,76,10
+Mohamed Ali Camara,66,22,0,79,13
+Jeisson Martínez,66,25,1,71,5
+James Garner,66,19,18,85,19
+David Tavares,66,21,2,79,13
+Luka Adzic,66,21,3,75,9
+Mahdi Camara,66,22,1,78,12
+Tom Barlow,66,25,1,73,7
+Emanuel Aiwu,66,19,4,80,14
+David Alba,66,21,7,79,13
+Yukinari Sugawara,66,20,2,77,11
+Keito Nakamura,66,20,1,80,14
+Maarten Vandevoordt,66,18,23,85,19
+Joel López Pissano,66,23,1,74,8
+Josha Vagnoman,66,19,30,85,19
+Sepp van den Berg,66,18,17,84,18
+Cristian Núñez,66,22,1,75,9
+Oumar Solet,66,20,16,81,15
+Lindon Selahi,66,21,1,75,9
+James Sands,66,20,11,84,18
+Marius Lode,66,27,0,69,3
+Jesús Medina,66,23,6,75,9
+Daiki Hashioka,66,21,2,76,10
+Joaquín Varela,66,23,0,76,10
+Birk Risa,66,22,2,77,11
+Viktor Gyökeres,66,22,1,77,11
+Max Bird,66,19,11,82,16
+Nahuel Estévez,66,24,1,72,6
+Sedat Sahintürk,66,24,2,72,6
+Christian Capone,66,21,6,81,15
+Goduine Koyalipou,66,20,4,77,11
+Flynn Downes,66,21,2,72,6
+Fernando Beltrán,66,22,9,76,10
+Jonah Osabutey,66,21,2,75,9
+Maximilian Rossmann,66,25,1,69,3
+Maximilian Thalhammer,66,23,1,76,10
+Makana Baku,66,22,6,78,12
+Przemyslaw Placheta,66,22,4,77,11
+Mitchel Bakker,66,20,12,77,11
+Jeong Woo Yeong,66,20,12,80,14
+Massih Wassey,66,32,1,66,0
+Stefan Schimmer,66,26,2,69,3
+Ben Wilmot,66,20,0,81,15
+Dujon Sterling,66,20,4,81,15
+Takuma Arano,66,27,1,67,1
+Valentin Castellanos,66,21,9,78,12
+Álvaro Villete,66,29,0,69,3
+Nedim Bajrami,66,21,3,80,14
+Vladimir Kovacevic,66,27,1,68,2
+Ro-Shaun Williams,66,21,5,74,8
+Roland Niczuly,66,24,0,74,8
+Jake Hastie,66,21,1,80,14
+Matheo Zoch,66,22,0,80,14
+Alessandro Plizzari,66,20,19,82,16
+Cédric Zesiger,66,22,2,79,13
+Valentin Cojocaru,66,24,1,71,5
+Ibrahima Conté,66,24,2,71,5
+Raphael Doninho,66,20,0,66,0
+Ever Rodeiro,66,24,0,66,0
+Tomás Alarcón,66,20,1,81,15
+Loïc Badiashile,66,22,3,75,9
+Oliver Rathbone,66,23,1,72,6
+Deroy Duarte,66,21,2,74,8
+Razvan Popa,66,23,0,71,5
+Christian Früchtl,66,20,15,83,17
+Marko Jankovic,66,25,1,72,6
+Horacio Salaberry,66,33,1,66,0
+Arkadiusz Reca,66,25,4,73,7
+Haydar Yilmaz,66,36,0,66,0
+Luis Hernández,66,22,1,71,5
+Borja Domínguez,66,28,2,67,1
+Koki Machida,66,22,1,72,6
+Hiroki Iikura,66,34,2,66,0
+Pape Djibril Diaw,66,25,1,68,2
+Vítor Costa,66,26,1,70,4
+Mark Travers,66,21,6,78,12
+Fernand Mayembo,66,24,2,74,8
+Tsubasa Endoh,66,26,1,67,1
+Marcis Ošs,66,29,0,68,2
+James Aguirre,66,28,0,70,4
+Marcus Browne,66,22,2,75,9
+Nacho,66,27,1,66,0
+Roberto Pirrello,66,24,0,76,10
+Danilo Sacrio,66,28,3,66,0
+Lorenzao Masca,66,24,1,66,0
+Pedro Sousenha,66,20,0,68,2
+Jailson Acuna,66,32,2,66,0
+Nando García,66,26,3,69,3
+Joshua Emmanuel,66,22,5,74,8
+Julian Lelieveld,66,23,3,72,6
+Óscar Pinchi,66,24,0,75,9
+Branislav Ninaj,66,26,1,68,2
+Søren Reese,66,27,0,70,4
+Raimundo Rebolledo,66,23,1,70,4
+Facundo Altamirano,66,24,1,74,8
+Alessio Vita,66,27,2,66,0
+Hernán Figueredo,66,35,1,66,0
+Franz Brorsson,66,24,1,70,4
+Federico Dimarco,66,22,3,74,8
+Lorenzo Andrenacci,66,25,0,68,2
+Akieme,66,22,22,75,9
+George Dobson,66,22,2,73,7
+Alex Bass,66,22,3,78,12
+Ronaldo Cisneros,66,23,3,73,7
+Miroslav Covilo,66,34,1,66,0
+André Moreira,66,24,3,74,8
+Taylan Antalyali,66,25,1,70,4
+Pedro Chirivella,66,23,3,74,8
+Ali Sasal Vural,66,30,1,68,2
+Luis Ruiz,66,28,1,67,1
+Josh Ginnelly,66,23,1,71,5
+Fausto Grillo,66,27,2,67,1
+Son Jeong Hyeon,66,28,0,69,3
+Carlos Espinosa,66,37,0,66,0
+Joao Rodríguez,66,24,1,75,9
+Georgi Kitanov,66,25,2,71,5
+Ebenezer Assifuah,66,27,3,67,1
+Christophe Diedhiou,66,32,3,66,0
+Aleksandar Bjelica,66,26,0,66,0
+Emmanuel Boateng,66,26,2,67,1
+Jack Payne,66,25,3,70,4
+Mauricio Restrepo,66,39,0,66,0
+Abdullah Madu,66,27,1,71,5
+James Wilson,66,24,11,73,7
+Matt Macey,66,25,13,72,6
+Maximilian Welzmüller,66,30,2,66,0
+Marwan Mohsen,66,31,3,66,0
+Stefan Velev,66,31,2,66,0
+Patrick Drewes,66,27,1,70,4
+Charalampos Lykogiannis,66,26,3,68,2
+Lubomír Šatka,66,24,2,73,7
+Alex Gilbey,66,25,3,71,5
+Imoh Ezekiel,66,26,2,68,2
+Michal Mak,66,28,1,66,0
+Hannes ?ór Halldórsson,66,36,8,66,0
+Achraf Lazaar,66,28,2,66,0
+Spas Delev,66,30,7,66,0
+Giuseppe De Luca,66,28,4,66,0
+Jak Alnwick,66,27,0,71,5
+Antonio Donnarumma,66,30,3,67,1
+Tomáš Holy,66,28,3,68,2
+Yulián Anchico,66,36,2,66,0
+Roberto Cereceda,66,35,3,66,0
+Tim Coremans,66,29,1,68,2
+Martin Hansen,66,30,2,67,1
+Chong Te Se,66,36,1,66,0
+Andrew Durante,66,38,0,66,0
+Jesús Zavala,66,33,6,66,0
+Joselito Vaca,66,37,1,66,0
+Omar Arellano,66,33,2,66,0
+James Vaughan,66,32,7,66,0
+Hitoshi Sogahata,66,40,0,66,0
+Jorge Silva,65,21,2,73,8
+Martín Ezequiel Cañete,65,21,0,74,9
+Tanner Tessmann,65,18,1,80,15
+Richard Ledezma,65,19,0,78,13
+Víctor Mendoza,65,25,1,69,4
+Ángel Benítez,65,24,0,70,5
+Jean Onana,65,20,0,75,10
+Dejan Petrovic,65,22,1,72,7
+Pierre Kalulu,65,20,6,81,16
+Firas Chaouat,65,24,0,73,8
+Vitor Carvalho,65,23,1,71,6
+Tiago Banega,65,21,0,79,14
+Bilel Saidani,65,27,0,66,1
+Emiliano Martínez,65,20,0,73,8
+Jonathan Perlaza,65,22,0,72,7
+Daniel Celea,65,25,0,71,6
+Alan Max Benítez,65,26,0,68,3
+Stavros Vasilantonopoulos,65,28,0,65,0
+Jun Ichimori,65,29,0,67,2
+Takayuki Mae,65,26,0,67,2
+Norimichi Yamamoto,65,25,0,70,5
+Valera,65,18,5,84,19
+Jhony Galli,65,30,0,65,0
+Marc Echarri,65,21,0,76,11
+Marco Prieto,65,29,0,65,0
+Lucas Da Cunha,65,19,2,78,13
+Melvin Bard,65,19,16,82,17
+Pape Habib Gueye,65,20,0,76,11
+Cristian Souza,65,24,0,71,6
+Marc-Francois Enoumba,65,27,0,65,0
+Marcos Ovejero,65,33,0,65,0
+Eduardo Puña,65,34,0,65,0
+Federico Acuña,65,35,0,65,0
+Carlos Neyra,65,25,0,69,4
+Carlos Cuero,65,24,0,72,7
+Leandro Suhr,65,22,0,69,4
+Facundo Kidd,65,22,0,71,6
+Iván Cartés,65,22,0,73,8
+Marlon Mejía,65,25,1,68,3
+Franklin Guerra,65,27,0,68,3
+Robert Hernández,65,26,0,66,1
+Eduardo Fereira,65,19,0,72,7
+Yhonathan Yustiz,65,28,0,68,3
+Andy Polar,65,23,0,74,9
+Jeickson Reyes,65,32,0,65,0
+Luis Araújo,65,39,0,65,0
+Erik López,65,18,0,82,17
+Oshiro Takeuchi,65,25,0,68,3
+Sebastián Galindo,65,20,0,81,16
+Luis Pavia,65,21,0,69,4
+Raúl García,65,19,3,81,16
+Hélder Baldé,65,21,0,72,7
+Gustavo Cortéz,65,22,0,70,5
+Janner Corozo,65,24,1,71,6
+Roberto Fernández,65,22,0,75,10
+Luis Cabral,65,36,2,65,0
+Micheal Fabbro,65,24,1,72,7
+Toni Datkovic,65,26,0,70,5
+Frank Tsadjout,65,21,2,76,11
+Mario-Jason Kikonda,65,24,0,74,9
+Lautaro Morales,65,20,0,78,13
+Cristian Rivas,65,23,1,70,5
+José Manríquez,65,33,1,65,0
+Reno Piscopo,65,22,0,76,11
+Ramón,65,19,1,79,14
+Antonio Sánchez,65,23,0,73,8
+Ivan Goranov,65,28,2,66,1
+Daisuke Takagi,65,24,0,69,4
+Marco Sala,65,21,1,81,16
+Killian Sardella,65,18,2,83,18
+Jason Knight,65,19,1,80,15
+Riquelme,65,20,6,83,18
+Eduardo Quaresma,65,18,11,81,16
+Benjamín Rollheiser,65,20,1,79,14
+Erce Kardesler,65,26,0,69,4
+Felix Torres,65,23,1,73,8
+Damián Fernández,65,19,1,78,13
+Meschack Elia,65,22,0,74,9
+Samuel Dias,65,20,1,73,8
+Zvonimir Šarlija,65,23,0,71,6
+Benedikt Pichler,65,23,0,72,7
+Marley Aké,65,19,10,74,9
+André Grandi,65,23,0,75,10
+Slavko Perovic,65,31,0,65,0
+Hrvoje Barišic,65,29,1,65,0
+Ovidiu Hor?ia,65,19,1,81,16
+Sergio Camello,65,19,5,83,18
+Arthur Zagré,65,18,17,75,10
+Dani Vivian,65,21,1,78,13
+Sebastián Cabrera,65,22,2,75,10
+Murat Cem Akpinar,65,21,0,77,12
+Claudiu Belu-Iordache,65,26,0,65,0
+Constantin Dima,65,21,1,79,14
+Loránd Fülöp,65,23,0,70,5
+Eduard Pap,65,26,1,68,3
+Gabriel Simion,65,22,0,77,12
+Adrián Jusino,65,28,0,66,1
+Robinho,65,22,5,74,9
+Michael Olise,65,18,4,82,17
+Metehan Güçlü,65,21,4,75,10
+Marcos Antonio,65,20,12,85,20
+Ayumu Seko,65,20,2,77,12
+Joël Piroe,65,20,0,80,15
+Ilyas Chouaref,65,19,3,80,15
+Leon Dajaku,65,19,8,82,17
+Yuki Soma,65,23,2,69,4
+Avilés,65,22,2,74,9
+Dominik Kotarski,65,20,2,80,15
+Roberto López,65,20,1,80,15
+Ethan Laird,65,18,11,83,18
+Iñaki Peña,65,21,3,79,14
+Bryan Castrillon,65,21,1,80,15
+Álex Cobo,65,25,0,73,8
+Adama Traoré,65,25,3,71,6
+Stratos Svarnas,65,22,1,71,6
+Max Kilman,65,23,7,78,13
+Jordi Escobar,65,18,5,80,15
+De la Fuente,65,21,8,80,15
+Jordan Teze,65,20,4,76,11
+Franco Ferrari,65,24,2,70,5
+Samu Pérez,65,23,1,75,10
+Martín,65,20,3,79,14
+Facundo Castro,65,25,0,67,2
+Jacob Christensen,65,19,1,77,12
+Vitalie Dama?can,65,21,1,77,12
+Morten Hjulmand,65,21,0,75,10
+Daniel Moreno,65,25,1,67,2
+Alberto Rizzo,65,23,1,74,9
+Hidajet Hankic,65,26,1,71,6
+Marquinhos Cipriano,65,21,2,80,15
+Christian Ilic,65,24,1,74,9
+Adil Taoui,65,18,6,77,12
+Johan Vásquez,65,21,2,79,14
+Badr Boulahroud,65,27,1,66,1
+Adam Idah,65,19,14,84,19
+Hilary Gong,65,21,2,75,10
+Ricki Lamie,65,27,1,68,3
+Emmanuel Lomotey,65,22,1,75,10
+Issa Marega,65,22,1,74,9
+Bobby Burns,65,20,1,75,10
+Alihan Kubalas,65,28,0,67,2
+Enzo Loiodice,65,19,11,85,20
+Nils Fröling,65,20,1,77,12
+Lars Lukas Mai,65,20,10,81,16
+Li Shuai,65,25,1,71,6
+Álex Collado,65,21,10,79,14
+Fraser Hornby,65,20,1,76,11
+Kazuki Kushibiki,65,27,0,67,2
+Aaron Herrera,65,23,2,73,8
+Curtis Jones,65,19,26,85,20
+Rifet Kapic,65,25,1,72,7
+Nicolás Thaller,65,21,2,74,9
+Gianluca Busio,65,18,6,78,13
+Mason Toye,65,21,1,76,11
+Ricardo Friedrich,65,27,1,67,2
+Jorge Díaz Price,65,22,3,80,15
+Sergio Barreto,65,21,0,80,15
+Axel Bamba,65,21,4,76,11
+Chumi,65,21,10,80,15
+Roberto Massimo,65,19,3,78,13
+Driss Khalid,65,21,0,73,8
+Berrocal,65,20,2,79,14
+Shandon Baptiste,65,22,1,76,11
+Elvis Bwomono,65,21,3,75,10
+Ethan Hamilton,65,21,2,78,13
+Curtis Tilt,65,28,1,67,2
+Imad Faraj,65,21,4,80,15
+Zan Celar,65,21,3,78,13
+David Gomis,65,27,1,65,0
+Anthony Fontana,65,20,2,70,5
+Raul Asencio,65,22,3,78,13
+Nicolas Kühn,65,20,2,78,13
+Lukasz Wolsztynski,65,25,2,67,2
+Fridolin Wagner,65,22,1,73,8
+Karol Fila,65,22,2,76,11
+Godfried Roemeratoe,65,20,1,72,7
+Melle Meulensteen,65,21,0,71,6
+Neftali Manzambi,65,23,2,74,9
+Kelechi Nwakali,65,22,1,77,12
+Bevic Moussiti-Oko,65,25,2,69,4
+Eden Massouema,65,23,0,76,11
+Romain Basque,65,25,0,74,9
+Marius Kleinsorge,65,24,1,70,5
+Thomas Basila,65,21,5,80,15
+Tim Boss,65,27,0,69,4
+Tachi,65,22,1,78,13
+Ola Brynhildsen,65,21,3,80,15
+Juan Castillo,65,20,17,76,11
+Jorge Cuenca,65,20,13,78,13
+Jordan Williams,65,20,0,77,12
+Brent Kallman,65,29,1,66,1
+Niklas Thor,65,34,1,65,0
+Niko Hansen,65,25,0,66,1
+Harlin Suárez,65,26,0,72,7
+Wellington,65,25,1,70,5
+Patryk Klimala,65,21,7,75,10
+Dimitri Lavalée,65,23,3,72,7
+Javi Díaz,65,23,2,75,10
+Rafa Mújica,65,21,2,77,12
+Luigi Canotto,65,26,2,66,1
+Dimitar Iliev,65,31,2,65,0
+Araruna,65,24,1,73,8
+Tahith Chong,65,20,26,81,16
+Simón Ramírez,65,21,1,75,10
+Takuya Wada,65,30,1,65,0
+Yohei Toyoda,65,35,1,65,0
+Kentaro Oi,65,36,1,65,0
+Takuto Hayashi,65,37,0,65,0
+Takuya Okamoto,65,28,1,65,0
+Eric Oelschlägel,65,24,2,71,6
+Danilo Acosta,65,22,3,75,10
+Callum Johnson,65,23,1,69,4
+Andriy Boryachuk,65,24,3,72,7
+Paulito Zanon,65,28,2,65,0
+Jackson Crusso,65,20,0,67,2
+Henrique Jardinel,65,20,0,65,0
+João Gerster,65,24,0,67,2
+Marcelo Vildeia,65,24,0,65,0
+Jérémy Vachoux,65,26,0,71,6
+Varo,65,27,1,69,4
+Mamadou Bagayoko,65,30,8,65,0
+Callum Connolly,65,22,4,71,6
+Nemanja Antonov,65,25,3,70,5
+Alejandro Frezzotti,65,36,0,65,0
+Gian Filippo Felicioli,65,22,3,76,11
+Valtteri Moren,65,29,0,66,1
+Kaiyne Woolery,65,25,1,65,0
+Saad Abdul-Salaam,65,28,5,65,0
+Ben Kantie Karamoko,65,25,0,72,7
+Courtney Senior,65,23,4,75,10
+Charlie Colkett,65,23,1,72,7
+Abdoul Ba,65,26,2,68,3
+Lucas Passerini,65,26,2,70,5
+Giorgos Strezos,65,25,1,73,8
+Farrend Rawson,65,24,2,72,7
+Will Norris,65,26,1,67,2
+Marc Kibong Mbamba,65,31,1,65,0
+Bilal Ould-Chikh,65,23,0,69,4
+Dairin González,65,30,0,66,1
+Dominic Hyam,65,24,2,73,8
+Filip Jagiello,65,22,2,73,8
+Luka Stojanovic,65,26,1,66,1
+Alessandro Mastalli,65,24,1,69,4
+Patryk Lipski,65,26,1,69,4
+Luis Pavez Contreras,65,32,1,65,0
+Richard Blanco,65,38,0,65,0
+Jonny Mosquera,65,29,2,65,0
+Lassana Doucouré,65,29,3,65,0
+Sondre Tronstad,65,24,0,68,3
+Enzo Zidane,65,25,4,70,5
+Callum McFadzean,65,26,3,68,3
+Ezekiel Fryers,65,27,2,65,0
+Timothée Dieng,65,28,1,66,1
+Jack Grimmer,65,26,2,67,2
+David Andrade,65,27,3,68,3
+Guillermo Allison,65,29,4,66,1
+Nadir Çiftçi,65,28,3,65,0
+Dejan Jakovic,65,35,4,65,0
+Nicolás Gorobsov,65,30,2,65,0
+John Brayford,65,32,2,65,0
+Yang Xu,65,33,3,65,0
+Luis Pedro Figueroa,65,37,1,65,0
+Zdenek Zlámal,65,34,3,65,0
+David Edwards,65,34,2,65,0
+Adebayo Akinfenwa,65,38,36,65,0
+David Bicík,65,39,1,65,0
+Andy Lonergan,65,36,4,65,0
+Matt Gilks,65,38,1,65,0
+Tim Luis Maciejewski,64,19,0,79,15
+Birsent Karagaren,64,27,0,64,0
+Luca Horn,64,21,0,76,12
+Mamoudou Karamoko,64,20,3,80,16
+Mario Cuze,64,21,2,74,10
+Márk Tamás,64,26,0,66,2
+Niko Kata,64,27,1,65,1
+Nicolás Sosa,64,24,3,69,5
+Jakov Puljic,64,26,1,67,3
+Erik Jirka,64,22,0,73,9
+Yvann Maçon,64,21,0,72,8
+Dimitar Velkovski,64,25,0,68,4
+Shay Ben David,64,23,0,71,7
+Eric Bocat,64,21,0,77,13
+Ercan Kara,64,24,1,68,4
+Jairsinho González,64,30,0,64,0
+Matías Pérez,64,20,0,72,8
+Richard van der Venne,64,28,0,65,1
+Óscar Clemente,64,21,1,76,12
+Amine Adli,64,20,0,77,13
+Stefan Velkov,64,23,1,68,4
+Juninho,64,30,1,64,0
+Juan Diego Gutiérrez,64,28,0,64,0
+Bogdan Milovanov,64,22,1,74,10
+Edi Semedo,64,21,0,74,10
+Mateo Abeijón,64,20,0,73,9
+Pablo Adorno,64,24,0,70,6
+Ronny Medina,64,25,0,69,5
+Jefferson Caicedo,64,25,0,66,2
+Yuya Takazawa,64,23,0,69,5
+Ryuho Kikuchi,64,23,0,70,6
+Fran Tudor,64,24,0,68,4
+Won Du Jae,64,22,0,75,11
+Ebrima Colley,64,20,6,75,11
+Santiago Pérez,64,21,0,73,9
+Sotillos,64,22,0,74,10
+Reko Silva,64,21,1,74,10
+Kevin Arias,64,22,0,71,7
+Tito Valencia,64,29,1,64,0
+Joel Fernández,64,21,1,71,7
+Washington Vera,64,26,0,65,1
+Francisco Rodríguez,64,25,0,67,3
+José Junhior Velásquez,64,21,0,67,3
+Sergio Adrián,64,24,0,69,5
+Jorge Padilla,64,19,2,80,16
+Hólguer Matamoros,64,35,0,64,0
+Anyelo Campos,64,27,0,68,4
+Anthony Bedoya,64,24,0,72,8
+Marcos Barrera,64,36,0,64,0
+Zsolt Nagy,64,27,0,66,2
+Migue Leal,64,23,0,73,9
+Calvin Dekuyper,64,20,0,75,11
+Christian Latorre,64,33,0,64,0
+Francisco Mera,64,28,1,64,0
+Edanyilber Navas,64,20,0,81,17
+Pedro Perlaza,64,29,0,64,0
+José Yegüez,64,32,0,64,0
+Anderson Contreras,64,19,0,73,9
+Henry Plazas,64,27,1,67,3
+Cristo Romero,64,20,2,76,12
+Dylan Caro,64,21,0,70,6
+Richard Calderón,64,27,0,67,3
+Yorkman Tello,64,31,0,64,0
+Diego Osio,64,23,1,71,7
+Héctor Zeta,64,26,0,68,4
+Luis Guerra,64,23,0,72,8
+Edinson Chávez,64,26,0,67,3
+Jorge Antonio Ortiz,64,38,0,64,0
+Ezequiel Busquets,64,19,1,82,18
+Nathanaël Mbuku,64,18,4,83,19
+Vadim Karpov,64,18,2,79,15
+David Sánchez,64,21,0,75,11
+Simone Pinna,64,22,3,73,9
+Isaac Lihadji,64,18,7,76,12
+Fer Niño,64,19,3,80,16
+Paul Omo Mukairu,64,20,0,79,15
+Anthony Rouault,64,19,1,77,13
+Kota Watanabe,64,21,1,72,8
+Mohamed Taabouni,64,18,0,79,15
+Manu Sánchez,64,19,4,83,19
+Alan Velasco,64,18,12,84,20
+Adrian Stanilewicz,64,20,1,80,16
+Melvin Sitti,64,20,5,78,14
+Saúl Crespo,64,24,0,73,9
+Nazareno Colombo,64,21,0,78,14
+Tomás Esteves,64,18,10,78,14
+Fabiano Alves,64,25,0,70,6
+Luquinhas,64,19,0,72,8
+Virgiliu Postolachi,64,20,1,79,15
+Pape Ndiaga Yade,64,20,0,78,14
+Mihai Velisar,64,21,1,69,5
+Jurriën Timber,64,19,4,79,15
+Javi Gómez,64,21,1,73,9
+Gajodara Chatterjee,64,35,1,64,0
+Admonio,64,26,0,69,5
+Adrián Szoke,64,22,2,75,11
+Yassin Ben Balla,64,24,0,71,7
+Lilian Brassier,64,20,3,74,10
+Valentine Ozornwafor,64,21,1,78,14
+Jonathan Bay,64,27,0,65,1
+Ellis Simms,64,19,5,82,18
+Bongani Sam,64,22,0,70,6
+Marian Aioani,64,20,0,74,10
+Ugarte,64,25,0,71,7
+Dirk Abels,64,23,1,70,6
+Oguz Yilmaz,64,27,1,66,2
+Mateu Morey,64,20,7,81,17
+Aaron Hickey,64,18,20,82,18
+Paulino,64,23,1,76,12
+Miguel Marí,64,23,0,74,10
+Daniel Hanslik,64,23,1,72,8
+Zourdine Thior,64,23,5,76,12
+Roberto Piccoli,64,19,15,84,20
+Isaac Atanga,64,20,2,78,14
+Sacha Boey,64,19,2,77,13
+Davide Bettella,64,20,3,81,17
+Michal Karbownik,64,19,5,81,17
+Razvan Gradinaru,64,24,1,70,6
+Marian Plea?ca,64,30,2,64,0
+Alexandru Rau?a,64,28,0,67,3
+André Almeida,64,20,1,75,11
+Edwin Cerrillo,64,19,1,81,17
+Kohei Hattori,64,29,0,65,1
+Ibañez,64,21,4,74,10
+Sibiry Keita,64,19,0,78,14
+Lucas Ribeiro,64,21,4,79,15
+Aboubacar Keita,64,20,0,76,12
+Paul Akouokou,64,22,2,72,8
+Karamoko Dembélé,64,17,45,85,21
+Filip Marchwinski,64,18,1,79,15
+Cyril Ngonge,64,20,1,78,14
+Riccardo Sottil,64,21,0,80,16
+Mikhail Ignatov,64,20,2,81,17
+Harvey Elliott,64,17,47,87,23
+Sam McCallum,64,19,2,82,18
+Santiago Briñone,64,23,1,73,9
+Alexander Díaz,64,20,0,80,16
+Troy Parrott,64,18,28,85,21
+Haissem Hassan,64,18,0,80,16
+Dylan Chambost,64,22,0,72,8
+Onni Valakari,64,20,1,77,13
+Georginio Rutter,64,18,1,75,11
+Perera,64,23,0,75,11
+Eiichi Katayama,64,28,1,65,1
+Christian Sánchez,64,21,2,79,15
+Alberto González,64,24,1,74,10
+Baba Fernandes,64,20,2,74,10
+Gaël Ondoua,64,24,2,71,7
+Ricardo Schutte,64,22,2,71,7
+Lamine Diabyfadiga,64,19,5,78,14
+Vitinho,64,21,3,75,11
+Pol Lozano,64,20,2,80,16
+Clemente,64,21,1,79,15
+Gabriel Brazão,64,19,6,80,16
+Yannis Letard,64,21,0,79,15
+Jonathan Burkardt,64,20,3,79,15
+Prince Osei Owusu,64,23,3,71,7
+Sébastien Rénot,64,30,0,65,1
+Linda Mntambo,64,31,1,64,0
+Benjamin Nygren,64,19,7,82,18
+Limones,64,33,1,64,0
+Fatih Kaya,64,20,1,76,12
+Clint Essers,64,23,1,69,5
+Franck Evina,64,20,5,79,15
+Dylan Levitt,64,19,6,82,18
+Oleksandr Pikhalyonok,64,23,1,75,11
+Kevin Agudelo,64,21,9,78,14
+Heradi Rashidi,64,26,2,69,5
+Nnamdi Ofoborh,64,20,3,77,13
+Julian Guttau,64,20,2,79,15
+John Yeboah,64,20,4,84,20
+Luis Felipe,64,24,0,66,2
+Julien Ponceau,64,19,1,78,14
+Liam Fraser,64,22,1,77,13
+Tymoteusz Klups,64,20,5,80,16
+Oscar Macías,64,22,0,76,12
+Benjamín Garré,64,20,3,82,18
+Toni Moya,64,22,1,75,11
+Jón Dagur ?orsteinsson,64,21,2,73,9
+Willem Geubbels,64,18,19,75,11
+Daiya Maekawa,64,25,2,66,2
+Agustín Dávila,64,21,0,71,7
+Adrián López,64,21,1,75,11
+Lenny Pintor,64,19,4,81,17
+Ronald Hernández,64,22,1,73,9
+Matías Nani,64,22,0,77,13
+Manuel Roffo,64,20,4,79,15
+Víctor López,64,23,0,76,12
+Aynsley Pears,64,22,2,76,12
+Timothy Tillman,64,21,3,76,12
+Santi Samanes,64,25,1,70,6
+Yunus Akgün,64,20,6,81,17
+Steven Sessegnon,64,20,4,81,17
+Gustavo Torres,64,24,2,73,9
+Lukas Scherff,64,24,1,71,7
+Tom Bayliss,64,21,2,78,14
+Dani Morer,64,22,7,75,11
+Miha Blazic,64,27,6,68,4
+Florian Hansch,64,24,2,69,5
+Felix Weber,64,25,2,69,5
+Kevin Kunz,64,28,0,66,2
+Kevin Rodrigues Pires,64,28,2,64,0
+Erhan Mašovic,64,21,1,77,13
+Pál Dárdai,64,21,2,76,12
+Kyle McAllister,64,21,3,79,15
+Ken Tokura,64,34,0,64,0
+Karl Larson,64,28,3,64,0
+Shamit Shome,64,22,2,69,5
+Youssef Maziz,64,22,2,70,6
+Lassana Faye,64,22,1,71,7
+Dillson Teixeiro,64,24,0,64,0
+Kyle Duncan,64,22,3,75,11
+Strefezza,64,23,2,72,8
+Axel Bakayoko,64,22,4,76,12
+Saeed Al Rubaie,64,26,0,70,6
+Moritz Nicolas,64,22,1,76,12
+Jonny Smith,64,23,1,74,10
+Vincent Thill,64,20,3,78,14
+Mairdel Sampaio,64,20,0,64,0
+Morgan Feeney,64,21,2,77,13
+Ballou Tabla,64,21,2,75,11
+Hakan Demir,64,22,1,68,4
+Ryo Shinzato,64,30,1,65,1
+Ahn Tae Hyun,64,27,1,64,0
+Park Jeong Su,64,26,1,68,4
+Camilo Moya,64,22,3,76,12
+Cameron Borthwick-Jackson,64,23,7,71,7
+Christian Maghoma,64,22,0,68,4
+Ismail Çipe,64,25,1,68,4
+Juli Morrinhos,64,20,2,64,0
+Alessandro Deiola,64,24,5,70,6
+Sven Sprangler,64,25,1,69,5
+Zain Westbrooke,64,23,3,72,8
+Ryan Broom,64,23,0,68,4
+Leonardo Escorcia,64,23,2,74,10
+Joo Hyeon Woo,64,29,2,64,0
+Kevin Mercado,64,25,2,67,3
+Memo Rodriguez,64,24,0,67,3
+Deklan Wynne,64,25,3,69,5
+Luke McGee,64,24,1,72,8
+Gabriel Alanís,64,26,2,65,1
+Patrick Pflücke,64,23,3,73,9
+Anthony Walongwa,64,26,2,67,3
+Nicola Sutter,64,25,1,71,7
+Ahmed Sharahili,64,26,1,70,6
+Dani Molina,64,24,1,73,9
+Nathan Thomas,64,25,3,66,2
+Stefano Vecchia,64,25,3,67,3
+Romel Quiñonez,64,28,1,66,2
+Nikita Contini,64,24,5,72,8
+Sofian Chakla,64,26,1,69,5
+Luca Nizzetto,64,34,1,64,0
+Alexi Gómez,64,27,2,64,0
+Platini,64,34,2,64,0
+Gedion Zelalem,64,23,5,72,8
+Oswal Álvarez,64,25,2,71,7
+Luis Delgado,64,39,0,64,0
+Mitch Pinnock,64,25,2,64,0
+Ryan Haynes,64,24,1,67,3
+Sebastian Patzler,64,29,0,66,2
+Wes Burns,64,25,1,67,3
+Bruno,64,26,1,65,1
+Tim Payne,64,26,2,66,2
+Tawfiq Bu Haymid,64,32,1,64,0
+Nathaniel Knight-Percival,64,33,2,64,0
+Fábio,64,30,2,65,1
+Anthony Forde,64,26,0,64,0
+Jonathan Espericueta,64,25,0,65,1
+Alessandro Bruno,64,37,0,64,0
+Danny Rose,64,26,1,66,2
+Galin Ivanov,64,32,3,64,0
+Geir André Herrem,64,32,2,64,0
+Giacomo Beretta,64,28,4,64,0
+Jonathan Bond,64,27,1,69,5
+Tim Björkström,64,29,4,65,1
+Eirik Holmen Johansen,64,28,0,68,4
+Ole Söderberg,64,30,0,66,2
+Carlos Gutiérrez,64,30,6,64,0
+Timo Gebhart,64,31,2,64,0
+Jorge Bava,64,38,1,64,0
+Leao Butrón,64,43,0,64,0
+Luis Michel,64,41,0,64,0
+Ronny König,64,37,2,64,0
+Angel Lyaskov,63,22,0,72,9
+Malick Thiaw,63,18,2,80,17
+Joaquín Zeballos,63,23,0,72,9
+Miloš Stanojevic,63,26,1,66,3
+Hugo Martínez,63,20,0,74,11
+Leandro Silva,63,21,0,70,7
+Nkosi Burgess,63,23,0,74,11
+Marcos Enrique,63,20,0,75,12
+Jeremy Salas,63,25,0,68,5
+Elder Arauz,63,30,0,64,1
+Francisco Gerometta,63,20,1,74,11
+Fabricio Díaz,63,17,0,77,14
+Janis Antiste,63,17,2,80,17
+Ricard,63,20,2,74,11
+Jacson Pita,63,24,0,67,4
+Jorge Toledo,63,24,1,66,3
+Jonas Arweiler,63,23,0,71,8
+Camilo,63,21,1,77,14
+Danny Henriques,63,23,0,73,10
+Ivan Ostojic,63,31,0,63,0
+Mohanad Ali,63,20,4,80,17
+Moussa Sissako,63,19,2,77,14
+Maximiliano Pereira,63,27,0,66,3
+André Mesquita,63,22,1,70,7
+Francesco Lo Celso,63,20,0,77,14
+Rodrigo Villagra,63,19,0,80,17
+Leonard Owusu,63,23,0,70,7
+Guillermo Firpo,63,32,0,63,0
+Francisco Rodríguez,63,27,0,64,1
+Jorge Cuellar,63,29,0,64,1
+Teddy Akumu,63,27,0,65,2
+Nikola Kuveljic,63,23,1,71,8
+Antoine Colassin,63,19,1,77,14
+Janio Pósito,63,30,0,63,0
+João Felipe,63,19,2,76,13
+Luete Ava Dongo,63,24,1,70,7
+Gozálbez,63,19,1,79,16
+Tomás Castro,63,21,0,75,12
+Luis Ramírez,63,23,0,69,6
+Loïc Badé,63,20,1,76,13
+Luis Castillo,63,21,0,71,8
+Willan Álvarez,63,24,0,69,6
+Davinson Jama,63,21,1,71,8
+Marcelo Palomino,63,19,0,77,14
+Ramiro Quintana,63,25,0,67,4
+Sontje Hansen,63,18,5,84,21
+Gustavo Giménez,63,33,0,63,0
+Carlos Montiel,63,26,0,66,3
+Francisco Parra,63,28,0,63,0
+Mehdi Zerkane,63,21,3,73,10
+Joaquín Fernández,63,21,3,71,8
+Edwin Cangá,63,26,0,65,2
+Kevin Romay,63,26,0,64,1
+Jorge Ordóñez,63,25,2,64,1
+Anderson Rey,63,25,0,65,2
+Gustavo Olguín,63,25,0,69,6
+Luis Ortíz,63,20,0,73,10
+Zafer Görgen,63,20,0,76,13
+Dixon Arroyo,63,28,0,65,2
+Leonardo Mifflin,63,20,0,69,6
+Richard Mina,63,21,0,74,11
+Robert Cueto,63,21,2,69,6
+José Cazares,63,29,0,63,0
+Simon Omossola,63,22,0,70,7
+Conor Noß,63,19,1,80,17
+Leonardo Villar,63,20,0,80,17
+Gabriel Marques,63,32,2,63,0
+Paolo Méndez,63,21,0,67,4
+Anthony Fuentes,63,21,0,68,5
+Joe Martinez,63,21,0,72,9
+Samuele Ricci,63,18,2,81,18
+Franco,63,22,1,74,11
+Juan Alvez,63,36,1,63,0
+Jorge Trinidad,63,27,0,63,0
+Mathías Laborda,63,20,0,71,8
+Joaquín Trasante,63,21,0,73,10
+Jefferson Encada,63,22,0,71,8
+Omar Yaisien,63,20,3,79,16
+Hans Nicolussi Caviglia,63,20,5,81,18
+Joseph Okumu,63,23,1,76,13
+Tòfol Montiel,63,20,2,77,14
+Romano Postema,63,18,2,79,16
+Bermejo,63,22,0,74,11
+Elías López,63,20,1,75,12
+Sergio Lozano,63,21,0,77,14
+Diego Zivulic,63,28,0,64,1
+Kelvin Ofori,63,19,3,81,18
+Ipalibo Jack,63,22,0,73,10
+Marcinho,63,25,3,67,4
+Mohamed Bahlouli,63,20,0,78,15
+Jorge Vilela,63,24,0,68,5
+Brayan Hurtado,63,21,3,80,17
+Yacouba Diori,63,22,1,72,9
+Fodé Konaté,63,19,1,74,11
+João Gonçalves,63,19,1,73,10
+Albert Stahl,63,21,0,76,13
+Zinédine Ould Khaled,63,20,2,75,12
+Berto,63,22,0,75,12
+Bhadrashree Raj,63,32,1,63,0
+Prakul Bhatt,63,35,3,63,0
+Malcolm Badu,63,23,1,72,9
+Muhammet Akpinar,63,18,2,70,7
+Maxim De Cuyper,63,19,3,77,14
+Okan Chatziterzoglou,63,24,0,71,8
+Brian Araújo,63,20,1,73,10
+Lukas Scepanik,63,26,1,64,1
+Philippe Paulin Keny,63,21,1,74,11
+Atakan Gündüz,63,19,2,82,19
+Razvan Patriche,63,34,0,63,0
+Mihai Neicu?escu,63,21,2,74,11
+Chris Richards,63,20,2,80,17
+Derrick Köhn,63,21,4,77,14
+Ahmed Isaiah,63,24,2,68,5
+Fernando Cardozo,63,19,0,72,9
+Christian Conteh,63,20,4,77,14
+Anthony Soubervie,63,36,0,63,0
+Bilal Benkhedim,63,19,5,81,18
+Nathan Collins,63,19,6,83,20
+Thore Pedersen,63,23,1,70,7
+Hernán López,63,19,0,75,12
+Ilya Gaponov,63,22,1,71,8
+Martin Minchev,63,19,4,76,13
+Marius Mihalache,63,35,0,63,0
+Roberto Romeo,63,30,1,63,0
+Doru Popadiuc,63,25,0,66,3
+Robbe Quirynen,63,18,5,81,18
+Rasmus Karjalainen,63,24,0,70,7
+Dennis Politic,63,20,5,79,16
+Jeremy Ngakia,63,19,4,80,17
+Frankie Amaya,63,19,2,78,15
+Armel Bella-Kotchap,63,18,6,85,22
+Altube,63,20,8,80,17
+Leonidas Stergiou,63,18,18,86,23
+Donovan Pines,63,22,2,70,7
+Pepe Castaño,63,21,1,73,10
+Felix Nmecha,63,19,12,83,20
+Alessio Riccardi,63,19,13,83,20
+Boubacar Fofana,63,21,7,78,15
+Leif Davis,63,20,3,78,15
+Lucien Agoume,63,18,31,85,22
+Fran García,63,20,2,78,15
+Ricardo Grigore,63,21,1,76,13
+Mohamed Daramy,63,18,7,83,20
+Guillamón,63,20,1,78,15
+Mounaïm El Idrissy,63,21,1,75,12
+Lucas Beltrán,63,19,0,79,16
+Roman Tugarev,63,22,0,78,15
+Matías Palacios,63,18,8,85,22
+Kenzo Goudmijn,63,18,0,78,15
+Andrés Perea,63,19,1,78,15
+Aleksandar Tsvetkov,63,29,1,63,0
+Gustav Henriksson,63,22,0,68,5
+Pelayo Morilla,63,19,2,79,16
+Roberto Domínguez,63,23,0,75,12
+James Scott,63,19,0,81,18
+Zhu Chenjie,63,19,4,75,12
+Kevin Moreno,63,20,4,82,19
+Ederson Moreno,63,26,1,67,4
+Toshiya Takagi,63,27,2,64,1
+Oliver Batista Meier,63,19,8,81,18
+Arbenit Xhemajli,63,22,8,76,13
+Djegui Koita,63,20,0,70,7
+Salem Mbakata,63,22,2,72,9
+Fabrizio Caligara,63,20,1,80,17
+Edwin Herrera,63,21,2,77,14
+Niklas Heidemann,63,25,1,68,5
+Lubomír Tupta,63,22,2,74,11
+Henrik Löfkvist,63,25,1,69,6
+Mattia Viviani,63,19,7,79,16
+Finn Dahmen,63,22,1,75,12
+Hirokazu Ishihara,63,21,1,72,9
+Mickel Miller,63,24,1,68,5
+Fausto Vera,63,20,10,80,17
+Ali Al Nemer,63,28,1,63,0
+Adam Ståhl,63,25,4,66,3
+Oliver Steurer,63,25,0,70,7
+Ron-Thorben Hoffmann,63,21,2,76,13
+Jack Lahne,63,18,3,78,15
+Patric Pfeiffer,63,20,1,79,16
+Sultan Farhan,63,23,3,74,11
+Pyry Soiri,63,25,1,66,3
+Abdoulaye Dabo,63,19,8,80,17
+Ryan Strain,63,23,0,67,4
+Paul Smyth,63,22,4,72,9
+Rollin Menayese,63,22,1,69,6
+Oguz Kagan Güçtekin,63,21,1,78,15
+Alessandro Semprini,63,22,0,69,6
+Zech Medley,63,20,10,81,18
+William Bianda,63,20,4,73,10
+Alejandro Zamudio,63,22,1,73,10
+Afimico Pululu,63,21,3,77,14
+Michel Niemeyer,63,24,1,69,6
+Jamil Dem,63,27,1,65,2
+Ali Odabas,63,26,0,68,5
+Kyosuke Tagawa,63,21,2,72,9
+João Virgínia,63,20,3,76,13
+Callum Gribbin,63,21,5,75,12
+Filippo Melegoni,63,21,3,75,12
+Lukas Jonsson,63,27,0,67,4
+Tashan Oakley-Boothe,63,20,4,79,16
+Lee Sang Ki,63,24,0,72,9
+Béla Fejér,63,25,0,71,8
+Sandro Kulenovic,63,20,3,80,17
+Miguel Santos,63,25,1,67,4
+Alfie Whiteman,63,21,7,74,11
+Felipe Soldivia,63,20,0,63,0
+Utku Yuvakuran,63,22,3,74,11
+Mads Emil Madsen,63,22,2,71,8
+Yehvann Diouf,63,20,4,78,15
+Kane Wilson,63,20,1,72,9
+Tony Rocha,63,26,2,66,3
+Ivan Vujica,63,23,0,68,5
+Sondre Solholm Johansen,63,25,1,70,7
+Ismail Isa,63,31,1,63,0
+Sander Asevedo,63,24,0,63,0
+Lee Dong Su,63,26,0,67,4
+Manuel Maranda,63,23,1,73,10
+Anthony Georgiou,63,23,2,72,9
+Iván Rojas,63,23,1,74,11
+Joe Riley,63,23,2,70,7
+Luke Bolton,63,20,1,77,14
+Ignacio Chicco,63,24,0,73,10
+Andrew Tarbell,63,26,1,65,2
+Jan Bamert,63,22,0,76,13
+Ali Abdullah Hazazi,63,26,1,68,5
+Dominik Reimann,63,23,2,69,6
+Thomas Dasquet,63,26,0,69,6
+Duckens Nazon,63,26,4,66,3
+Daniel Franco,63,29,0,65,2
+Scott McMann,63,24,2,71,8
+Maurice Litka,63,24,5,70,7
+Leandro Contin,63,24,2,70,7
+Esteban Ruiz,63,23,2,75,12
+Ben Richards-Everton,63,28,1,65,2
+Mickaël Latour,63,24,2,67,4
+Jordan Lyden,63,24,0,66,3
+Otis Khan,63,23,1,67,4
+Rayan Al Mousa,63,26,0,70,7
+Rodin Quiñones,63,25,2,69,6
+David Djigla,63,24,2,65,2
+Ivan Näsberg,63,24,1,72,9
+Aaron Chapman,63,30,0,65,2
+Kevin Rendón,63,27,1,63,0
+Martín Galmarini,63,38,0,63,0
+Morgan Ferrier,63,25,2,66,3
+Ihor Berezovskyi,63,29,1,64,1
+Tomislav Gomelt,63,25,2,68,5
+Lee Woo Hyeok,63,27,1,64,1
+Sayouba Mandé,63,27,1,67,4
+Saleh Saad Al Qumayzi,63,28,2,63,0
+Hussain Omar Sulaimani,63,43,1,63,0
+Stefan van der Lei,63,27,1,66,3
+Gearóid Morrissey,63,28,1,64,1
+Giannis Kontoes,63,34,1,63,0
+Jang Hyuk Jin,63,30,2,63,0
+Junior Tallo,63,27,2,63,0
+Daniel Jarl,63,28,2,65,2
+Jonas Lindberg,63,31,2,63,0
+Chuma Anene,63,27,2,66,3
+Aslak Falch,63,28,0,66,3
+Frank Nouble,63,28,4,63,0
+Michael Gardawski,63,29,3,63,0
+Gai Assulin,63,29,2,63,0
+Erik Israelsson,63,31,3,63,0
+Óscar Bagüí,63,37,0,63,0
+Habib Habibou,63,33,1,63,0
+Tom Pope,63,34,2,63,0
+Gary Rogers,63,38,1,63,0
+Philipp Heerwagen,63,37,1,63,0
+Christoffer Källqvist,63,36,2,63,0
+Svetoslav Kovachev,62,22,1,72,10
+Ari Leifsson,62,21,0,72,10
+Josip Šutalo,62,20,0,76,14
+Iba May,62,22,0,73,11
+Anthony Correia,62,20,0,73,11
+Oslimg Mora,62,21,0,75,13
+Nico Gorzel,62,22,0,70,8
+Yeiber Murillo,62,22,0,69,7
+Facundo Lando,62,21,1,74,12
+Lucas Paes,62,22,0,72,10
+Gibson Fuentes,62,21,0,71,9
+Manuel Fuentes,62,24,0,66,4
+Yordi Vílchez,62,25,0,67,5
+Youssef El Kachati,62,20,0,72,10
+El Bilal Touré,62,18,1,81,19
+Tomás Diáz,62,23,0,71,9
+Alan Murialdo,62,27,0,63,1
+Daniel Sandy,62,18,0,73,11
+Cristhian Riveros,62,21,0,73,11
+Juan José Franco,62,28,0,62,0
+Realdo Fili,62,24,0,68,6
+Luis Cárdenas,62,29,0,64,2
+Benny Díaz,62,21,0,70,8
+Braian Martínez,62,20,1,74,12
+Rijad Kobiljar,62,24,0,69,7
+Jimmy Isita,62,26,0,65,3
+Javi Martínez,62,20,2,77,15
+Florián Monzón,62,19,2,75,13
+Anis Ben Slimane,62,19,0,80,18
+Juan Pretel,62,36,0,62,0
+Marcos Delgado,62,32,0,62,0
+Homero Calderón,62,26,0,64,2
+Juande,62,21,1,73,11
+David Tijanic,62,23,0,69,7
+José Carabalí,62,23,0,68,6
+Léo Chão,62,20,0,74,12
+Juan Pablo Martínez,62,21,0,76,14
+Diego Aaron Pámanes,62,25,4,66,4
+Federico Nicosia,62,30,0,62,0
+Bryan Hernández,62,21,0,69,7
+Benjamín Gazzolo,62,23,0,70,8
+Juan Montenegro,62,23,1,71,9
+Steven Rivadeneyra,62,25,0,65,3
+Charles Vélez,62,27,0,65,3
+Jerry León,62,25,0,68,6
+Martín Rabuñal,62,26,1,67,5
+Alpha Dionkou,62,18,5,80,18
+Victor Dávalos,62,29,0,62,0
+Gustavo Rojas,62,38,0,62,0
+Gonzalo Viera,62,33,0,62,0
+Georgi Georgiev,62,31,1,62,0
+Daniel Valdés,62,35,0,62,0
+Nieto,62,22,1,70,8
+Pape Meissa Ba,62,23,1,70,8
+Rodrigo Ruiz Díaz,62,21,0,68,6
+José Monaga,62,22,0,66,4
+Miguel Aucca,62,21,0,77,15
+Milciades Portillo,62,28,0,64,2
+Jair Yglesias,62,39,0,62,0
+Francés,62,17,0,80,18
+Ilay Elmkies,62,20,1,78,16
+Esquerdo,62,21,2,74,12
+Anderson Oliveira,62,22,1,73,11
+Hideyoshi Arakaki,62,22,0,68,6
+Pablo Labrin,62,20,0,71,9
+Paolo Fuentes,62,24,1,67,5
+Tommy Doyle,62,18,4,85,23
+Diallo Amad Traore,62,18,4,82,20
+Mohamed Amissi,62,19,0,74,12
+Jeizon Ramírez,62,19,0,67,5
+Pedro Álvarez,62,19,0,72,10
+Moisés Acuña,62,24,0,63,1
+Misael Martínez,62,22,1,71,9
+Edson Rivas,62,18,0,75,13
+Bryan Oña,62,26,0,63,1
+Edison Carcelén,62,27,0,64,2
+Ignacio Pereira,62,22,0,71,9
+Roberto Fernández,62,20,0,75,13
+Tosin Aiyegun,62,22,4,77,15
+Dalibor Velimirovic,62,19,0,76,14
+Ayrton Páez,62,25,0,66,4
+Giacomo Raspadori,62,20,3,78,16
+Nuno Henrique,62,21,1,72,10
+Nacho,62,21,1,71,9
+Nico Melamed,62,19,1,80,18
+Adrián Bernabé,62,19,1,78,16
+Filippo Tolomello,62,18,4,81,19
+Aleksa Terzic,62,20,3,75,13
+Alfie Doughty,62,20,1,76,14
+Aster Vranckx,62,17,6,83,21
+Víctor Mora,62,20,0,68,6
+Marco Toscano,62,23,0,74,12
+Marouan Azarkan,62,18,2,81,19
+Robert Moldoveanu,62,21,1,75,13
+Anvit Swaminathan,62,28,2,62,0
+Hantidev Bhandari,62,31,0,62,0
+Abhimoda Chakraborty,62,34,0,62,0
+Jordan Tunnicliffe,62,26,0,66,4
+Romeesh Ivey,62,26,1,63,1
+Amadou Sagna,62,21,2,73,11
+Nikolas Dyhr,62,19,0,75,13
+Charles Boli,62,21,3,76,14
+Darko Churlinov,62,20,2,81,19
+Yeison Carabali,62,26,1,66,4
+Bartosz Bida,62,19,4,80,18
+Abdallah Ali Mohamed,62,21,0,74,12
+Sandro Neurauter,62,28,0,63,1
+Matías Pato,62,27,0,62,0
+Kabelo Dlamini,62,24,2,68,6
+Mehmet Erdem Ugurlu,62,32,1,62,0
+Nick Shinton,62,19,2,80,18
+Nesta Guinness-Walker,62,20,1,75,13
+Jacob Greaves,62,19,1,72,10
+Jonas Carls,62,23,3,71,9
+Valentin Antov,62,19,2,77,15
+Andrei Ra?iu,62,22,0,74,12
+Lauren?iu Popescu,62,23,1,69,7
+Louis Carnot,62,19,1,76,14
+Tobias Raschl,62,20,3,79,17
+Julian Araujo,62,18,5,79,17
+Andre Shinyashiki,62,23,0,72,10
+Diego Carrasco,62,25,1,67,5
+Liu Yi,62,31,2,62,0
+Josh Benson,62,20,6,74,12
+Ousmane Camara,62,21,1,76,14
+Robbie Gotts,62,20,0,77,15
+Marc Aguado,62,20,6,79,17
+Ki-Jana Hoever,62,18,49,84,22
+Lauren?iu Corbu,62,26,0,67,5
+Mads Bidstrup,62,19,2,78,16
+Federico Navarro,62,20,1,79,17
+Luc Ihorst,62,20,1,73,11
+Näis Djouahra,62,20,2,78,16
+Otaño,62,25,1,69,7
+Ersin Destanoglu,62,19,1,77,15
+Cole Bassett,62,19,3,80,18
+Louie Sibley,62,18,0,80,18
+Lukas Gottwalt,62,22,2,72,10
+Alfio Oviedo,62,24,0,67,5
+Jonas David,62,20,0,79,17
+Renzo Paparelli,62,23,0,73,11
+Amadou Dia Ndiaye,62,20,7,79,17
+Mattia Trovato,62,22,1,74,12
+Simon Sohm,62,19,4,82,20
+Brandon Baiye,62,19,4,75,13
+Arton Zekaj,62,20,2,75,13
+Amir Adouyev,62,21,1,79,17
+Harouna Abou Demba,62,28,1,62,0
+Yari Otto,62,21,3,75,13
+Endika,62,23,2,69,7
+Reo Griffiths,62,20,9,80,18
+Garissone Innocent,62,20,3,74,12
+Gabriele Corbo,62,20,2,76,14
+Kellyan,62,21,2,71,9
+Isak Magnusson,62,22,1,75,13
+Arvin Appiah,62,19,8,82,20
+Wyatt Omsberg,62,24,0,70,8
+Alex Roldan,62,24,1,71,9
+Tristan Blackmon,62,23,2,68,6
+Louis D'Arrigo,62,18,0,74,12
+Oliver Šarkic,62,23,1,72,10
+Dennis Smarsch,62,21,2,76,14
+Zhang Xiuwei,62,24,1,69,7
+Jannis Kübler,62,21,1,77,15
+Jasse Tuominen,62,24,3,69,7
+Timothy Eyoma,62,20,1,77,15
+Bobby Adekanye,62,21,5,76,14
+Charlie Lakin,62,21,1,78,16
+Matteo Gabbia,62,20,6,77,15
+Go Myeong Seok,62,24,0,71,9
+Elias Abouchabaka,62,20,3,73,11
+Ákos Kecskés,62,24,1,70,8
+Luca Matarese,62,22,4,70,8
+Alan,62,23,1,68,6
+Torben Müsel,62,21,4,77,15
+Josh Gordon,62,25,0,64,2
+Jaminton Campaz,62,20,4,82,20
+Rodrigo Schlegel,62,23,1,73,11
+Jerónimo Pourtau,62,20,0,78,16
+Bryan Lasme,62,21,3,74,12
+Alfie May,62,27,2,63,1
+Ahmet Muhamedbegovic,62,21,1,70,8
+Yanick van Osch,62,23,2,71,9
+Julius Kade,62,21,0,79,17
+Luis Sandoval,62,21,0,78,16
+Aaron Morley,62,20,2,74,12
+Vladimir Golemic,62,29,1,62,0
+Darnell Johnson,62,21,2,75,13
+Enzo Guerrero,62,29,1,63,1
+Mamadou Doucouré,62,22,6,76,14
+Diego González,62,22,0,75,13
+Ko Shimura,62,24,1,68,6
+Marco Festa,62,28,2,64,2
+Tiagildo Serra,62,20,0,62,0
+Túlio Nevinha,62,20,1,62,0
+Raullino Meneses,62,20,1,64,2
+Frank Ronstadt,62,23,2,70,8
+Mario Piccinocchi,62,25,0,69,7
+Elijah Adebayo,62,22,1,69,7
+Ashley Baker,62,23,0,67,5
+Marcus Mathisen,62,24,0,65,3
+Johan Valencia,62,24,0,73,11
+Elliott List,62,23,2,72,10
+Juan Pérez,62,24,0,72,10
+Dan Agyei,62,23,3,69,7
+Ingvar Jónsson,62,30,0,63,1
+Ibrahim Cissé,62,24,2,71,9
+John Santander,62,26,2,65,3
+Jeppe Simonsen,62,24,1,66,4
+Frederik Børsting,62,25,2,65,3
+Adam Phillips,62,22,4,72,10
+Hillel Konaté,62,25,1,66,4
+Stephen Hendrie,62,25,2,66,4
+Andrea Paroni,62,30,1,62,0
+Jack Rose,62,25,2,68,6
+Tim Nilsen,62,27,1,63,1
+Harry Lewis,62,22,2,74,12
+Guido Guerrieri,62,24,2,69,7
+Matthew Ridenton,62,24,2,66,4
+Alex Kenyon,62,28,2,63,1
+Danny Whitehead,62,26,1,64,2
+Nicolás Correa,62,36,1,62,0
+Lucas Rodríguez,62,26,1,65,3
+William Cuesta,62,27,0,66,4
+David Valencia,62,29,0,63,1
+Hardy Cavero,62,24,1,73,11
+Matt Preston,62,25,1,63,1
+Giancarlo Gallifuoco,62,26,2,67,5
+Jordan Turnbull,62,25,4,69,7
+Stephen Sama,62,27,2,64,2
+Sead Hajrovic,62,27,1,65,3
+Jakub Szumski,62,28,0,65,3
+Brendan Hamill,62,27,1,64,2
+Harry Davis,62,28,1,64,2
+Eugeniu Cebotaru,62,35,1,62,0
+Ali Al Mazaidi,62,34,1,62,0
+Simon Madden,62,32,2,62,0
+Elliot Parish,62,30,1,64,2
+Matt Simon,62,34,2,62,0
+Craig Mackail-Smith,62,36,2,62,0
+Brian Murphy,62,37,0,62,0
+Pier Graziano Gori,62,40,0,62,0
+Barry Roche,62,38,2,62,0
+Jobi McAnuff,62,38,1,62,0
+Don Cowie,62,37,1,62,0
+Armando Broja,61,18,6,84,23
+Kevin Lewis,61,21,0,69,8
+Emanuele Zuelli,61,18,0,75,14
+Aramis Kouzine,61,21,1,70,9
+Guille Rosas,61,20,0,73,12
+Éder Cetré,61,25,0,66,5
+Nixon Molina,61,27,0,64,3
+Eduardo Rabanal,61,23,0,65,4
+Bruno Correa,61,29,0,61,0
+Martín Fernández,61,19,1,73,12
+Eduardo Duarte,61,26,0,65,4
+Lars Olden Larsen,61,21,0,71,10
+Luiz Fernando,61,23,1,67,6
+Steeven Saba,61,27,1,63,2
+Carlos Jimémez,61,22,0,66,5
+Germán Chanchamire,61,25,0,64,3
+Alejandro González,61,26,0,64,3
+Ariel Coronel,61,33,0,61,0
+Tomislav Krizmanic,61,19,2,78,17
+Nkanyiso Zungu,61,24,0,65,4
+Elías Meza,61,22,0,67,6
+Sebastian Reyes,61,23,0,66,5
+Mario,61,23,0,69,8
+Jayden Nelson,61,17,2,76,15
+Tomáš Brecka,61,26,0,66,5
+Zabarte,61,21,0,73,12
+Franco Ezequiel Paredes,61,21,0,74,13
+Eros Maddy,61,19,0,77,16
+Gabriël Çulhaci,61,20,0,74,13
+Pedro Gutiérrez,61,28,0,61,0
+Moreno,61,18,2,79,18
+Renzo Orihuela,61,19,0,74,13
+Cristian Duma,61,24,0,69,8
+Santiago Cartagena,61,17,1,81,20
+Edixson González,61,29,0,62,1
+Alan Liebeskind,61,35,0,61,0
+Adrián Martínez,61,27,0,65,4
+Daniel Segura,61,21,0,70,9
+Richard Nuñez,61,22,0,69,8
+Daryl Dike,61,20,5,81,20
+Moaath Afana,61,29,1,61,0
+Hugo Espínola,61,25,0,67,6
+Maxence Rivera,61,18,0,79,18
+Yuya Asano,61,23,0,67,6
+Widen Saucedo,61,23,1,68,7
+Cristian Paredes,61,30,0,61,0
+Isidro Pitta,61,20,0,69,8
+Rodrigo Banegas,61,24,0,67,6
+David Loera,61,21,0,75,14
+Hugo Rojas,61,26,0,63,2
+Adrian Oeynhausen,61,18,1,77,16
+Bayli Spencer-Adams,61,19,1,76,15
+Youssouph Badji,61,18,1,79,18
+Leonardo Aponte,61,26,1,64,3
+Rein Smit,61,19,0,72,11
+Pepe Sánchez,61,20,0,76,15
+Richard Figueroa,61,23,1,65,4
+Javier Maldonado,61,26,1,62,1
+Pedro Ramírez,61,27,0,61,0
+Kevin De La Hoz,61,22,0,68,7
+Junior Vargas,61,20,0,72,11
+Facundo Silvera,61,23,0,68,7
+Carlos Torres,61,32,1,61,0
+David Ayala,61,18,0,82,21
+Noah Diliberto,61,18,0,74,13
+Roberto Céspedes,61,21,0,66,5
+Juan Raúl Neira,61,25,0,63,2
+Marcelo Molinas,61,19,0,65,4
+Kartal Yilmaz,61,19,0,76,15
+Serkan Asan,61,21,0,68,7
+Damian Rivera,61,17,4,76,15
+Luis Fernando Fernández,61,42,0,61,0
+Javier Quiñónez,61,31,1,61,0
+Leonardo Urapuca,61,21,0,65,4
+Elijah Just,61,20,1,75,14
+Bastian Badu,61,20,0,75,14
+Nick Woltemade,61,18,2,77,16
+Nicholas Gioacchini,61,20,1,76,15
+Sainz-Maza,61,22,1,69,8
+Tomás Bourdal,61,22,0,72,11
+Guillermo Fernández,61,32,0,61,0
+Henry Cangá,61,33,1,61,0
+Kenny Romero,61,25,1,65,4
+Darío Sarmiento,61,17,1,80,19
+Joaquín Astorga,61,19,0,68,7
+Joel Pinto,61,40,0,61,0
+Roque Guachiré,61,25,2,65,4
+Brandon Palacios,61,22,2,68,7
+Pépé Bonet,61,17,1,74,13
+Alan Medina,61,22,1,68,7
+Marcelo Freites,61,22,0,73,12
+Muhammed-Cham Saracevic,61,19,0,75,14
+Gabriele Plechero,61,17,1,79,18
+Elia Giani,61,19,1,80,19
+Rafael Arace,61,25,1,67,6
+Daniel Linárez,61,28,2,61,0
+Alessandro Fiordaliso,61,21,0,72,11
+Wilfried Singo,61,19,3,78,17
+Ivan Turitsov,61,21,2,71,10
+Patrick Vroegh,61,20,1,72,11
+Charalambos Stamboulidis,61,24,0,66,5
+Matchoi Djaló,61,17,0,75,14
+Enrico Del Prato,61,20,0,77,16
+Jota Gonçalves,61,20,0,71,10
+Cosmin Bîrnoi,61,22,0,70,9
+Breno,61,20,0,70,9
+Malik Talabidi,61,19,3,73,12
+Lucas González,61,20,3,79,18
+Lars Nussbaumer,61,19,1,75,14
+Jesús Ramírez,61,22,0,71,10
+Thomas Garcia,61,25,0,65,4
+Désiré Segbé Azankpo,61,27,0,62,1
+Anouar Ait El Hadj,61,18,3,80,19
+Nelson Hernández,61,28,0,62,1
+Joan Femenías,61,23,0,71,10
+Soberón,61,23,0,70,9
+Juan David Cabal,61,19,3,79,18
+Lucas Chevalier,61,18,15,84,23
+Jayson Papeau,61,24,0,68,7
+Bobby Duncan,61,19,4,81,20
+Murat Saglam,61,22,1,70,9
+Ateef Konaté,61,19,1,79,18
+Ignace Van der Brempt,61,18,6,80,19
+Tom Krauß,61,19,3,75,14
+Jan-Luca Rumpf,61,21,1,73,12
+Blaz Kramer,61,24,0,70,9
+Bridge Ndilu,61,20,2,77,16
+Tom Grivosti,61,21,0,78,17
+Angelo Stiller,61,19,2,79,18
+Nils Blumberg,61,23,1,70,9
+Kostadin Velkov,61,31,0,61,0
+Tom Duponchelle,61,24,2,66,5
+Leo Greiml,61,19,0,79,18
+Naoufal Bannis,61,18,3,79,18
+Ilia Gruev,61,20,2,78,17
+Pavel Maslov,61,20,1,77,16
+Konstantin Maradishvili,61,20,2,74,13
+César Haydar,61,19,3,81,20
+Claudiu Petrila,61,19,0,78,17
+Kim Tae Hwan,61,20,0,78,17
+Dani García,61,21,2,73,12
+Evelio Cardozo,61,19,5,81,20
+Mateusz Bogusz,61,18,1,78,17
+Lukáš Hroššo,61,33,2,61,0
+Ivar Sollie Rønning,61,27,1,62,1
+Enzo Jeremías Fernandez,61,19,0,81,20
+Ryan Astley,61,18,4,82,21
+Philimon Tawiah,61,21,1,71,10
+Gianluca Gaetano,61,20,3,78,17
+Elvis Kamsoba,61,24,2,67,6
+Charlie Kelman,61,18,0,78,17
+César Huerta,61,19,1,68,7
+Kaine Sheppard,61,26,0,62,1
+Jeisson Quiñones,61,22,1,71,10
+Mateusz Mlynski,61,19,2,76,15
+Saif Al Qeshtah,61,27,0,63,2
+Bastián Yáñez,61,19,0,71,10
+Jonathan Suárez,61,23,2,69,8
+Benjamin Kindsvater,61,27,4,61,0
+Dennis Dressel,61,21,1,75,14
+Williams Alarcón,61,19,0,73,12
+Reece Hutchinson,61,20,1,78,17
+Jonathan Meier,61,20,4,75,14
+Anthony Gordon,61,19,6,82,21
+George Tanner,61,20,4,74,13
+Sam Vines,61,21,0,77,16
+Aaron Herzog,61,22,1,72,11
+George Bello,61,18,3,77,16
+Vincenzo Millico,61,19,4,79,18
+Bilal Njie,61,22,2,70,9
+Olaus Jair Skarsem,61,22,1,75,14
+Simon Amin,61,22,1,67,6
+Budimir Janoševic,61,30,1,62,1
+Jacob Italiano,61,18,5,82,21
+Luis Díaz,61,25,1,66,5
+Antoine Semenyo,61,20,5,76,15
+Takuya Yasui,61,21,1,69,8
+Marc Guehi,61,20,4,80,19
+Keanan Bennetts,61,21,4,74,13
+Juan Ignacio Díaz,61,22,0,74,13
+Caoimhin Kelleher,61,21,2,75,14
+George Johnston,61,21,1,74,13
+Ali Koiki,61,20,1,73,12
+Sumayhan Al Nabit,61,24,4,67,6
+Atalay Babacan,61,20,4,77,16
+Victor Ekani,61,23,1,69,8
+Jonathan Klinsmann,61,23,2,71,10
+Kyle Taylor,61,20,3,74,13
+Matías Fracchia,61,24,1,68,7
+Filip Piszczek,61,25,2,66,5
+Mohammed Al Baqawi,61,25,0,68,7
+Ross Laidlaw,61,28,0,65,4
+Gennaro Ruggiero,61,20,1,71,10
+Yohei Nishibe,61,39,0,61,0
+Georges Bokwé,61,31,1,62,1
+Ludvig Fritzson,61,24,1,67,6
+Agustín Cardozo,61,23,0,74,13
+Dan N'Lundulu,61,21,4,72,11
+Alfredo Bifulco,61,23,3,69,8
+Tang Shi,61,25,1,64,3
+George Cox,61,22,3,70,9
+Im Dong Hyuk,61,27,0,66,5
+Serigne Mor Mbaye,61,24,1,69,8
+Daiki Niwa,61,34,1,61,0
+Ryotaro Hironaga,61,30,0,62,1
+Takuya Masuda,61,31,0,62,1
+Naoki Ishikawa,61,34,0,61,0
+Ryota Aoki,61,24,1,66,5
+Thomas Glover,61,22,2,73,12
+George Miller,61,21,2,68,7
+Alexis Alégué,61,23,1,64,3
+Clayton Lewis,61,23,8,69,8
+Dániel Gyollai,61,23,1,71,10
+Adetayo Edun,61,22,3,75,14
+Cian Harries,61,23,0,72,11
+Omar Mohammed Muzayil,61,28,1,62,1
+Brendan Moore,61,28,1,63,2
+Earl Edwards Jr.,61,28,0,64,3
+Kamil Mazek,61,26,2,62,1
+Sui Weijie,61,37,0,61,0
+Ben Warland,61,23,0,64,3
+Wang Jianan,61,27,4,62,1
+Tennai Watson,61,23,2,70,9
+Eirik Haugan,61,22,0,65,4
+Baek Dong Gyu,61,29,0,63,2
+Cameron Norman,61,24,1,65,4
+Marian Sarr,61,25,3,65,4
+Nathan Pond,61,35,1,61,0
+Mohammed Al Qarni,61,30,2,61,0
+Jay Lynch,61,27,1,65,4
+Jamie Sendles-White,61,26,1,66,5
+Iván Rodríguez,61,27,1,66,5
+Marc Rochester Sørensen,61,27,1,61,0
+Christian Bickel,61,29,2,61,0
+Tom Nichols,61,26,0,61,0
+Paolo Jiménez,61,36,0,61,0
+David Cornell,61,29,2,62,1
+Tope Obadeyi,61,30,1,61,0
+Horacio Ramírez,61,36,2,61,0
+Joey O'Brien,61,34,2,61,0
+Mattias Moström,61,37,1,61,0
+Dannie Bulman,61,41,0,61,0
+Diogo Pinto,60,21,0,73,13
+Jesús Amarilla,60,18,0,73,13
+Brian Leizza,60,20,0,71,11
+Facundo Giacopuzzi,60,19,0,72,12
+Mathías Pintos,60,20,0,69,9
+Tommy Mina,60,20,0,70,10
+Harold González,60,26,0,63,3
+Diego Nava,60,20,0,74,14
+Lazar Samardzic,60,18,4,77,17
+Javi López,60,18,0,74,14
+José Rivas,60,21,0,70,10
+Leonardo Olivera,60,33,0,60,0
+Alkain,60,23,0,72,12
+Pablo Pérez,60,19,0,73,13
+Miguel Berry,60,22,0,68,8
+Álvaro Preciado,60,22,0,66,6
+Jean Carlos Montaño,60,21,1,68,8
+Sergio Quintero,60,21,0,69,9
+Emilio Saba,60,19,0,71,11
+Ricard Pujol,60,22,0,71,11
+Sebastián Ramírez,60,19,0,75,15
+Luis Poblete,60,23,0,68,8
+Santiago Montiel,60,19,1,72,12
+Estalin Segura,60,20,0,68,8
+Kevin Raphael Díaz,60,18,0,72,12
+Gastón Martirena,60,20,0,67,7
+Mirambel,60,22,1,68,8
+Corral,60,22,0,70,10
+Antony Trujillo,60,21,0,67,7
+Ranko Veselinovic,60,21,0,68,8
+Jesús Sagredo,60,26,0,65,5
+Hugo Ángeles,60,26,0,62,2
+Elicer Mina,60,29,0,60,0
+Daniel Maldini,60,18,18,80,20
+Meléndez,60,21,1,72,12
+Kristers Tobers,60,19,2,72,12
+Lazaros Rota,60,22,0,69,9
+Youssuf Ndayishimiye,60,21,1,70,10
+Dante Campisi,60,23,0,65,5
+Barbero,60,21,0,71,11
+Nacho Díaz,60,20,1,73,13
+Henry Wise,60,20,1,70,10
+Joaquín Sosa,60,18,0,75,15
+Brandon Pierrick,60,18,4,82,22
+Elia Caprile,60,18,0,78,18
+Muhammet Özkal,60,20,2,68,8
+Ignacio González,60,36,0,60,0
+Tomáš Suslov,60,18,1,81,21
+Stéphane Zobo,60,19,1,71,11
+Azzedine Ounahi,60,20,0,73,13
+Jorge Paredes,60,35,0,60,0
+José Araque,60,31,0,60,0
+Tadej Vidmajer,60,28,1,60,0
+Richard Leyton,60,33,1,60,0
+Bubacar Djaló,60,23,0,69,9
+Miro Tenho,60,25,1,66,6
+Joaquín Abdala,60,20,1,71,11
+Wildo Alonso,60,29,1,60,0
+Franco Aragón,60,26,1,63,3
+Bartol Franjic,60,20,0,75,15
+Indiana Vassilev,60,19,0,77,17
+Segundo Portocarrero,60,23,0,66,6
+José Andrés Martínez,60,25,0,67,7
+Juan Argüello,60,28,0,60,0
+Edgardo Orzuza,60,30,2,60,0
+Marcel Guaramato,60,26,0,61,1
+José Neris,60,20,0,72,12
+Facundo Ospitaleche,60,24,0,66,6
+Musa Juwara,60,18,3,79,19
+Luke Thomas,60,19,1,79,19
+Osmar Fernández,60,20,0,64,4
+Alan Mercado,60,27,2,62,2
+Rubén Escobar,60,30,0,60,0
+Ronal de Jesús,60,34,0,60,0
+Jean Paul García,60,18,0,77,17
+Azón,60,20,0,76,16
+Bryan Sánchez,60,27,0,60,0
+Michel Rasmussen,60,21,0,66,6
+Carlos Marín,60,23,1,68,8
+Ramón Juárez,60,19,3,82,22
+Pietro Rovaglia,60,19,1,74,14
+Felipe Mejía,60,25,0,65,5
+Héctor Pérez,60,29,0,63,3
+Éder Hermoza,60,30,0,61,1
+Pedro Galindo,60,25,0,64,4
+Rolando Sánchez,60,23,0,67,7
+Walter Rioja,60,25,0,61,1
+Darlin Yongwa,60,19,0,74,14
+Maxim Eleev,60,19,1,73,13
+Anthony Landázuri,60,23,2,63,3
+Manuel Ugarte,60,19,0,69,9
+Zarco,60,22,1,69,9
+Gonzalo Crettaz,60,20,2,72,12
+Enrico Canino,60,22,0,67,7
+Leandro Fernandes,60,20,4,72,12
+Issa Soumaré,60,19,0,79,19
+Issa Kabore,60,19,5,78,18
+Mory Konaté,60,26,2,64,4
+Sebastiano Rosa,60,18,1,78,18
+Thomas Chacon,60,19,2,74,14
+Aldair Peña,60,19,0,68,8
+Gabriele Zappa,60,20,1,75,15
+César Moreno,60,19,1,78,18
+Taylor Harwood-Bellis,60,18,6,83,23
+Vladyslav Kucheruk,60,21,0,72,12
+Alessio Tribuzzi,60,21,1,69,9
+Masaki Yamamoto,60,32,0,60,0
+Richmond Tachie,60,21,2,71,11
+Dominik Bilogrevic,60,21,2,69,9
+Lewis Smith,60,20,1,78,18
+Münir Mercan,60,19,2,80,20
+Suad Sahiti,60,25,0,63,3
+Lucas Díaz,60,24,0,70,10
+Haret Ortega,60,20,6,75,15
+Carlos Kevin,60,19,1,77,17
+Sorin ?erban,60,20,0,77,17
+Yasser Larouci,60,19,4,79,19
+Oliver Bias,60,19,4,70,10
+Niklas Kölle,60,20,2,73,13
+Ridvan Yilmaz,60,19,2,76,16
+Yerko González,60,18,0,76,16
+Carlo Crialese,60,27,0,61,1
+José Marrufo,60,24,0,65,5
+?tefan Baiaram,60,17,0,79,19
+Abu Francis,60,19,0,76,16
+Adit Ginti,60,26,3,62,2
+Remil Nadkarni,60,34,1,60,0
+Bismeet Sidhu,60,32,2,60,0
+Attana Deshpande,60,39,0,60,0
+Darell Tokpa,60,19,0,66,6
+Aidan Fitzpatrick,60,19,1,76,16
+Patrick,60,21,1,74,14
+Muhannad Al Najai,60,26,2,63,3
+David Boateng,60,19,2,77,17
+Brennan Johnson,60,19,5,81,21
+Filip Bainovic,60,24,1,67,7
+Nicolai Vallys,60,23,1,66,6
+Kwame Poku,60,18,4,76,16
+Guima,60,24,1,64,4
+Marcel Zylla,60,20,2,75,15
+Timothé Nkada,60,21,1,75,15
+Mete Çelik,60,23,3,65,5
+Yesid Diaz,60,23,0,71,11
+Sebastian Soto,60,20,2,76,16
+Igor Levchenko,60,29,0,62,2
+Alexi Pitu,60,18,0,82,22
+Andrei Tru?escu,60,21,0,74,14
+Juan Manuel Cuesta,60,18,3,82,22
+Anthony Glennon,60,20,2,71,11
+Kamal Miller,60,23,0,70,10
+Archie Boroughbridge,60,35,2,60,0
+Paul Glatzel,60,19,4,80,20
+Folarin Balogun,60,19,32,81,21
+Eisuke Fujishima,60,28,1,63,3
+Aleksander Buksa,60,17,1,77,17
+Musah Nuhu,60,23,1,70,10
+Con Ouzounidis,60,20,4,73,13
+Boris Moltenis,60,21,3,75,15
+Hamad Al Mansoury,60,24,0,67,7
+Arjen van der Heide,60,18,1,79,19
+Agustín Obando,60,20,2,78,18
+Ikuma Sekigawa,60,19,1,75,15
+Emiliano González,60,24,0,69,9
+Katsuya Iwatake,60,24,1,65,5
+Diego Abella,60,21,2,70,10
+Nsima Peter,60,31,1,60,0
+Facundo Almada,60,22,0,73,13
+Vinni Triboulet,60,21,0,76,16
+Jo Jin Woo,60,20,2,74,14
+Alfie Bates,60,19,3,76,16
+Clinton Mola,60,19,0,78,18
+Juan Peñaloza,60,20,0,78,18
+Luke Matheson,60,17,5,83,23
+Jamie Bowden,60,19,3,80,20
+Harvey White,60,18,5,78,18
+Grzegorz Szymusik,60,22,1,70,10
+Nelson Balongo,60,21,1,71,11
+Iván Martínez,60,18,4,81,21
+Slimen Kchouk,60,26,1,64,4
+José Alfonso Alvarado,60,20,1,77,17
+Abdulrahman Al Yami,60,23,1,71,11
+Antonio López,60,23,1,69,9
+Osman Atilgan,60,20,1,76,16
+Jozo Stanic,60,21,2,73,13
+Adrian Klimczak,60,23,0,64,4
+Ben Stephens,60,22,1,67,7
+Batista Mendy,60,20,1,74,14
+Victor Glaentzlin,60,22,1,71,11
+Necirwan Khalil Mohammad,60,28,1,61,1
+Henri Pernía,60,29,0,61,1
+Eric Weeger,60,23,2,67,7
+Bartlomiej Zynel,60,22,1,72,12
+Dominik Wanner,60,21,1,73,13
+Adam Lewis,60,20,5,77,17
+Anderson Angulo,60,24,0,71,11
+Andre de Jong,60,23,3,67,7
+Sebastián Palma,60,21,2,77,17
+Efrain Alvarez,60,18,5,81,21
+Alexis Trouillet,60,19,4,74,14
+Dan Kelly,60,24,0,68,8
+Yuki Kagawa,60,28,0,61,1
+Tariq Lamptey,60,19,4,78,18
+Raúl Sandoval,60,20,3,74,14
+Khanya Leshabela,60,20,3,76,16
+Ayo Akinola,60,20,7,74,14
+Kenshin Yoshimaru,60,24,1,66,6
+Fraser Murray,60,21,0,75,15
+Sonny Laiton,60,20,9,77,17
+Mario Prezioso,60,24,2,67,7
+Roberto Meraz,60,20,2,70,10
+Abdussamed Karnuçu,60,20,2,77,17
+Gustav Marcussen,60,22,0,74,14
+Marlon Fossey,60,21,5,74,14
+Nicklas Røjkjær,60,22,0,72,12
+Nya Kirby,60,20,3,78,18
+Christoph Haas,60,28,0,63,3
+Nicke Kabamba,60,27,1,61,1
+Davide Itter,60,21,2,72,12
+Jan-Ole Sievers,60,25,0,66,6
+Cristian Valencia,60,27,0,62,2
+Oscar Hedvall,60,21,3,69,9
+Majed Kanabah,60,27,2,63,3
+Sheriff Sinyan,60,24,1,69,9
+Dean Lyness,60,29,1,63,3
+Fabian Benko,60,22,2,69,9
+Frederik Lauenborg,60,23,1,67,7
+Gavin Reilly,60,27,1,60,0
+Antonio Torres,60,24,2,65,5
+Yasir Subasi,60,24,0,63,3
+Hatim Belal,60,26,0,64,4
+Ronaldo Ariza,60,22,0,65,5
+Jiang Jihong,60,30,1,60,0
+Michael Kelly,60,22,0,63,3
+Braulio Uraezaña,60,25,0,62,2
+George Blackwood,60,23,1,63,3
+Aaron Collins,60,23,2,68,8
+Chérif Quenum,60,27,0,63,3
+Brandur Hendriksson Olsen,60,24,0,64,4
+Emircan Altintas,60,25,1,67,7
+Conor O'Malley,60,25,1,64,4
+Jaushua Sotirio,60,24,0,62,2
+Driss Trichard,60,25,1,65,5
+Marcus Barnes,60,23,4,67,7
+Juan Vieyra,60,28,2,60,0
+Deyan Iliev,60,25,4,66,6
+Joshua Hare,60,25,1,61,1
+Jermaine Anderson,60,24,1,68,8
+Andreas Hirzel,60,27,0,64,4
+Cole Stockton,60,26,1,62,2
+Francisco Flores,60,26,1,61,1
+Johnny Dunleavy,60,29,2,60,0
+Ryang Yong Gi,60,38,0,60,0
+Joe Martin,60,31,2,60,0
+Ai Zhibo,60,37,0,60,0
+Andris Vanins,60,40,0,60,0
+Michael Rose,60,38,1,60,0
+Joan Parra,59,20,0,71,12
+Aldo López,59,20,0,72,13
+Javier Hernández,59,20,0,70,11
+Joey DeZart,59,22,0,71,12
+Yannik Keitel,59,20,1,71,12
+Sandro Notaroberto,59,22,0,69,10
+Kike Carrasco,59,22,0,70,11
+Andri Fannar Baldursson,59,18,2,74,15
+Ifunayachi Achara,59,22,3,66,7
+Jaisam Korbaj,59,20,1,67,8
+Luis Estupiñán,59,21,0,68,9
+Carlos Peralta,59,21,0,66,7
+Joel Waterman,59,24,1,65,6
+Victor Brid,59,19,0,69,10
+Iván Scarpeta,59,24,0,65,6
+Filip Dangubic,59,25,0,63,4
+Marco Ehmann,59,19,1,75,16
+Leonardo Justiniano,59,19,0,70,11
+Edwin Pacheco,59,22,0,67,8
+Federico Pereira,59,20,0,69,10
+Molina,59,23,0,68,9
+Marcos Gil,59,19,0,71,12
+Maik Nawrocki,59,19,0,76,17
+Simon Stehle,59,18,0,77,18
+Giovanni Zwikstra,59,19,0,73,14
+Wilitty Younoussa,59,18,1,72,13
+Juan Roa,59,27,0,59,0
+Lucas Greno,59,17,0,75,16
+Giacomo Quagliata,59,20,0,73,14
+Marvin,59,22,0,68,9
+Josué Gómez,59,21,0,71,12
+Lucas Sanabria,59,20,0,68,9
+Renato Josipovic,59,19,1,77,18
+Joel Mumbongo,59,21,2,68,9
+Julen Lobete,59,19,1,71,12
+Eugenio Pizzuto,59,18,19,79,20
+Santiago Orozco,59,24,0,66,7
+Sylvester Jasper,59,19,0,77,18
+Gianfranco Facchineri,59,18,0,74,15
+Noah Billingsley,59,22,1,65,6
+José Enamorado,59,21,0,67,8
+Alin ?eroni,59,33,1,59,0
+Matías Draghi,59,27,0,62,3
+Diaguely Dabo,59,27,1,60,1
+Mees Bakker,59,19,0,74,15
+Jay Stansfield,59,17,2,81,22
+Lisandru Tramoni,59,17,0,74,15
+Victor Torres,59,24,0,62,3
+Rubén Rojas,59,28,0,59,0
+Salvador Manríquez,59,20,0,74,15
+Alexandru Albu,59,26,0,63,4
+Denis Ventúra,59,24,0,64,5
+Omar Panuco,59,19,0,75,16
+Ogulcan Bekar,59,19,0,72,13
+José Hernández,59,23,0,65,6
+Andrés Souper,59,21,0,69,10
+Jasir Asani,59,25,2,64,5
+Christian Saydee,59,18,2,75,16
+Maximiliano Araújo,59,20,0,75,16
+Juan Miguel Ojeda,59,22,0,66,7
+Aldo Quiñónez,59,29,0,59,0
+Francisco Ginella,59,21,0,73,14
+Darwin Matheus,59,19,3,71,12
+Marcos Montiel,59,25,0,65,6
+Ricky-Jade Jones,59,17,14,84,25
+Lilian Egloff,59,17,1,78,19
+Arne Cassaert,59,19,1,73,14
+Guido Chávez,59,21,1,71,12
+Aldo Cubilla,59,18,0,71,12
+Jonathan Acasiete,59,31,1,59,0
+Brackson León,59,25,2,62,3
+Florent Poulolo,59,23,2,68,9
+Chem Campbell,59,17,4,80,21
+Leonel Nazareno,59,26,0,64,5
+Arambarri,59,22,1,68,9
+Beycker Velásquez,59,24,1,67,8
+José Llovera,59,22,2,67,8
+Italo Espinoza,59,24,1,63,4
+Niklas Tauer,59,19,2,78,19
+Josip Ivancic,59,29,1,59,0
+Pascal Kpohomouh,59,18,4,72,13
+Gift Links,59,21,0,74,15
+Oliver Valaker Edvardsen,59,21,0,72,13
+Gastón Pérez,59,20,0,67,8
+Boubacar Traoré,59,18,0,75,16
+Fred Mircer,59,21,0,70,11
+Matthew Drubble,59,21,1,74,15
+Romaric Yapi,59,20,0,76,17
+Jaiber Jiménez,59,25,1,64,5
+Christian Gyeboaho,59,23,0,67,8
+Jarno Westerman,59,18,0,79,20
+Jakub Kaminski,59,18,1,76,17
+Erkan Eyibil,59,19,2,79,20
+Gabriele Bellodi,59,19,5,72,13
+Cory Sene,59,19,1,78,19
+Jomaine Consbruch,59,18,2,78,19
+Josué Sánchez,59,21,0,64,5
+Nathan Zohoré,59,19,1,76,17
+Ali Maadi,59,25,0,61,2
+Julio Machado,59,38,1,59,0
+Dinkerrai Bajwa,59,39,2,59,0
+Randhir Jayaraman,59,35,0,59,0
+Gunjeevan Thakkar,59,23,10,61,2
+Vihaan Boral,59,31,2,60,1
+Diasha Sundaram,59,31,0,59,0
+Sami Matoug,59,20,2,73,14
+Khaled Al Khathlan,59,25,0,64,5
+Bogdan Ilie,59,20,1,69,10
+Gary Magnée,59,20,1,70,11
+Christian Mina,59,23,0,66,7
+Makito Ito,59,27,0,61,2
+Nicolai Geertsen,59,29,0,60,1
+Mauro Maureira,59,19,0,68,9
+Abdullah Al Humayan,59,32,0,59,0
+Boris Cespedes,59,25,0,66,7
+Anatoliy Trubin,59,18,3,79,20
+John Popelard,59,34,0,59,0
+Sergej Grubac,59,20,1,73,14
+Diant Ramaj,59,18,0,76,17
+Alexandre Ippolito,59,21,1,68,9
+Justin Neiß,59,20,0,77,18
+Valentino Yuel,59,25,0,62,3
+Yoel Juárez,59,18,1,79,20
+Razvan Trif,59,22,0,65,6
+Davide Merola,59,20,1,75,16
+Yohan Baret,59,19,0,78,19
+Andrés Arroyo,59,18,1,77,18
+Victor Boniface,59,19,2,73,14
+Nikola Mirkovic,59,29,0,61,2
+Benjamin McDriscoll,59,27,1,63,4
+Kevin Cannavò,59,20,1,76,17
+Ken Nkuba,59,18,1,75,16
+Óskar Sverrisson,59,27,0,60,1
+Richie Musaba,59,19,2,71,12
+Brayan Vera,59,21,1,73,14
+Rodel Richards,59,19,7,75,16
+Yoan Zouma,59,22,1,72,13
+Malachi Fagan-Walcott,59,18,4,82,23
+J'Neil Bennett,59,18,7,80,21
+Maarten Rieder,59,20,1,72,13
+Fabio,59,24,0,67,8
+Patrik Gunnarsson,59,19,4,73,14
+Fabricio Domínguez,59,22,0,73,14
+Pol Moreno,59,26,0,66,7
+Matty Daly,59,19,4,77,18
+Marius Hauptmann,59,20,1,74,15
+Karol Szymanski,59,27,2,61,2
+Kamal Bafounta,59,18,2,79,20
+Alaa Bakir,59,19,7,77,18
+Semi Belkahia,59,21,1,69,10
+Kristian Böhnlein,59,30,1,59,0
+Gavin Kilkenny,59,20,2,74,15
+Matti Kamenz,59,21,1,65,6
+Gavin Bazunu,59,18,11,82,23
+James Clarke,59,20,2,69,10
+Barry Maguire,59,22,0,72,13
+Yanis Begraoui,59,19,6,81,22
+Oladapo Afolayan,59,22,2,69,10
+Jack Wakely,59,19,2,77,18
+Magnus Lenes,59,24,1,66,7
+Xavier Amaechi,59,19,2,80,21
+Ben Johnson,59,20,3,75,16
+Kenny Athiu,59,27,2,60,1
+Kornelius Hansen,59,19,2,72,13
+Brady Scott,59,21,2,71,12
+Sami Kassar,59,30,0,59,0
+Jack Sparkes,59,19,2,75,16
+Joël Kiassumbua,59,28,0,62,3
+Freddie Hinds,59,21,2,70,11
+Tyler Cordner,59,21,3,71,12
+Robert Herrmann,59,26,0,60,1
+Dean Campbell,59,19,1,79,20
+Ryan Bidounga,59,23,1,70,11
+Sam Bone,59,21,1,66,7
+Dan Happe,59,21,3,74,15
+Gustavo Chará,59,24,0,68,9
+Tom Brewitt,59,23,2,63,4
+Ryan Schofield,59,20,2,76,17
+Park Won Jae,59,26,0,61,2
+Gökay Güney,59,21,0,76,17
+Marin Šverko,59,22,1,69,10
+Tyler Reid,59,22,0,64,5
+Ahmed Al Shamrani,59,26,0,62,3
+Sam Smith,59,22,1,70,11
+Leon Bätge,59,23,0,69,10
+Mateo Puerta,59,23,0,70,11
+Liam Cullen,59,21,2,73,14
+Jack Evans,59,22,3,72,13
+Yassin Fortune,59,21,2,74,15
+Lu Yao,59,27,1,61,2
+Luke Dreher,59,21,2,72,13
+Valentin Wojtkowiak,59,23,1,71,12
+George Mells,59,23,0,63,4
+Oskar Buur Rasmussen,59,22,3,69,10
+Jamie Sterry,59,24,2,66,7
+Jordan Maguire-Drew,59,22,2,70,11
+Matty Foulds,59,22,3,70,11
+Luke Armstrong,59,24,1,68,9
+Li Chao,59,32,1,59,0
+Nader Al Muwallad,59,28,0,61,2
+Sebastián Fassi,59,27,1,64,5
+Esteban Salles,59,26,2,63,4
+Johan Brattberg,59,23,0,64,5
+Zhang Lie,59,38,0,59,0
+Ming-Yang Yang,59,25,3,63,4
+Max Crocombe,59,26,1,62,3
+Matthew Dolan,59,27,1,59,0
+Ha Sung Min,59,33,0,59,0
+Ronan Murray,59,28,1,59,0
+Mihail Ivanov,59,30,0,60,1
+Ahn Seong Nam,59,36,2,59,0
+Fahad Al Shammari,59,39,0,59,0
+David Da Costa,59,34,2,59,0
+Gerardo Ruíz,59,34,1,59,0
+Chris Beardsley,59,36,0,59,0
+Michael Gurski,59,41,0,59,0
+Sam Russell,59,37,1,59,0
+Magnus Breitenmoser,58,21,0,67,9
+Dino Visser,58,31,1,59,1
+Andrea Papetti,58,18,2,74,16
+Luca Oyen,58,17,1,77,19
+Armando León,58,20,2,70,12
+Alejandro Samudio,58,21,1,68,10
+Wellington Ramírez,58,19,0,70,12
+Agustín Oliveros,58,21,0,69,11
+Rodrigo Morínigo,58,21,0,65,7
+Jefferson Arce,58,20,0,71,13
+Facundo Torres,58,20,0,70,12
+Jony Álamo,58,18,0,76,18
+Jair Cortés,58,19,0,71,13
+Edison Penilla,58,24,0,63,5
+Luis Rangel,58,18,0,69,11
+Jesse Zamudio,58,21,1,69,11
+Rey Ortiz,58,23,0,64,6
+Mirel Bolboa?a,58,31,0,59,1
+Carlos Alvarado,58,19,0,69,11
+Milton Maciel,58,19,0,73,15
+Román Martínez,58,17,0,73,15
+Juan David Mosquera,58,17,0,75,17
+Ezequiel Escobar,58,21,0,66,8
+Álex Vázquez,58,18,0,72,14
+Diego Fernández,58,17,0,72,14
+Ryoya Morishita,58,23,0,65,7
+Reo Hatate,58,22,0,67,9
+Powell Obina Obi,58,22,0,69,11
+Diogo,58,23,0,63,5
+Rubén Cabral,58,19,0,72,14
+Xavier Flores,58,18,0,71,13
+Alfred Canales,58,20,0,75,17
+Mario,58,21,1,72,14
+Mario,58,22,0,65,7
+Niklas Geyrhofer,58,20,0,69,11
+Itsuki Someno,58,18,0,73,15
+Mauricio Cabral,58,19,0,66,8
+John Mayanga Nekadio,58,18,1,76,18
+Fidel Ambríz,58,17,0,76,18
+Elias Sierra,58,18,0,75,17
+Kota Miyamoto,58,24,1,64,6
+Simon Ngapandouetnbu,58,17,4,73,15
+Maxi Pérez,58,25,0,65,7
+Jeremy Marquez,58,20,2,73,15
+Takuma Hamasaki,58,27,0,59,1
+Sebastian Müller,58,19,1,77,19
+Daniel Cabrera,58,22,2,63,5
+Andrés Barboza,58,26,2,63,5
+Nicolò Rovella,58,18,0,77,19
+Thibault Tamas,58,19,1,76,18
+Joffré Escobar,58,23,0,66,8
+Cristofer Salas,58,20,0,68,10
+Mathias Pinto,58,22,0,70,12
+Federico Ortíz,58,30,0,58,0
+Henry Quiñonez,58,27,0,60,2
+Erick Otieno,58,23,1,65,7
+Tijn Daverveld,58,20,0,72,14
+Fernando Martinez,58,26,1,61,3
+Juan Gauto,58,26,0,59,1
+Armando Vera,58,27,0,61,3
+Emanuel Hernández,58,22,0,66,8
+Jerónimo Rodríguez,58,21,2,67,9
+Alvin Jones,58,26,1,63,5
+Elias Damergy,58,17,0,71,13
+Sixto Mina,58,20,0,66,8
+Luis Franco,58,20,0,62,4
+Kenneth Córdova,58,20,0,65,7
+Carlos Mena,58,23,1,68,10
+Denilho Cleonise,58,18,1,80,22
+Óscar Millán,58,19,0,75,17
+Merveille Papela,58,19,2,76,18
+Cesar Ibañez,58,20,1,70,12
+Felipe Hernandez,58,22,0,68,10
+Jorge Vieira,58,29,0,59,1
+Ariel Cáceres,58,20,0,73,15
+Omar Labrador,58,28,0,58,0
+Yalçin Kayan,58,21,2,69,11
+Luis Castillo,58,20,1,75,17
+Zak Ruggiero,58,19,1,71,13
+Edvard Sandvik Tagseth,58,19,0,74,16
+Soner Dikmen,58,26,0,60,2
+Giuseppe D'Anca,58,20,0,74,16
+Ronan Darcy,58,19,0,78,20
+Kostas Stamoulis,58,19,1,72,14
+Konstantinos Tzolakis,58,17,2,78,20
+Guillermo Murillo,58,24,0,65,7
+Anil Gözütok,58,19,0,68,10
+Mohammed Al Dawsari,58,21,1,66,8
+Anton Rücker,58,19,2,66,8
+Arnold López,58,25,0,62,4
+Jacob Gardiner-Smith,58,23,0,67,9
+Milan Radin,58,29,0,58,0
+Omesh Patla,58,27,3,59,1
+Chapal Palan,58,29,1,58,0
+Amanpreet Varkay,58,34,1,58,0
+Palkesh Nagarajan,58,30,0,59,1
+Taranjot Agarwal,58,34,0,58,0
+Fabian Greilinger,58,19,0,76,18
+Armin Gigovic,58,18,0,70,12
+Frederik Jäkel,58,19,3,70,12
+Kai Klefisch,58,20,1,68,10
+Piotr Krawczyk,58,25,0,63,5
+Josh Martin,58,18,4,74,16
+Omer Hanin,58,22,1,70,12
+Paul-Philipp Besong,58,19,0,77,19
+Lee Gwang Yeon,58,20,1,72,14
+Jordi van Stappershoef,58,24,0,61,3
+Ismet Lushaku,58,19,2,70,12
+Maciej Wolski,58,23,1,64,6
+Maximilian Zaiser,58,21,1,71,13
+Marcel Hoffmeier,58,21,0,73,15
+Brandon Aveiro,58,18,2,77,19
+Mathieu Troonbeeckx,58,22,1,65,7
+Kastriot Imeri,58,20,1,76,18
+Nurettin Korkmaz,58,18,1,75,17
+Malcolm Barcola,58,21,0,74,16
+Tino Anjorin,58,18,5,80,22
+Ian Maatsen,58,18,8,80,22
+Andrei Sîntean,58,21,0,71,13
+Cristóbal Marín,58,26,0,61,3
+Diedie Traore,58,21,0,68,10
+Sam Tillmanson,58,33,1,58,0
+Guo Wei,58,31,0,58,0
+Juan Sebastián Serrano,58,21,0,72,14
+Lee Buchanan,58,19,2,75,17
+Yushi Mizobuchi,58,26,0,62,4
+Bruno Bertinato,58,22,1,68,10
+Noble Okello,58,20,0,76,18
+Wilmer Azofeifa,58,26,0,63,5
+Nils Stendera,58,19,3,73,15
+José Vivanco,58,22,0,71,13
+José Antonio Cobián,58,21,1,67,9
+Kristoffer Askildsen,58,19,1,78,20
+Joel King,58,19,1,75,17
+Kim Dong Hyun,58,23,1,67,9
+Santiago Giménez,58,19,4,77,19
+Joseph Hungbo,58,20,1,74,16
+Lévi Ntumba,58,19,1,74,16
+Guillermo Pozos,58,28,1,62,4
+Davide Riccardi,58,24,0,64,6
+Jan-Lukas Funke,58,21,3,74,16
+Leon Klassen,58,20,3,75,17
+Leon Schaffran,58,21,0,70,12
+Tobias Knost,58,20,2,74,16
+Javi López,58,19,2,71,13
+Choi Beom Kyung,58,23,0,69,11
+Jared Stroud,58,24,0,66,8
+Danny Musovski,58,24,0,62,4
+Gustavo Carvajal,58,20,0,78,20
+Timmy Abraham,58,19,3,76,18
+Anwar Elyounoussi,58,21,3,71,13
+Iván Bolaño,58,22,1,73,15
+Carlos Higuera,58,19,1,70,12
+Harry Hamblin,58,20,0,67,9
+Liu Huan,58,31,1,58,0
+Abdullah Majrashi,58,22,2,70,12
+Lennard Maloney,58,20,3,74,16
+Rayan Souici,58,22,2,69,11
+Ahkeem Rose,58,21,3,66,8
+Nathan Tormey,58,20,3,72,14
+Michael Lansing,58,26,0,64,6
+Danny McNamara,58,21,1,70,12
+Giles Phillips,58,23,0,68,10
+Kotaro Fujikawa,58,22,1,67,9
+Abdulaziz Majrashi,58,24,0,67,9
+Tomás Cuello,58,20,2,76,18
+Robbie McCourt,58,22,0,64,6
+Matías Ahumada Acuña,58,22,0,72,14
+Nelson Insfrán,58,25,0,66,8
+Dennis Adeniran,58,21,8,70,12
+Giuseppe Cuomo,58,22,1,71,13
+Abdulrahman Al Riou,58,26,1,62,4
+Roberto Salcedo,58,28,0,59,1
+Diego Rodríguez,58,23,1,70,12
+Ross Cunningham,58,22,2,72,14
+Yoshiaki Fujita,58,37,1,58,0
+Kei Ishikawa,58,27,1,61,3
+Huang Bowen,58,24,2,61,3
+Hubert Adamczyk,58,22,2,64,6
+Jason Lokilo,58,21,2,72,14
+James McGarry,58,22,1,66,8
+Andreas Karo,58,23,1,69,11
+Ben Tollitt,58,25,0,61,3
+Harvey Rodgers,58,23,2,64,6
+Mansour Jawhar,58,25,0,64,6
+Facundo Melivilo,58,27,0,58,0
+Mohammed Ahmed Awaji,58,25,2,64,6
+Wu Qing,58,39,0,58,0
+Gao Jiarun,58,25,0,59,1
+Daniele Borra,58,25,1,66,8
+Stuart Moore,58,25,1,63,5
+David Moyo,58,25,1,61,3
+Abdullah Al Yousef,58,30,1,58,0
+Luke Conlan,58,25,2,61,3
+Bernardo Añor,58,32,0,58,0
+Aaron McCarey,58,28,0,61,3
+Gao Leilei,58,40,3,58,0
+Zhou Yajun,58,35,0,58,0
+Ding Jie,58,33,0,58,0
+Jabo Ibehre,58,37,0,58,0
+Kevin Ellison,58,41,4,58,0
+Luciano Arriagada,57,18,0,73,16
+Jeyson Rojas,57,18,0,68,11
+Daniel Naumov,57,22,0,66,9
+Jonathan Viscosi,57,29,0,59,2
+Jamie Gullan,57,21,0,70,13
+Martín Hincapié,57,18,0,77,20
+Luis Kovacic,57,20,0,72,15
+Alexis Villalva,57,21,0,65,8
+Lucas Sanseviero,57,19,0,71,14
+Derlis Aquino,57,20,0,67,10
+Felipe Zenobio,57,20,0,70,13
+Martínez,57,21,0,71,14
+Moisés Caicedo,57,18,0,72,15
+Stefan Colovic,57,26,2,58,1
+Marcelino Nuñez,57,20,0,73,16
+Berkay Sandikçi,57,19,0,70,13
+Joshué Quiñónez,57,19,0,68,11
+Pedro Ibáñez,57,19,0,67,10
+Diego Rodríguez,57,18,1,70,13
+Ricardo Bettocchi,57,18,0,69,12
+Rockson Renteria,57,18,0,70,13
+Egzon Kryeziu,57,20,0,71,14
+Pacheco,57,19,0,74,17
+George Campbell,57,19,1,70,13
+Jakob Duhme,57,19,0,72,15
+Bismar Castro,57,18,1,74,17
+Emmanuel Carlos,57,21,0,66,9
+Maximiliano Quinteros,57,31,0,57,0
+Ryan Raposo,57,21,0,72,15
+Kaito Kamiya,57,23,0,67,10
+Jefferson Vernaza,57,19,0,69,12
+Xavier Pineda,57,20,0,65,8
+Thiago,57,23,0,66,9
+Samuel Pozo,57,23,0,63,6
+Alex Timossi Andersson,57,19,0,76,19
+Sebastián Claure,57,20,1,66,9
+Florian Krebs,57,21,1,68,11
+Ivan Mayta,57,21,0,67,10
+Gonzalo Mall,57,29,0,58,1
+Filip Stojilkovic,57,20,0,74,17
+Sultan Faqihi,57,25,0,62,5
+Gabriel Canela,57,20,0,68,11
+Daniel Pérez,57,21,0,64,7
+Ryotaro Araki,57,18,0,74,17
+Fabián Ramos,57,25,1,60,3
+Esteban Valencia,57,20,1,71,14
+Carlos Canales,57,28,1,57,0
+Peter Kioso,57,20,1,74,17
+Kian Slor,57,18,0,75,18
+Jesús Rivas,57,17,0,77,20
+Nicolás Dávila,57,24,0,62,5
+Richard Spenhay,57,22,0,65,8
+Cubero,57,20,0,66,9
+Alex Mighten,57,18,4,80,23
+Kazuya Konno,57,23,0,64,7
+Kenny Lipman,57,21,0,68,11
+Georgi Tunjov,57,19,1,74,17
+Grégory Coelho,57,20,1,65,8
+Stefano Turati,57,18,1,76,19
+Denilson Gonzáles,57,21,0,63,6
+Tiberiu Capu?a,57,22,0,68,11
+Carlos Orejuela,57,27,1,57,0
+Francisco Casanova,57,23,0,62,5
+Franklin Sasere,57,22,0,69,12
+Joiser Arias,57,21,0,62,5
+Anthony Rosell,57,25,0,60,3
+Ronald Cuellar,57,23,0,65,8
+Diego Navarro,57,27,0,58,1
+Enzo Díaz,57,28,0,57,0
+Minas Chalkiadakis,57,25,1,62,5
+Amadou Dante,57,19,1,71,14
+Jan de Boer,57,20,0,69,12
+Godson Kyeremeh,57,20,1,73,16
+Omran Ilyas,57,24,0,63,6
+Markus Fjørtoft,57,26,0,62,5
+Daichi Hayashi,57,23,3,64,7
+Bryan Mendoza,57,27,0,57,0
+Darian Males,57,19,0,77,20
+André Österholm,57,24,0,66,9
+Mousa Zoulan,57,29,0,57,0
+Nick Sullivan,57,22,0,67,10
+Stan Van Dessel,57,19,1,73,16
+Justin Roth,57,19,2,75,18
+Aboubacar Lô,57,20,2,72,15
+Bernaldo Manzano,57,30,0,57,0
+Oan Djorkaeff,57,23,1,66,9
+Nicolas Andermatt,57,24,2,62,5
+Dhwanil Singhal,57,35,0,57,0
+Dylan Dugourd,57,24,0,64,7
+Iano? Brînza,57,21,0,69,12
+Calvin Bombo,57,21,2,71,14
+Ouparine Djoco,57,22,1,67,10
+Uroš Duranovic,57,26,0,60,3
+Ryan Bouallak,57,20,1,72,15
+Raphaël Nya,57,20,2,77,20
+Artur Bogusz,57,27,1,58,1
+Piotr Pyrdol,57,21,1,71,14
+Danny Leyva,57,17,2,82,25
+Hugo Garcia,57,22,0,64,7
+Matthew Warburton,57,28,0,58,1
+Ibrahim Karamoko,57,19,1,67,10
+Roberto Malaele,57,17,0,74,17
+Mateusz Skrzypczak,57,19,0,73,16
+Dawid Szot,57,19,0,75,18
+Oliver Petersen,57,18,0,76,19
+Park Jung In,57,19,1,77,20
+Lewis Miller,57,19,2,66,9
+Jeon Jong Hyeok,57,24,1,65,8
+Jarrad Branthwaite,57,18,1,80,23
+Bertie Smith-Hylton,57,22,0,70,13
+Gastón Avila,57,18,3,79,22
+Patrick Finger,57,19,3,72,15
+Jimmy Congo,57,22,1,68,11
+Tong Xiaoxing,57,33,0,57,0
+Luis Barraza,57,23,1,67,10
+Wang Weilong,57,32,0,57,0
+Odin Thiago Holm,57,17,0,80,23
+Ísak Bergmann Jóhannesson,57,17,1,73,16
+Santeri Väänänen,57,18,1,73,16
+Alexis Gutiérrez,57,20,3,70,13
+James Rowland,57,18,3,80,23
+Jensen Weir,57,18,3,77,20
+Karol Stanek,57,20,1,67,10
+Harrison Clarke,57,19,6,76,19
+Nawaf Al Farshan,57,22,0,71,14
+Kenta Ito,57,21,1,67,10
+Remigiusz Borkala,57,21,1,66,9
+Mohammed Al Haeti,57,24,0,65,8
+Manuel Gasparini,57,18,4,79,22
+Matthias Minder,57,27,0,61,4
+Leon Brüggemeier,57,22,1,66,9
+Trae Coyle,57,19,4,75,18
+Iker Pozo,57,19,1,76,19
+Agustín Manzur,57,19,1,72,15
+Jon Russell,57,19,2,71,14
+Luca Ashby-Hammond,57,19,5,76,19
+Abdulquddus Attiah,57,23,2,67,10
+Andreas Søndergaard,57,19,1,75,18
+Kasper Thiesson Kristensen,57,20,1,69,12
+Harlem Hale,57,20,2,65,8
+Taiyo Hama,57,22,1,65,8
+Ben Folami,57,21,0,73,16
+Dylan Duncan,57,21,1,69,12
+Sebastian Silva,57,23,1,63,6
+Tyler Magloire,57,21,2,72,15
+Josh Hope,57,22,0,63,6
+Cameron McJannet,57,21,1,70,13
+Jake Vokins,57,20,3,73,16
+Owen Dale,57,21,1,72,15
+Gao Huaze,57,22,1,63,6
+Linus Obexer,57,23,0,68,11
+Tolaji Bola,57,21,7,70,13
+Robert Kakeeto,57,25,0,65,8
+Jaman Abdullah Al Dossary,57,26,0,59,2
+Rasmus Rosenqvist,57,24,0,61,4
+Will Collar,57,23,2,64,7
+Scott Allardice,57,22,2,63,6
+Giacomo Ricci,57,23,1,61,4
+Alistair Coote,57,22,4,68,11
+Bayron Oyarzo,57,25,1,64,7
+Yang Shiyuan,57,26,1,62,5
+Sun Le,57,30,1,57,0
+Wang Yaopeng,57,25,0,61,4
+Kjetil Haug,57,22,1,70,13
+Sun Guowen,57,26,0,58,1
+Jonte Smith,57,26,0,61,4
+Mark McGinley,57,30,0,58,1
+Li Benjian,57,34,1,57,0
+Alan Bennett,57,38,0,57,0
+Nicky Hunt,57,36,0,57,0
+Kyriakos Stamatopoulos,57,40,1,57,0
+Juan Camilo Suárez,56,21,0,63,7
+Ruvira,56,20,0,70,14
+Erland Tangvik,56,23,0,63,7
+Mads Sande,56,22,0,63,7
+Hassan Al Shamrani,56,29,0,57,1
+Paulos Abraham,56,18,1,71,15
+Gautier Ott,56,18,0,75,19
+Dmitry Markitesov,56,19,0,75,19
+Samuel Renel,56,18,0,72,16
+Winston Ramírez,56,19,0,69,13
+Joseph Espinoza,56,20,0,66,10
+Zakaria Atteri,56,19,0,70,14
+Patrick Seagrist,56,22,0,66,10
+Jaime Ortíz,56,21,0,64,8
+Michael Carcelén,56,23,0,64,8
+Davide Luzi,56,18,1,68,12
+Sergio Sulbarán,56,22,0,62,6
+Luis Peña,56,18,0,69,13
